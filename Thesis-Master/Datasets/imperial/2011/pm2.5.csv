@@ -1,0 +1,450 @@
+Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-03-2011,AQS,60250005,1,9.2,ug/m3 LC,38,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-06-2011,AQS,60250005,1,6.8,ug/m3 LC,28,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-09-2011,AQS,60250005,1,24.9,ug/m3 LC,78,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-12-2011,AQS,60250005,1,8.1,ug/m3 LC,34,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/18/2011,AQS,60250005,1,26.9,ug/m3 LC,82,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/21/2011,AQS,60250005,1,17,ug/m3 LC,61,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/24/2011,AQS,60250005,1,13.9,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/27/2011,AQS,60250005,1,4.7,ug/m3 LC,20,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/30/2011,AQS,60250005,1,9.4,ug/m3 LC,39,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-02-2011,AQS,60250005,1,3.9,ug/m3 LC,16,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-05-2011,AQS,60250005,1,80.3,ug/m3 LC,164,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-11-2011,AQS,60250005,1,6.5,ug/m3 LC,27,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/14/2011,AQS,60250005,1,23.3,ug/m3 LC,75,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/17/2011,AQS,60250005,1,8.3,ug/m3 LC,35,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/23/2011,AQS,60250005,1,5.8,ug/m3 LC,24,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/26/2011,AQS,60250005,1,5,ug/m3 LC,21,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-01-2011,AQS,60250005,1,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-04-2011,AQS,60250005,1,5.1,ug/m3 LC,21,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-07-2011,AQS,60250005,1,9.2,ug/m3 LC,38,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-10-2011,AQS,60250005,1,8.9,ug/m3 LC,37,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/13/2011,AQS,60250005,1,13.8,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/16/2011,AQS,60250005,1,15.2,ug/m3 LC,58,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/19/2011,AQS,60250005,1,14.2,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/22/2011,AQS,60250005,1,10.1,ug/m3 LC,42,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/25/2011,AQS,60250005,1,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/28/2011,AQS,60250005,1,9.3,ug/m3 LC,39,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/31/2011,AQS,60250005,1,7.9,ug/m3 LC,33,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-03-2011,AQS,60250005,1,9.7,ug/m3 LC,40,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-06-2011,AQS,60250005,1,9,ug/m3 LC,38,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-09-2011,AQS,60250005,1,3.2,ug/m3 LC,13,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-12-2011,AQS,60250005,1,10.7,ug/m3 LC,45,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/15/2011,AQS,60250005,1,18,ug/m3 LC,63,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/18/2011,AQS,60250005,1,17.7,ug/m3 LC,63,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/21/2011,AQS,60250005,1,6.2,ug/m3 LC,26,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/24/2011,AQS,60250005,1,12.7,ug/m3 LC,52,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/27/2011,AQS,60250005,1,14.9,ug/m3 LC,57,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/30/2011,AQS,60250005,1,5.7,ug/m3 LC,24,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-03-2011,AQS,60250005,1,8.6,ug/m3 LC,36,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-06-2011,AQS,60250005,1,15.2,ug/m3 LC,58,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-09-2011,AQS,60250005,1,7.3,ug/m3 LC,30,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/18/2011,AQS,60250005,1,5.5,ug/m3 LC,23,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/21/2011,AQS,60250005,1,14.1,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/24/2011,AQS,60250005,1,17.9,ug/m3 LC,63,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/27/2011,AQS,60250005,1,8.1,ug/m3 LC,34,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/30/2011,AQS,60250005,1,16.3,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-02-2011,AQS,60250005,1,5.1,ug/m3 LC,21,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-05-2011,AQS,60250005,1,23.3,ug/m3 LC,75,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-11-2011,AQS,60250005,1,14.3,ug/m3 LC,56,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/14/2011,AQS,60250005,1,17,ug/m3 LC,61,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/17/2011,AQS,60250005,1,18.6,ug/m3 LC,65,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/20/2011,AQS,60250005,1,16.7,ug/m3 LC,61,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/23/2011,AQS,60250005,1,32.4,ug/m3 LC,94,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/26/2011,AQS,60250005,1,9.8,ug/m3 LC,41,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/29/2011,AQS,60250005,1,18.9,ug/m3 LC,65,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-05-2011,AQS,60250005,1,16.9,ug/m3 LC,61,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-08-2011,AQS,60250005,1,13.8,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/27/2011,AQS,60250005,1,7.7,ug/m3 LC,32,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/29/2011,AQS,60250005,1,9,ug/m3 LC,38,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/30/2011,AQS,60250005,1,13.2,ug/m3 LC,53,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-05-2011,AQS,60250005,1,11.4,ug/m3 LC,48,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-07-2011,AQS,60250005,1,12.5,ug/m3 LC,52,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/13/2011,AQS,60250005,1,9.9,ug/m3 LC,41,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/19/2011,AQS,60250005,1,9.5,ug/m3 LC,40,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/25/2011,AQS,60250005,1,22.8,ug/m3 LC,74,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-09-2011,AQS,60250005,1,11.8,ug/m3 LC,49,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-12-2011,AQS,60250005,1,17.7,ug/m3 LC,63,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/18/2011,AQS,60250005,1,13.7,ug/m3 LC,54,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/21/2011,AQS,60250005,1,17.5,ug/m3 LC,62,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/24/2011,AQS,60250005,1,15.1,ug/m3 LC,57,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/27/2011,AQS,60250005,1,16.2,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-03-2011,AQS,60250005,1,20.9,ug/m3 LC,70,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-06-2011,AQS,60250005,1,6.6,ug/m3 LC,28,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-09-2011,AQS,60250005,1,4.1,ug/m3 LC,17,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-12-2011,AQS,60250005,1,7,ug/m3 LC,29,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/18/2011,AQS,60250005,1,9.5,ug/m3 LC,40,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/21/2011,AQS,60250005,1,14.2,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/24/2011,AQS,60250005,1,14.6,ug/m3 LC,56,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/27/2011,AQS,60250005,1,7.5,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/30/2011,AQS,60250005,1,17.8,ug/m3 LC,63,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-02-2011,AQS,60250005,1,7.4,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-05-2011,AQS,60250005,1,4.2,ug/m3 LC,18,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-08-2011,AQS,60250005,1,7.4,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/18/2011,AQS,60250005,1,23.2,ug/m3 LC,74,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/20/2011,AQS,60250005,1,8.7,ug/m3 LC,36,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/23/2011,AQS,60250005,1,12.4,ug/m3 LC,52,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/26/2011,AQS,60250005,1,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/29/2011,AQS,60250005,1,12.7,ug/m3 LC,52,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-02-2011,AQS,60250005,1,10.4,ug/m3 LC,43,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-05-2011,AQS,60250005,1,16.3,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-08-2011,AQS,60250005,1,10.5,ug/m3 LC,44,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-11-2011,AQS,60250005,1,44.4,ug/m3 LC,123,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/14/2011,AQS,60250005,1,28.4,ug/m3 LC,85,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/17/2011,AQS,60250005,1,18.1,ug/m3 LC,64,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/20/2011,AQS,60250005,1,14.3,ug/m3 LC,56,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/23/2011,AQS,60250005,1,20.3,ug/m3 LC,68,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/26/2011,AQS,60250005,1,23.3,ug/m3 LC,75,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/29/2011,AQS,60250005,1,25.3,ug/m3 LC,79,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-03-2011,AQS,60250005,2,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-06-2011,AQS,60250005,2,6.2,ug/m3 LC,26,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-09-2011,AQS,60250005,2,24.8,ug/m3 LC,78,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-12-2011,AQS,60250005,2,6.4,ug/m3 LC,27,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/15/2011,AQS,60250005,2,17.1,ug/m3 LC,62,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/21/2011,AQS,60250005,2,18.1,ug/m3 LC,64,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/27/2011,AQS,60250005,2,6.5,ug/m3 LC,27,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-02-2011,AQS,60250005,2,6.9,ug/m3 LC,29,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-08-2011,AQS,60250005,2,19.5,ug/m3 LC,67,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/14/2011,AQS,60250005,2,24.4,ug/m3 LC,77,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/20/2011,AQS,60250005,2,7.4,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/26/2011,AQS,60250005,2,7.8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-04-2011,AQS,60250005,2,5.2,ug/m3 LC,22,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-10-2011,AQS,60250005,2,8.3,ug/m3 LC,35,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/16/2011,AQS,60250005,2,14.9,ug/m3 LC,57,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/22/2011,AQS,60250005,2,6.4,ug/m3 LC,27,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/28/2011,AQS,60250005,2,10.9,ug/m3 LC,45,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-03-2011,AQS,60250005,2,9.3,ug/m3 LC,39,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-09-2011,AQS,60250005,2,4.2,ug/m3 LC,18,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/15/2011,AQS,60250005,2,17.1,ug/m3 LC,62,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/21/2011,AQS,60250005,2,9.4,ug/m3 LC,39,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-03-2011,AQS,60250005,2,9.1,ug/m3 LC,38,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-09-2011,AQS,60250005,2,7.3,ug/m3 LC,30,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/15/2011,AQS,60250005,2,10.7,ug/m3 LC,45,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/24/2011,AQS,60250005,2,20.8,ug/m3 LC,69,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/27/2011,AQS,60250005,2,8.1,ug/m3 LC,34,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-08-2011,AQS,60250005,2,7.7,ug/m3 LC,32,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/14/2011,AQS,60250005,2,16.3,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/20/2011,AQS,60250005,2,14.2,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/26/2011,AQS,60250005,2,8.5,ug/m3 LC,35,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-02-2011,AQS,60250005,2,11.7,ug/m3 LC,49,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-08-2011,AQS,60250005,2,13.4,ug/m3 LC,54,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/27/2011,AQS,60250005,2,7.4,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/29/2011,AQS,60250005,2,9.4,ug/m3 LC,39,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-01-2011,AQS,60250005,2,10.8,ug/m3 LC,45,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-03-2011,AQS,60250005,2,6.7,ug/m3 LC,28,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-07-2011,AQS,60250005,2,11.1,ug/m3 LC,46,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-10-2011,AQS,60250005,2,8.4,ug/m3 LC,35,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/13/2011,AQS,60250005,2,9.7,ug/m3 LC,40,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/19/2011,AQS,60250005,2,9.5,ug/m3 LC,40,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/31/2011,AQS,60250005,2,7.1,ug/m3 LC,30,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-06-2011,AQS,60250005,2,7.5,ug/m3 LC,31,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-12-2011,AQS,60250005,2,16.2,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/18/2011,AQS,60250005,2,14.7,ug/m3 LC,56,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/24/2011,AQS,60250005,2,16.7,ug/m3 LC,61,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/30/2011,AQS,60250005,2,21.7,ug/m3 LC,71,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-12-2011,AQS,60250005,2,7.6,ug/m3 LC,32,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/18/2011,AQS,60250005,2,10,ug/m3 LC,42,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/24/2011,AQS,60250005,2,13.9,ug/m3 LC,55,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/30/2011,AQS,60250005,2,17.4,ug/m3 LC,62,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-05-2011,AQS,60250005,2,3.7,ug/m3 LC,15,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-11-2011,AQS,60250005,2,15.1,ug/m3 LC,57,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/17/2011,AQS,60250005,2,16.3,ug/m3 LC,60,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/23/2011,AQS,60250005,2,12.6,ug/m3 LC,52,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/29/2011,AQS,60250005,2,14.3,ug/m3 LC,56,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-05-2011,AQS,60250005,2,18.2,ug/m3 LC,64,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-11-2011,AQS,60250005,2,39,ug/m3 LC,110,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/17/2011,AQS,60250005,2,19.1,ug/m3 LC,66,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/23/2011,AQS,60250005,2,20.3,ug/m3 LC,68,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/29/2011,AQS,60250005,2,27.2,ug/m3 LC,83,Calexico-Ethel Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-03-2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-09-2011,AQS,60250005,5,23,ug/m3 LC,74,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-12-2011,AQS,60250005,5,9,ug/m3 LC,38,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/18/2011,AQS,60250005,5,24,ug/m3 LC,76,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/27/2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-02-2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-08-2011,AQS,60250005,5,13,ug/m3 LC,53,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/14/2011,AQS,60250005,5,24,ug/m3 LC,76,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/20/2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/26/2011,AQS,60250005,5,5,ug/m3 LC,21,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-01-2011,AQS,60250005,5,11,ug/m3 LC,46,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-10-2011,AQS,60250005,5,12,ug/m3 LC,50,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/16/2011,AQS,60250005,5,15,ug/m3 LC,57,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/22/2011,AQS,60250005,5,6,ug/m3 LC,25,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/28/2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-03-2011,AQS,60250005,5,6,ug/m3 LC,25,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-09-2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-12-2011,AQS,60250005,5,13,ug/m3 LC,53,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/21/2011,AQS,60250005,5,3,ug/m3 LC,13,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/27/2011,AQS,60250005,5,15,ug/m3 LC,57,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-03-2011,AQS,60250005,5,10,ug/m3 LC,42,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-09-2011,AQS,60250005,5,6,ug/m3 LC,25,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/15/2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/21/2011,AQS,60250005,5,12,ug/m3 LC,50,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/24/2011,AQS,60250005,5,18,ug/m3 LC,63,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-02-2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-08-2011,AQS,60250005,5,5,ug/m3 LC,21,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/14/2011,AQS,60250005,5,16,ug/m3 LC,59,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/20/2011,AQS,60250005,5,18,ug/m3 LC,63,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/26/2011,AQS,60250005,5,7,ug/m3 LC,29,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/29/2011,AQS,60250005,5,11,ug/m3 LC,46,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-05-2011,AQS,60250005,5,14,ug/m3 LC,55,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/27/2011,AQS,60250005,5,7,ug/m3 LC,29,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/31/2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-02-2011,AQS,60250005,5,7,ug/m3 LC,29,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-04-2011,AQS,60250005,5,17,ug/m3 LC,61,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-07-2011,AQS,60250005,5,11,ug/m3 LC,46,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/13/2011,AQS,60250005,5,10,ug/m3 LC,42,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/16/2011,AQS,60250005,5,11,ug/m3 LC,46,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/25/2011,AQS,60250005,5,16,ug/m3 LC,59,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/31/2011,AQS,60250005,5,4,ug/m3 LC,17,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-06-2011,AQS,60250005,5,6,ug/m3 LC,25,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/22/2011,AQS,60250005,5,14,ug/m3 LC,55,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/24/2011,AQS,60250005,5,12,ug/m3 LC,50,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/27/2011,AQS,60250005,5,15,ug/m3 LC,57,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/29/2011,AQS,60250005,5,11,ug/m3 LC,46,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-06-2011,AQS,60250005,5,15,ug/m3 LC,57,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-12-2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/18/2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/24/2011,AQS,60250005,5,13,ug/m3 LC,53,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/30/2011,AQS,60250005,5,13,ug/m3 LC,53,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-07-2011,AQS,60250005,5,7,ug/m3 LC,29,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/15/2011,AQS,60250005,5,9,ug/m3 LC,38,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/17/2011,AQS,60250005,5,15,ug/m3 LC,57,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/20/2011,AQS,60250005,5,8,ug/m3 LC,33,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/29/2011,AQS,60250005,5,12,ug/m3 LC,50,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-05-2011,AQS,60250005,5,16,ug/m3 LC,59,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-11-2011,AQS,60250005,5,37,ug/m3 LC,105,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/17/2011,AQS,60250005,5,19,ug/m3 LC,66,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/20/2011,AQS,60250005,5,14,ug/m3 LC,55,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/29/2011,AQS,60250005,5,24,ug/m3 LC,76,Calexico-Ethel Street,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-06-2011,AQS,60250007,1,7.2,ug/m3 LC,30,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/15/2011,AQS,60250007,1,4.5,ug/m3 LC,19,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/19/2011,AQS,60250007,1,12.5,ug/m3 LC,52,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/21/2011,AQS,60250007,1,6.1,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/27/2011,AQS,60250007,1,3.3,ug/m3 LC,14,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-02-2011,AQS,60250007,1,2.6,ug/m3 LC,11,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-05-2011,AQS,60250007,1,28,ug/m3 LC,84,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-08-2011,AQS,60250007,1,5.2,ug/m3 LC,22,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-11-2011,AQS,60250007,1,7.7,ug/m3 LC,32,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/14/2011,AQS,60250007,1,7.5,ug/m3 LC,31,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/17/2011,AQS,60250007,1,2.2,ug/m3 LC,9,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/20/2011,AQS,60250007,1,2.1,ug/m3 LC,9,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/23/2011,AQS,60250007,1,5.3,ug/m3 LC,22,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/26/2011,AQS,60250007,1,2,ug/m3 LC,8,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-01-2011,AQS,60250007,1,4.5,ug/m3 LC,19,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-04-2011,AQS,60250007,1,5.4,ug/m3 LC,23,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-07-2011,AQS,60250007,1,3.1,ug/m3 LC,13,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-10-2011,AQS,60250007,1,4.2,ug/m3 LC,18,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/13/2011,AQS,60250007,1,6.5,ug/m3 LC,27,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/16/2011,AQS,60250007,1,5.4,ug/m3 LC,23,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/19/2011,AQS,60250007,1,8.6,ug/m3 LC,36,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/22/2011,AQS,60250007,1,2.3,ug/m3 LC,10,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/25/2011,AQS,60250007,1,2.4,ug/m3 LC,10,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/28/2011,AQS,60250007,1,4.3,ug/m3 LC,18,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-03-2011,AQS,60250007,1,5.5,ug/m3 LC,23,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-06-2011,AQS,60250007,1,4.8,ug/m3 LC,20,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-09-2011,AQS,60250007,1,1.9,ug/m3 LC,8,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-12-2011,AQS,60250007,1,6,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/15/2011,AQS,60250007,1,12.7,ug/m3 LC,52,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/18/2011,AQS,60250007,1,6.5,ug/m3 LC,27,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/21/2011,AQS,60250007,1,4.7,ug/m3 LC,20,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/24/2011,AQS,60250007,1,3.9,ug/m3 LC,16,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/27/2011,AQS,60250007,1,6.8,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/30/2011,AQS,60250007,1,2.4,ug/m3 LC,10,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-03-2011,AQS,60250007,1,5.1,ug/m3 LC,21,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-06-2011,AQS,60250007,1,8,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-09-2011,AQS,60250007,1,6.3,ug/m3 LC,26,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-12-2011,AQS,60250007,1,6,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/15/2011,AQS,60250007,1,4.9,ug/m3 LC,20,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/18/2011,AQS,60250007,1,6.7,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/21/2011,AQS,60250007,1,5.7,ug/m3 LC,24,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/24/2011,AQS,60250007,1,8.1,ug/m3 LC,34,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/27/2011,AQS,60250007,1,5.9,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/30/2011,AQS,60250007,1,4.8,ug/m3 LC,20,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-02-2011,AQS,60250007,1,4.1,ug/m3 LC,17,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-05-2011,AQS,60250007,1,17.7,ug/m3 LC,63,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-08-2011,AQS,60250007,1,5,ug/m3 LC,21,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-11-2011,AQS,60250007,1,8.6,ug/m3 LC,36,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/14/2011,AQS,60250007,1,9.9,ug/m3 LC,41,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/20/2011,AQS,60250007,1,7,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/23/2011,AQS,60250007,1,14.9,ug/m3 LC,57,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/26/2011,AQS,60250007,1,3.9,ug/m3 LC,16,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/29/2011,AQS,60250007,1,5.5,ug/m3 LC,23,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-02-2011,AQS,60250007,1,6.8,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-08-2011,AQS,60250007,1,10.4,ug/m3 LC,43,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/14/2011,AQS,60250007,1,6.7,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/17/2011,AQS,60250007,1,6.9,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/20/2011,AQS,60250007,1,6,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/23/2011,AQS,60250007,1,7.4,ug/m3 LC,31,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/26/2011,AQS,60250007,1,8.2,ug/m3 LC,34,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/29/2011,AQS,60250007,1,7.6,ug/m3 LC,32,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-01-2011,AQS,60250007,1,8,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-04-2011,AQS,60250007,1,6.3,ug/m3 LC,26,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-07-2011,AQS,60250007,1,8.5,ug/m3 LC,35,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-10-2011,AQS,60250007,1,6.3,ug/m3 LC,26,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/13/2011,AQS,60250007,1,6.3,ug/m3 LC,26,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/16/2011,AQS,60250007,1,8.3,ug/m3 LC,35,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/19/2011,AQS,60250007,1,7.5,ug/m3 LC,31,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/22/2011,AQS,60250007,1,6.8,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/25/2011,AQS,60250007,1,9.9,ug/m3 LC,41,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/28/2011,AQS,60250007,1,37,ug/m3 LC,105,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/31/2011,AQS,60250007,1,2.1,ug/m3 LC,9,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-03-2011,AQS,60250007,1,8.7,ug/m3 LC,36,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-06-2011,AQS,60250007,1,6,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-09-2011,AQS,60250007,1,6.8,ug/m3 LC,28,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-12-2011,AQS,60250007,1,14,ug/m3 LC,55,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/15/2011,AQS,60250007,1,11.1,ug/m3 LC,46,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/18/2011,AQS,60250007,1,10,ug/m3 LC,42,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/21/2011,AQS,60250007,1,7.9,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/24/2011,AQS,60250007,1,6.1,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/27/2011,AQS,60250007,1,8,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/30/2011,AQS,60250007,1,6.3,ug/m3 LC,26,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-03-2011,AQS,60250007,1,5.6,ug/m3 LC,23,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-06-2011,AQS,60250007,1,5,ug/m3 LC,21,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-09-2011,AQS,60250007,1,3.2,ug/m3 LC,13,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-12-2011,AQS,60250007,1,5.2,ug/m3 LC,22,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/15/2011,AQS,60250007,1,8.7,ug/m3 LC,36,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/18/2011,AQS,60250007,1,7,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/21/2011,AQS,60250007,1,6.9,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/24/2011,AQS,60250007,1,7.8,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/27/2011,AQS,60250007,1,5.9,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/30/2011,AQS,60250007,1,7,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-02-2011,AQS,60250007,1,4.5,ug/m3 LC,19,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-05-2011,AQS,60250007,1,3,ug/m3 LC,13,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-08-2011,AQS,60250007,1,7,ug/m3 LC,29,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-11-2011,AQS,60250007,1,9.9,ug/m3 LC,41,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/14/2011,AQS,60250007,1,7.9,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/18/2011,AQS,60250007,1,7.3,ug/m3 LC,30,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/20/2011,AQS,60250007,1,1.7,ug/m3 LC,7,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/23/2011,AQS,60250007,1,5.9,ug/m3 LC,25,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/26/2011,AQS,60250007,1,8.2,ug/m3 LC,34,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/29/2011,AQS,60250007,1,7.8,ug/m3 LC,33,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-02-2011,AQS,60250007,1,4.4,ug/m3 LC,18,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-05-2011,AQS,60250007,1,4,ug/m3 LC,17,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-08-2011,AQS,60250007,1,13,ug/m3 LC,53,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-11-2011,AQS,60250007,1,10.2,ug/m3 LC,43,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/14/2011,AQS,60250007,1,13.2,ug/m3 LC,53,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/17/2011,AQS,60250007,1,8.1,ug/m3 LC,34,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/20/2011,AQS,60250007,1,9.3,ug/m3 LC,39,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/23/2011,AQS,60250007,1,2.6,ug/m3 LC,11,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/26/2011,AQS,60250007,1,9.7,ug/m3 LC,40,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/29/2011,AQS,60250007,1,13.6,ug/m3 LC,54,Brawley-220 Main Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-02-2011,AQS,60251003,1,8.3,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-06-2011,AQS,60251003,1,4.4,ug/m3 LC,18,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-09-2011,AQS,60251003,1,12.7,ug/m3 LC,52,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-12-2011,AQS,60251003,1,1.8,ug/m3 LC,8,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/15/2011,AQS,60251003,1,2.5,ug/m3 LC,10,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/18/2011,AQS,60251003,1,10.9,ug/m3 LC,45,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/21/2011,AQS,60251003,1,5,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/24/2011,AQS,60251003,1,2.8,ug/m3 LC,12,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/27/2011,AQS,60251003,1,3.2,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/30/2011,AQS,60251003,1,11.4,ug/m3 LC,48,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-02-2011,AQS,60251003,1,2.1,ug/m3 LC,9,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-05-2011,AQS,60251003,1,36.9,ug/m3 LC,104,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-08-2011,AQS,60251003,1,5.4,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-11-2011,AQS,60251003,1,2.7,ug/m3 LC,11,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/14/2011,AQS,60251003,1,12.3,ug/m3 LC,51,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/17/2011,AQS,60251003,1,16.9,ug/m3 LC,61,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/20/2011,AQS,60251003,1,2.4,ug/m3 LC,10,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/23/2011,AQS,60251003,1,4.5,ug/m3 LC,19,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/26/2011,AQS,60251003,1,3.5,ug/m3 LC,15,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-01-2011,AQS,60251003,1,3.8,ug/m3 LC,16,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-04-2011,AQS,60251003,1,3.6,ug/m3 LC,15,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-07-2011,AQS,60251003,1,5.7,ug/m3 LC,24,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-10-2011,AQS,60251003,1,3.3,ug/m3 LC,14,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/13/2011,AQS,60251003,1,6.7,ug/m3 LC,28,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/16/2011,AQS,60251003,1,4,ug/m3 LC,17,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/19/2011,AQS,60251003,1,8.6,ug/m3 LC,36,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/22/2011,AQS,60251003,1,2.1,ug/m3 LC,9,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/25/2011,AQS,60251003,1,3.2,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/28/2011,AQS,60251003,1,5.5,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-03-2011,AQS,60251003,1,5,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-06-2011,AQS,60251003,1,7.1,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-09-2011,AQS,60251003,1,1.5,ug/m3 LC,6,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-12-2011,AQS,60251003,1,5.6,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/15/2011,AQS,60251003,1,12.2,ug/m3 LC,51,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/18/2011,AQS,60251003,1,7.9,ug/m3 LC,33,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/21/2011,AQS,60251003,1,3.2,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/24/2011,AQS,60251003,1,2.3,ug/m3 LC,10,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/27/2011,AQS,60251003,1,6.2,ug/m3 LC,26,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/30/2011,AQS,60251003,1,2.9,ug/m3 LC,12,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-03-2011,AQS,60251003,1,5,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-06-2011,AQS,60251003,1,9.2,ug/m3 LC,38,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-09-2011,AQS,60251003,1,3.7,ug/m3 LC,15,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-12-2011,AQS,60251003,1,8.3,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/15/2011,AQS,60251003,1,5.4,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/18/2011,AQS,60251003,1,3.9,ug/m3 LC,16,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/21/2011,AQS,60251003,1,7.6,ug/m3 LC,32,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/24/2011,AQS,60251003,1,8.7,ug/m3 LC,36,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/27/2011,AQS,60251003,1,5.1,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/30/2011,AQS,60251003,1,8.4,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-02-2011,AQS,60251003,1,3.3,ug/m3 LC,14,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-05-2011,AQS,60251003,1,29.4,ug/m3 LC,87,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-08-2011,AQS,60251003,1,5.5,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-11-2011,AQS,60251003,1,9.3,ug/m3 LC,39,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/14/2011,AQS,60251003,1,15.7,ug/m3 LC,59,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/17/2011,AQS,60251003,1,8,ug/m3 LC,33,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/20/2011,AQS,60251003,1,7.3,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/23/2011,AQS,60251003,1,17.7,ug/m3 LC,63,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/26/2011,AQS,60251003,1,4.4,ug/m3 LC,18,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/29/2011,AQS,60251003,1,5.8,ug/m3 LC,24,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-02-2011,AQS,60251003,1,9.8,ug/m3 LC,41,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-05-2011,AQS,60251003,1,8.8,ug/m3 LC,37,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-08-2011,AQS,60251003,1,9,ug/m3 LC,38,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-11-2011,AQS,60251003,1,6.2,ug/m3 LC,26,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/14/2011,AQS,60251003,1,6.1,ug/m3 LC,25,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/17/2011,AQS,60251003,1,6.7,ug/m3 LC,28,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/20/2011,AQS,60251003,1,6.5,ug/m3 LC,27,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/23/2011,AQS,60251003,1,6,ug/m3 LC,25,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/26/2011,AQS,60251003,1,7.1,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/29/2011,AQS,60251003,1,7.3,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-04-2011,AQS,60251003,1,9,ug/m3 LC,38,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-07-2011,AQS,60251003,1,8.4,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-10-2011,AQS,60251003,1,6.8,ug/m3 LC,28,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/13/2011,AQS,60251003,1,6.5,ug/m3 LC,27,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/16/2011,AQS,60251003,1,8.7,ug/m3 LC,36,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/19/2011,AQS,60251003,1,7,ug/m3 LC,29,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/22/2011,AQS,60251003,1,6.6,ug/m3 LC,28,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/25/2011,AQS,60251003,1,11.3,ug/m3 LC,47,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/28/2011,AQS,60251003,1,54.4,ug/m3 LC,148,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/31/2011,AQS,60251003,1,1.6,ug/m3 LC,7,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-03-2011,AQS,60251003,1,8.4,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-06-2011,AQS,60251003,1,5.2,ug/m3 LC,22,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-09-2011,AQS,60251003,1,7.1,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-12-2011,AQS,60251003,1,11.4,ug/m3 LC,48,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/15/2011,AQS,60251003,1,10.9,ug/m3 LC,45,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/18/2011,AQS,60251003,1,8.7,ug/m3 LC,36,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/21/2011,AQS,60251003,1,8.3,ug/m3 LC,35,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/24/2011,AQS,60251003,1,7.1,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/27/2011,AQS,60251003,1,7.3,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/30/2011,AQS,60251003,1,6.7,ug/m3 LC,28,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-03-2011,AQS,60251003,1,6.5,ug/m3 LC,27,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-06-2011,AQS,60251003,1,3,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-09-2011,AQS,60251003,1,2.7,ug/m3 LC,11,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-12-2011,AQS,60251003,1,4,ug/m3 LC,17,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/15/2011,AQS,60251003,1,9.1,ug/m3 LC,38,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/18/2011,AQS,60251003,1,3.9,ug/m3 LC,16,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/21/2011,AQS,60251003,1,8.1,ug/m3 LC,34,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/24/2011,AQS,60251003,1,8.2,ug/m3 LC,34,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/27/2011,AQS,60251003,1,5,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/30/2011,AQS,60251003,1,5.5,ug/m3 LC,23,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-02-2011,AQS,60251003,1,3.7,ug/m3 LC,15,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-05-2011,AQS,60251003,1,3,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-08-2011,AQS,60251003,1,4.5,ug/m3 LC,19,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-11-2011,AQS,60251003,1,9.3,ug/m3 LC,39,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/14/2011,AQS,60251003,1,7.6,ug/m3 LC,32,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/18/2011,AQS,60251003,1,10.5,ug/m3 LC,44,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/20/2011,AQS,60251003,1,2.3,ug/m3 LC,10,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/23/2011,AQS,60251003,1,4.5,ug/m3 LC,19,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/26/2011,AQS,60251003,1,4.6,ug/m3 LC,19,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/29/2011,AQS,60251003,1,5.9,ug/m3 LC,25,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-02-2011,AQS,60251003,1,4.9,ug/m3 LC,20,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-05-2011,AQS,60251003,1,3.1,ug/m3 LC,13,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-08-2011,AQS,60251003,1,5,ug/m3 LC,21,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-11-2011,AQS,60251003,1,13.7,ug/m3 LC,54,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/14/2011,AQS,60251003,1,13.8,ug/m3 LC,55,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/17/2011,AQS,60251003,1,13,ug/m3 LC,53,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/20/2011,AQS,60251003,1,10.4,ug/m3 LC,43,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/23/2011,AQS,60251003,1,2.9,ug/m3 LC,12,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/26/2011,AQS,60251003,1,7.2,ug/m3 LC,30,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/29/2011,AQS,60251003,1,11.5,ug/m3 LC,48,El Centro-9th Street,1,100,88101,PM2.5 - Local Conditions,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306

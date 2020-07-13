@@ -1,0 +1,1000 @@
+Date,Source,Site ID,POC,Daily Mean PM10 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-05-2014,AQS,60250005,1,44,ug/m3 SC,41,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-11-2014,AQS,60250005,1,91,ug/m3 SC,69,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/17/2014,AQS,60250005,1,54,ug/m3 SC,50,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/23/2014,AQS,60250005,1,131,ug/m3 SC,89,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/29/2014,AQS,60250005,1,94,ug/m3 SC,70,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-04-2014,AQS,60250005,1,30,ug/m3 SC,28,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-10-2014,AQS,60250005,1,41,ug/m3 SC,38,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/16/2014,AQS,60250005,1,99,ug/m3 SC,73,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/22/2014,AQS,60250005,1,71,ug/m3 SC,59,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/28/2014,AQS,60250005,1,106,ug/m3 SC,76,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/27/2014,AQS,60250005,1,38,ug/m3 SC,35,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/30/2014,AQS,60250005,1,64,ug/m3 SC,55,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-05-2014,AQS,60250005,1,24,ug/m3 SC,22,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-11-2014,AQS,60250005,1,54,ug/m3 SC,50,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/17/2014,AQS,60250005,1,42,ug/m3 SC,39,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/23/2014,AQS,60250005,1,43,ug/m3 SC,40,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/29/2014,AQS,60250005,1,79,ug/m3 SC,63,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-05-2014,AQS,60250005,1,86,ug/m3 SC,66,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-11-2014,AQS,60250005,1,126,ug/m3 SC,86,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/17/2014,AQS,60250005,1,35,ug/m3 SC,32,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/23/2014,AQS,60250005,1,36,ug/m3 SC,33,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/29/2014,AQS,60250005,1,54,ug/m3 SC,50,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-04-2014,AQS,60250005,1,30,ug/m3 SC,28,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/17/2014,AQS,60250005,1,49,ug/m3 SC,45,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/19/2014,AQS,60250005,1,43,ug/m3 SC,40,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/22/2014,AQS,60250005,1,39,ug/m3 SC,36,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/28/2014,AQS,60250005,1,44,ug/m3 SC,41,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-04-2014,AQS,60250005,1,24,ug/m3 SC,22,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-10-2014,AQS,60250005,1,27,ug/m3 SC,25,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/16/2014,AQS,60250005,1,43,ug/m3 SC,40,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/22/2014,AQS,60250005,1,33,ug/m3 SC,31,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/28/2014,AQS,60250005,1,42,ug/m3 SC,39,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-03-2014,AQS,60250005,1,47,ug/m3 SC,44,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-09-2014,AQS,60250005,1,26,ug/m3 SC,24,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/15/2014,AQS,60250005,1,54,ug/m3 SC,50,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/21/2014,AQS,60250005,1,25,ug/m3 SC,23,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/27/2014,AQS,60250005,1,30,ug/m3 SC,28,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-02-2014,AQS,60250005,1,35,ug/m3 SC,32,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-08-2014,AQS,60250005,1,24,ug/m3 SC,22,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/14/2014,AQS,60250005,1,45,ug/m3 SC,42,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/20/2014,AQS,60250005,1,33,ug/m3 SC,31,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/26/2014,AQS,60250005,1,25,ug/m3 SC,23,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-04-2014,AQS,60250005,1,56,ug/m3 SC,51,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-08-2014,AQS,60250005,1,23,ug/m3 SC,21,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/14/2014,AQS,60250005,1,60,ug/m3 SC,53,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/20/2014,AQS,60250005,1,32,ug/m3 SC,30,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/26/2014,AQS,60250005,1,21,ug/m3 SC,19,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-04-2014,AQS,60250005,1,33,ug/m3 SC,31,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-07-2014,AQS,60250005,1,63,ug/m3 SC,55,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/13/2014,AQS,60250005,1,49,ug/m3 SC,45,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/19/2014,AQS,60250005,1,85,ug/m3 SC,66,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/25/2014,AQS,60250005,1,51,ug/m3 SC,47,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-01-2014,AQS,60250005,1,37,ug/m3 SC,34,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-07-2014,AQS,60250005,1,11,ug/m3 SC,10,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/13/2014,AQS,60250005,1,7,ug/m3 SC,6,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/19/2014,AQS,60250005,1,40,ug/m3 SC,37,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/25/2014,AQS,60250005,1,45,ug/m3 SC,42,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/31/2014,AQS,60250005,1,28,ug/m3 SC,26,Calexico-Ethel Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-05-2014,AQS,60250007,1,30,ug/m3 SC,28,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-11-2014,AQS,60250007,1,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/17/2014,AQS,60250007,1,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/29/2014,AQS,60250007,1,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-04-2014,AQS,60250007,1,19,ug/m3 SC,18,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-10-2014,AQS,60250007,1,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/16/2014,AQS,60250007,1,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/22/2014,AQS,60250007,1,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/28/2014,AQS,60250007,1,126,ug/m3 SC,86,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-06-2014,AQS,60250007,1,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-12-2014,AQS,60250007,1,26,ug/m3 SC,24,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/18/2014,AQS,60250007,1,77,ug/m3 SC,62,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/24/2014,AQS,60250007,1,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/30/2014,AQS,60250007,1,220,ug/m3 SC,133,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-05-2014,AQS,60250007,1,49,ug/m3 SC,45,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-11-2014,AQS,60250007,1,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/17/2014,AQS,60250007,1,38,ug/m3 SC,35,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/23/2014,AQS,60250007,1,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/29/2014,AQS,60250007,1,89,ug/m3 SC,68,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-05-2014,AQS,60250007,1,269,ug/m3 SC,158,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-11-2014,AQS,60250007,1,127,ug/m3 SC,87,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/17/2014,AQS,60250007,1,81,ug/m3 SC,64,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/23/2014,AQS,60250007,1,30,ug/m3 SC,28,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/29/2014,AQS,60250007,1,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-04-2014,AQS,60250007,1,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/14/2014,AQS,60250007,1,64,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/17/2014,AQS,60250007,1,88,ug/m3 SC,67,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/22/2014,AQS,60250007,1,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/28/2014,AQS,60250007,1,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-04-2014,AQS,60250007,1,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-10-2014,AQS,60250007,1,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/16/2014,AQS,60250007,1,148,ug/m3 SC,97,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/22/2014,AQS,60250007,1,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/28/2014,AQS,60250007,1,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-03-2014,AQS,60250007,1,21,ug/m3 SC,19,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/15/2014,AQS,60250007,1,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/27/2014,AQS,60250007,1,19,ug/m3 SC,18,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-02-2014,AQS,60250007,1,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-08-2014,AQS,60250007,1,22,ug/m3 SC,20,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/20/2014,AQS,60250007,1,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/26/2014,AQS,60250007,1,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-02-2014,AQS,60250007,1,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-08-2014,AQS,60250007,1,14,ug/m3 SC,13,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/14/2014,AQS,60250007,1,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/20/2014,AQS,60250007,1,38,ug/m3 SC,35,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/26/2014,AQS,60250007,1,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-01-2014,AQS,60250007,1,471,ug/m3 SC,359,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-07-2014,AQS,60250007,1,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/13/2014,AQS,60250007,1,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/19/2014,AQS,60250007,1,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-01-2014,AQS,60250007,1,19,ug/m3 SC,18,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/25/2014,AQS,60250007,1,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-01-2014,AQS,60250007,3,70,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-02-2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-03-2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-04-2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-05-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-06-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-07-2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-08-2014,AQS,60250007,3,65,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-09-2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-10-2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-11-2014,AQS,60250007,3,61,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-12-2014,AQS,60250007,3,70,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/13/2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/14/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/15/2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/16/2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/17/2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/18/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/19/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/20/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/21/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/22/2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/23/2014,AQS,60250007,3,79,ug/m3 SC,63,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/24/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/25/2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/26/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/27/2014,AQS,60250007,3,66,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/28/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/29/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/30/2014,AQS,60250007,3,111,ug/m3 SC,79,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01/31/2014,AQS,60250007,3,198,ug/m3 SC,122,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-01-2014,AQS,60250007,3,31,ug/m3 SC,29,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-02-2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-03-2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-04-2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-05-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-06-2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-07-2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-08-2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-09-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-10-2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-11-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02-12-2014,AQS,60250007,3,52,ug/m3 SC,48,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/13/2014,AQS,60250007,3,65,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/14/2014,AQS,60250007,3,82,ug/m3 SC,64,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/16/2014,AQS,60250007,3,82,ug/m3 SC,64,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/17/2014,AQS,60250007,3,61,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/18/2014,AQS,60250007,3,67,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/19/2014,AQS,60250007,3,73,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/20/2014,AQS,60250007,3,64,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/21/2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/22/2014,AQS,60250007,3,73,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/23/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/24/2014,AQS,60250007,3,74,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/25/2014,AQS,60250007,3,67,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/26/2014,AQS,60250007,3,71,ug/m3 SC,59,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/27/2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+02/28/2014,AQS,60250007,3,149,ug/m3 SC,98,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-01-2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-02-2014,AQS,60250007,3,19,ug/m3 SC,18,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-03-2014,AQS,60250007,3,27,ug/m3 SC,25,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-04-2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-05-2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-06-2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-07-2014,AQS,60250007,3,73,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-08-2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-09-2014,AQS,60250007,3,30,ug/m3 SC,28,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-10-2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-11-2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03-12-2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/13/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/14/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/15/2014,AQS,60250007,3,49,ug/m3 SC,45,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/16/2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/17/2014,AQS,60250007,3,190,ug/m3 SC,118,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/18/2014,AQS,60250007,3,113,ug/m3 SC,80,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/19/2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/20/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/21/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/22/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/23/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/24/2014,AQS,60250007,3,69,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/25/2014,AQS,60250007,3,137,ug/m3 SC,92,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/26/2014,AQS,60250007,3,374,ug/m3 SC,228,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/27/2014,AQS,60250007,3,94,ug/m3 SC,70,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/28/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/29/2014,AQS,60250007,3,57,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/30/2014,AQS,60250007,3,150,ug/m3 SC,98,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+03/31/2014,AQS,60250007,3,106,ug/m3 SC,76,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-01-2014,AQS,60250007,3,160,ug/m3 SC,103,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-02-2014,AQS,60250007,3,137,ug/m3 SC,92,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-03-2014,AQS,60250007,3,30,ug/m3 SC,28,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-04-2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-05-2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-06-2014,AQS,60250007,3,28,ug/m3 SC,26,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-07-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-08-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-09-2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-10-2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-11-2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04-12-2014,AQS,60250007,3,103,ug/m3 SC,75,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/13/2014,AQS,60250007,3,166,ug/m3 SC,106,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/14/2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/15/2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/16/2014,AQS,60250007,3,57,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/17/2014,AQS,60250007,3,52,ug/m3 SC,48,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/18/2014,AQS,60250007,3,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/19/2014,AQS,60250007,3,38,ug/m3 SC,35,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/20/2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/21/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/22/2014,AQS,60250007,3,131,ug/m3 SC,89,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/23/2014,AQS,60250007,3,81,ug/m3 SC,64,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/24/2014,AQS,60250007,3,75,ug/m3 SC,61,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/25/2014,AQS,60250007,3,184,ug/m3 SC,115,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/26/2014,AQS,60250007,3,312,ug/m3 SC,179,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/27/2014,AQS,60250007,3,23,ug/m3 SC,21,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/28/2014,AQS,60250007,3,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/29/2014,AQS,60250007,3,141,ug/m3 SC,94,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+04/30/2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-01-2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-02-2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-03-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-04-2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-05-2014,AQS,60250007,3,222,ug/m3 SC,134,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-06-2014,AQS,60250007,3,438,ug/m3 SC,317,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-07-2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-08-2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-09-2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-10-2014,AQS,60250007,3,104,ug/m3 SC,75,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-11-2014,AQS,60250007,3,135,ug/m3 SC,91,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05-12-2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/13/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/14/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/15/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/16/2014,AQS,60250007,3,78,ug/m3 SC,62,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/17/2014,AQS,60250007,3,113,ug/m3 SC,80,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/18/2014,AQS,60250007,3,100,ug/m3 SC,73,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/19/2014,AQS,60250007,3,130,ug/m3 SC,88,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/20/2014,AQS,60250007,3,250,ug/m3 SC,148,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/21/2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/22/2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/23/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/24/2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/25/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/26/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/27/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/28/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/29/2014,AQS,60250007,3,61,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/30/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+05/31/2014,AQS,60250007,3,69,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-01-2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-02-2014,AQS,60250007,3,127,ug/m3 SC,87,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-03-2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-04-2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-05-2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-06-2014,AQS,60250007,3,108,ug/m3 SC,77,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-07-2014,AQS,60250007,3,38,ug/m3 SC,35,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-08-2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-09-2014,AQS,60250007,3,88,ug/m3 SC,67,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-10-2014,AQS,60250007,3,116,ug/m3 SC,81,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-11-2014,AQS,60250007,3,73,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06-12-2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/13/2014,AQS,60250007,3,97,ug/m3 SC,72,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/14/2014,AQS,60250007,3,81,ug/m3 SC,64,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/15/2014,AQS,60250007,3,61,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/16/2014,AQS,60250007,3,83,ug/m3 SC,65,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/17/2014,AQS,60250007,3,92,ug/m3 SC,69,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/18/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/19/2014,AQS,60250007,3,57,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/20/2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/21/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/22/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/23/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/24/2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/25/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/26/2014,AQS,60250007,3,185,ug/m3 SC,116,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/27/2014,AQS,60250007,3,96,ug/m3 SC,71,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/28/2014,AQS,60250007,3,64,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/29/2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+06/30/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-01-2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-02-2014,AQS,60250007,3,68,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-03-2014,AQS,60250007,3,116,ug/m3 SC,81,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-04-2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-05-2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-06-2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-07-2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-08-2014,AQS,60250007,3,62,ug/m3 SC,54,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-09-2014,AQS,60250007,3,63,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-10-2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-11-2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07-12-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/13/2014,AQS,60250007,3,64,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/14/2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/15/2014,AQS,60250007,3,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/16/2014,AQS,60250007,3,63,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/17/2014,AQS,60250007,3,66,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/18/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/19/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/20/2014,AQS,60250007,3,28,ug/m3 SC,26,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/21/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/22/2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/23/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/24/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/25/2014,AQS,60250007,3,90,ug/m3 SC,68,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/26/2014,AQS,60250007,3,49,ug/m3 SC,45,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/27/2014,AQS,60250007,3,103,ug/m3 SC,75,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/28/2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/29/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/30/2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+07/31/2014,AQS,60250007,3,64,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-01-2014,AQS,60250007,3,70,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-02-2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-03-2014,AQS,60250007,3,28,ug/m3 SC,26,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-04-2014,AQS,60250007,3,25,ug/m3 SC,23,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-05-2014,AQS,60250007,3,28,ug/m3 SC,26,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-06-2014,AQS,60250007,3,49,ug/m3 SC,45,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-07-2014,AQS,60250007,3,69,ug/m3 SC,58,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-08-2014,AQS,60250007,3,49,ug/m3 SC,45,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-09-2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-10-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-11-2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08-12-2014,AQS,60250007,3,63,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/13/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/14/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/15/2014,AQS,60250007,3,63,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/16/2014,AQS,60250007,3,39,ug/m3 SC,36,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/17/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/18/2014,AQS,60250007,3,102,ug/m3 SC,74,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/19/2014,AQS,60250007,3,97,ug/m3 SC,72,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/20/2014,AQS,60250007,3,63,ug/m3 SC,55,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/21/2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/22/2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/23/2014,AQS,60250007,3,23,ug/m3 SC,21,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/24/2014,AQS,60250007,3,25,ug/m3 SC,23,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/25/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/26/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/27/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/28/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/29/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/30/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+08/31/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-01-2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-02-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-03-2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-04-2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-05-2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-06-2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-07-2014,AQS,60250007,3,26,ug/m3 SC,24,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-08-2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-09-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-10-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-11-2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09-12-2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/13/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/14/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/15/2014,AQS,60250007,3,65,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/16/2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/17/2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/18/2014,AQS,60250007,3,73,ug/m3 SC,60,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/19/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/20/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/21/2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/22/2014,AQS,60250007,3,52,ug/m3 SC,48,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/23/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/24/2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/25/2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/26/2014,AQS,60250007,3,68,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/27/2014,AQS,60250007,3,219,ug/m3 SC,133,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/28/2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/29/2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+09/30/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-01-2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-02-2014,AQS,60250007,3,67,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-03-2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-04-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-05-2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-06-2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-07-2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-08-2014,AQS,60250007,3,20,ug/m3 SC,19,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-09-2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-10-2014,AQS,60250007,3,44,ug/m3 SC,41,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-11-2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10-12-2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/13/2014,AQS,60250007,3,51,ug/m3 SC,47,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/14/2014,AQS,60250007,3,59,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/15/2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/16/2014,AQS,60250007,3,56,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/17/2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/18/2014,AQS,60250007,3,55,ug/m3 SC,51,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/19/2014,AQS,60250007,3,35,ug/m3 SC,32,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/20/2014,AQS,60250007,3,53,ug/m3 SC,49,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/21/2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/22/2014,AQS,60250007,3,58,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/23/2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/24/2014,AQS,60250007,3,76,ug/m3 SC,61,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/25/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/26/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/27/2014,AQS,60250007,3,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/28/2014,AQS,60250007,3,65,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/29/2014,AQS,60250007,3,57,ug/m3 SC,52,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/30/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+10/31/2014,AQS,60250007,3,116,ug/m3 SC,81,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-01-2014,AQS,60250007,3,131,ug/m3 SC,89,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-02-2014,AQS,60250007,3,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-03-2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-04-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-05-2014,AQS,60250007,3,31,ug/m3 SC,29,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-06-2014,AQS,60250007,3,43,ug/m3 SC,40,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-07-2014,AQS,60250007,3,46,ug/m3 SC,43,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-08-2014,AQS,60250007,3,52,ug/m3 SC,48,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-09-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-10-2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-11-2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11-12-2014,AQS,60250007,3,67,ug/m3 SC,57,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/13/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/14/2014,AQS,60250007,3,47,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/15/2014,AQS,60250007,3,89,ug/m3 SC,68,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/16/2014,AQS,60250007,3,210,ug/m3 SC,128,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/17/2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/18/2014,AQS,60250007,3,48,ug/m3 SC,44,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/19/2014,AQS,60250007,3,54,ug/m3 SC,50,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/20/2014,AQS,60250007,3,60,ug/m3 SC,53,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/21/2014,AQS,60250007,3,20,ug/m3 SC,19,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/22/2014,AQS,60250007,3,27,ug/m3 SC,25,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/23/2014,AQS,60250007,3,42,ug/m3 SC,39,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/24/2014,AQS,60250007,3,27,ug/m3 SC,25,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/25/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/26/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/27/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/28/2014,AQS,60250007,3,50,ug/m3 SC,46,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/29/2014,AQS,60250007,3,66,ug/m3 SC,56,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+11/30/2014,AQS,60250007,3,30,ug/m3 SC,28,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-01-2014,AQS,60250007,3,22,ug/m3 SC,20,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-02-2014,AQS,60250007,3,41,ug/m3 SC,38,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-03-2014,AQS,60250007,3,15,ug/m3 SC,14,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-04-2014,AQS,60250007,3,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-05-2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-06-2014,AQS,60250007,3,23,ug/m3 SC,21,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-07-2014,AQS,60250007,3,14,ug/m3 SC,13,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-08-2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-09-2014,AQS,60250007,3,26,ug/m3 SC,24,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-10-2014,AQS,60250007,3,29,ug/m3 SC,27,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-11-2014,AQS,60250007,3,36,ug/m3 SC,33,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12-12-2014,AQS,60250007,3,14,ug/m3 SC,13,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/13/2014,AQS,60250007,3,15,ug/m3 SC,14,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/14/2014,AQS,60250007,3,11,ug/m3 SC,10,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/15/2014,AQS,60250007,3,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/16/2014,AQS,60250007,3,25,ug/m3 SC,23,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/17/2014,AQS,60250007,3,18,ug/m3 SC,17,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/18/2014,AQS,60250007,3,34,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/19/2014,AQS,60250007,3,37,ug/m3 SC,34,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/20/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/21/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/22/2014,AQS,60250007,3,38,ug/m3 SC,35,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/23/2014,AQS,60250007,3,33,ug/m3 SC,31,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/24/2014,AQS,60250007,3,24,ug/m3 SC,22,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/25/2014,AQS,60250007,3,45,ug/m3 SC,42,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/26/2014,AQS,60250007,3,16,ug/m3 SC,15,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/27/2014,AQS,60250007,3,16,ug/m3 SC,15,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/28/2014,AQS,60250007,3,21,ug/m3 SC,19,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/29/2014,AQS,60250007,3,31,ug/m3 SC,29,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/30/2014,AQS,60250007,3,40,ug/m3 SC,37,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+12/31/2014,AQS,60250007,3,32,ug/m3 SC,30,Brawley-220 Main Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.97833,-115.53917
+01-08-2014,AQS,60251003,2,45,ug/m3 SC,42,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-11-2014,AQS,60251003,2,56,ug/m3 SC,51,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/17/2014,AQS,60251003,2,24,ug/m3 SC,22,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/23/2014,AQS,60251003,2,57,ug/m3 SC,52,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/29/2014,AQS,60251003,2,49,ug/m3 SC,45,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-04-2014,AQS,60251003,2,21,ug/m3 SC,19,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/13/2014,AQS,60251003,2,54,ug/m3 SC,50,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/16/2014,AQS,60251003,2,74,ug/m3 SC,60,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/22/2014,AQS,60251003,2,51,ug/m3 SC,47,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/28/2014,AQS,60251003,2,54,ug/m3 SC,50,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-06-2014,AQS,60251003,2,18,ug/m3 SC,17,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-12-2014,AQS,60251003,2,17,ug/m3 SC,16,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/18/2014,AQS,60251003,2,57,ug/m3 SC,52,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/24/2014,AQS,60251003,2,42,ug/m3 SC,39,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/30/2014,AQS,60251003,2,57,ug/m3 SC,52,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-05-2014,AQS,60251003,2,10,ug/m3 SC,9,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-11-2014,AQS,60251003,2,74,ug/m3 SC,60,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/17/2014,AQS,60251003,2,36,ug/m3 SC,33,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/23/2014,AQS,60251003,2,42,ug/m3 SC,39,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/29/2014,AQS,60251003,2,83,ug/m3 SC,65,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-05-2014,AQS,60251003,2,87,ug/m3 SC,67,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-11-2014,AQS,60251003,2,120,ug/m3 SC,83,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/17/2014,AQS,60251003,2,41,ug/m3 SC,38,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/23/2014,AQS,60251003,2,18,ug/m3 SC,17,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/29/2014,AQS,60251003,2,30,ug/m3 SC,28,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-04-2014,AQS,60251003,2,28,ug/m3 SC,26,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-10-2014,AQS,60251003,2,69,ug/m3 SC,58,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/16/2014,AQS,60251003,2,34,ug/m3 SC,31,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/22/2014,AQS,60251003,2,37,ug/m3 SC,34,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/28/2014,AQS,60251003,2,44,ug/m3 SC,41,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-04-2014,AQS,60251003,2,30,ug/m3 SC,28,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/18/2014,AQS,60251003,2,31,ug/m3 SC,29,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/24/2014,AQS,60251003,2,49,ug/m3 SC,45,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/28/2014,AQS,60251003,2,43,ug/m3 SC,40,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-03-2014,AQS,60251003,2,17,ug/m3 SC,16,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-09-2014,AQS,60251003,2,28,ug/m3 SC,26,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/15/2014,AQS,60251003,2,41,ug/m3 SC,38,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/21/2014,AQS,60251003,2,23,ug/m3 SC,21,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/27/2014,AQS,60251003,2,19,ug/m3 SC,18,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-02-2014,AQS,60251003,2,38,ug/m3 SC,35,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-08-2014,AQS,60251003,2,22,ug/m3 SC,20,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/14/2014,AQS,60251003,2,44,ug/m3 SC,41,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/20/2014,AQS,60251003,2,36,ug/m3 SC,33,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-02-2014,AQS,60251003,2,40,ug/m3 SC,37,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-08-2014,AQS,60251003,2,19,ug/m3 SC,18,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/14/2014,AQS,60251003,2,42,ug/m3 SC,39,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/20/2014,AQS,60251003,2,32,ug/m3 SC,30,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/28/2014,AQS,60251003,2,40,ug/m3 SC,37,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-01-2014,AQS,60251003,2,56,ug/m3 SC,51,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-07-2014,AQS,60251003,2,35,ug/m3 SC,32,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/13/2014,AQS,60251003,2,45,ug/m3 SC,42,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/19/2014,AQS,60251003,2,48,ug/m3 SC,44,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/25/2014,AQS,60251003,2,39,ug/m3 SC,36,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-01-2014,AQS,60251003,2,20,ug/m3 SC,19,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-07-2014,AQS,60251003,2,14,ug/m3 SC,13,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/13/2014,AQS,60251003,2,11,ug/m3 SC,10,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/19/2014,AQS,60251003,2,25,ug/m3 SC,23,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/25/2014,AQS,60251003,2,44,ug/m3 SC,41,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/31/2014,AQS,60251003,2,24,ug/m3 SC,22,El Centro-9th Street,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-05-2014,AQS,60254003,1,20,ug/m3 SC,19,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+01-11-2014,AQS,60254003,1,38,ug/m3 SC,35,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+01/17/2014,AQS,60254003,1,25,ug/m3 SC,23,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+01/23/2014,AQS,60254003,1,41,ug/m3 SC,38,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+01/29/2014,AQS,60254003,1,41,ug/m3 SC,38,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+02-04-2014,AQS,60254003,1,17,ug/m3 SC,16,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+02-10-2014,AQS,60254003,1,29,ug/m3 SC,27,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+02/16/2014,AQS,60254003,1,56,ug/m3 SC,51,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+02/22/2014,AQS,60254003,1,43,ug/m3 SC,40,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+02/28/2014,AQS,60254003,1,294,ug/m3 SC,170,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+03-06-2014,AQS,60254003,1,30,ug/m3 SC,28,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+03-12-2014,AQS,60254003,1,23,ug/m3 SC,21,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+03/18/2014,AQS,60254003,1,66,ug/m3 SC,56,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+03/24/2014,AQS,60254003,1,39,ug/m3 SC,36,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+03/30/2014,AQS,60254003,1,102,ug/m3 SC,74,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+04-05-2014,AQS,60254003,1,20,ug/m3 SC,19,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+04-11-2014,AQS,60254003,1,102,ug/m3 SC,74,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+04/17/2014,AQS,60254003,1,39,ug/m3 SC,36,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+04/23/2014,AQS,60254003,1,48,ug/m3 SC,44,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+04/29/2014,AQS,60254003,1,63,ug/m3 SC,55,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+05-05-2014,AQS,60254003,1,375,ug/m3 SC,230,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+05-11-2014,AQS,60254003,1,85,ug/m3 SC,66,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+05/17/2014,AQS,60254003,1,72,ug/m3 SC,59,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+06-04-2014,AQS,60254003,1,38,ug/m3 SC,35,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+06-10-2014,AQS,60254003,1,91,ug/m3 SC,69,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+06/16/2014,AQS,60254003,1,113,ug/m3 SC,80,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+06/22/2014,AQS,60254003,1,31,ug/m3 SC,29,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+06/28/2014,AQS,60254003,1,76,ug/m3 SC,61,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+07-04-2014,AQS,60254003,1,31,ug/m3 SC,29,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+07-10-2014,AQS,60254003,1,54,ug/m3 SC,50,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+07/16/2014,AQS,60254003,1,167,ug/m3 SC,107,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+07/22/2014,AQS,60254003,1,51,ug/m3 SC,47,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+07/28/2014,AQS,60254003,1,43,ug/m3 SC,40,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+08-03-2014,AQS,60254003,1,18,ug/m3 SC,17,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+08-09-2014,AQS,60254003,1,36,ug/m3 SC,33,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+08/15/2014,AQS,60254003,1,43,ug/m3 SC,40,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+08/21/2014,AQS,60254003,1,37,ug/m3 SC,34,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+08/27/2014,AQS,60254003,1,23,ug/m3 SC,21,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+09-02-2014,AQS,60254003,1,28,ug/m3 SC,26,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+09-08-2014,AQS,60254003,1,22,ug/m3 SC,20,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+09/14/2014,AQS,60254003,1,32,ug/m3 SC,30,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+09/20/2014,AQS,60254003,1,40,ug/m3 SC,37,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+09/26/2014,AQS,60254003,1,136,ug/m3 SC,91,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+10-08-2014,AQS,60254003,1,27,ug/m3 SC,25,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+10/14/2014,AQS,60254003,1,49,ug/m3 SC,45,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+10/20/2014,AQS,60254003,1,35,ug/m3 SC,32,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+10/26/2014,AQS,60254003,1,32,ug/m3 SC,30,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+11-01-2014,AQS,60254003,1,404,ug/m3 SC,271,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+11-07-2014,AQS,60254003,1,52,ug/m3 SC,48,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+11/13/2014,AQS,60254003,1,37,ug/m3 SC,34,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+11/19/2014,AQS,60254003,1,42,ug/m3 SC,39,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+11/25/2014,AQS,60254003,1,23,ug/m3 SC,21,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12-01-2014,AQS,60254003,1,17,ug/m3 SC,16,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12-07-2014,AQS,60254003,1,26,ug/m3 SC,24,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12/13/2014,AQS,60254003,1,13,ug/m3 SC,12,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12/19/2014,AQS,60254003,1,14,ug/m3 SC,13,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12/25/2014,AQS,60254003,1,36,ug/m3 SC,33,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+12/31/2014,AQS,60254003,1,14,ug/m3 SC,13,Westmorland,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.0325,-115.62361
+01-05-2014,AQS,60254004,1,22,ug/m3 SC,20,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-11-2014,AQS,60254004,1,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/17/2014,AQS,60254004,1,30,ug/m3 SC,28,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/29/2014,AQS,60254004,1,27,ug/m3 SC,25,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-04-2014,AQS,60254004,1,19,ug/m3 SC,18,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-10-2014,AQS,60254004,1,30,ug/m3 SC,28,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/22/2014,AQS,60254004,1,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/28/2014,AQS,60254004,1,135,ug/m3 SC,91,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-06-2014,AQS,60254004,1,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-12-2014,AQS,60254004,1,10,ug/m3 SC,9,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/18/2014,AQS,60254004,1,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/24/2014,AQS,60254004,1,35,ug/m3 SC,32,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/30/2014,AQS,60254004,1,84,ug/m3 SC,65,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-05-2014,AQS,60254004,1,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/16/2014,AQS,60254004,1,54,ug/m3 SC,50,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/23/2014,AQS,60254004,1,57,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/29/2014,AQS,60254004,1,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-05-2014,AQS,60254004,1,121,ug/m3 SC,84,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-11-2014,AQS,60254004,1,103,ug/m3 SC,75,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/17/2014,AQS,60254004,1,92,ug/m3 SC,69,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/23/2014,AQS,60254004,1,136,ug/m3 SC,91,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/29/2014,AQS,60254004,1,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-04-2014,AQS,60254004,1,33,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-10-2014,AQS,60254004,1,94,ug/m3 SC,70,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/16/2014,AQS,60254004,1,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/22/2014,AQS,60254004,1,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/28/2014,AQS,60254004,1,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-04-2014,AQS,60254004,1,34,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/16/2014,AQS,60254004,1,116,ug/m3 SC,81,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/22/2014,AQS,60254004,1,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/30/2014,AQS,60254004,1,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-03-2014,AQS,60254004,1,20,ug/m3 SC,19,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-09-2014,AQS,60254004,1,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/15/2014,AQS,60254004,1,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/21/2014,AQS,60254004,1,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/27/2014,AQS,60254004,1,25,ug/m3 SC,23,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-02-2014,AQS,60254004,1,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-08-2014,AQS,60254004,1,25,ug/m3 SC,23,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/14/2014,AQS,60254004,1,31,ug/m3 SC,29,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/20/2014,AQS,60254004,1,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/30/2014,AQS,60254004,1,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-02-2014,AQS,60254004,1,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-08-2014,AQS,60254004,1,40,ug/m3 SC,37,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/14/2014,AQS,60254004,1,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/20/2014,AQS,60254004,1,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/26/2014,AQS,60254004,1,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-01-2014,AQS,60254004,1,173,ug/m3 SC,110,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-07-2014,AQS,60254004,1,54,ug/m3 SC,50,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/13/2014,AQS,60254004,1,35,ug/m3 SC,32,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/19/2014,AQS,60254004,1,40,ug/m3 SC,37,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/25/2014,AQS,60254004,1,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-01-2014,AQS,60254004,1,22,ug/m3 SC,20,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-07-2014,AQS,60254004,1,8,ug/m3 SC,7,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/13/2014,AQS,60254004,1,8,ug/m3 SC,7,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/19/2014,AQS,60254004,1,9,ug/m3 SC,8,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/31/2014,AQS,60254004,1,17,ug/m3 SC,16,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-01-2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-02-2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-03-2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-04-2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-05-2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-06-2014,AQS,60254004,3,40,ug/m3 SC,37,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-07-2014,AQS,60254004,3,43,ug/m3 SC,40,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-08-2014,AQS,60254004,3,41,ug/m3 SC,38,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-09-2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-10-2014,AQS,60254004,3,65,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-11-2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01-12-2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/13/2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/14/2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/15/2014,AQS,60254004,3,34,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/16/2014,AQS,60254004,3,41,ug/m3 SC,38,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/17/2014,AQS,60254004,3,41,ug/m3 SC,38,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/18/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/19/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/20/2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/21/2014,AQS,60254004,3,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/22/2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/23/2014,AQS,60254004,3,43,ug/m3 SC,40,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/24/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/25/2014,AQS,60254004,3,57,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/26/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/27/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/28/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/29/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/30/2014,AQS,60254004,3,89,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+01/31/2014,AQS,60254004,3,86,ug/m3 SC,66,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-01-2014,AQS,60254004,3,36,ug/m3 SC,33,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-02-2014,AQS,60254004,3,35,ug/m3 SC,32,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-03-2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-04-2014,AQS,60254004,3,34,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-05-2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-06-2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-07-2014,AQS,60254004,3,35,ug/m3 SC,32,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-08-2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-09-2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-10-2014,AQS,60254004,3,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-11-2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02-12-2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/13/2014,AQS,60254004,3,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/14/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/15/2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/16/2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/17/2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/18/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/19/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/20/2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/21/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/22/2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/23/2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/24/2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/25/2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/26/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/27/2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+02/28/2014,AQS,60254004,3,144,ug/m3 SC,95,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-01-2014,AQS,60254004,3,47,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-02-2014,AQS,60254004,3,17,ug/m3 SC,16,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-03-2014,AQS,60254004,3,19,ug/m3 SC,18,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-04-2014,AQS,60254004,3,26,ug/m3 SC,24,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-05-2014,AQS,60254004,3,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-06-2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-07-2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-08-2014,AQS,60254004,3,22,ug/m3 SC,20,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-09-2014,AQS,60254004,3,15,ug/m3 SC,14,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-10-2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-11-2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03-12-2014,AQS,60254004,3,19,ug/m3 SC,18,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/13/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/14/2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/15/2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/16/2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/17/2014,AQS,60254004,3,87,ug/m3 SC,67,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/18/2014,AQS,60254004,3,80,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/19/2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/20/2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/21/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/22/2014,AQS,60254004,3,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/23/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/24/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/25/2014,AQS,60254004,3,127,ug/m3 SC,87,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/26/2014,AQS,60254004,3,279,ug/m3 SC,163,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/27/2014,AQS,60254004,3,115,ug/m3 SC,81,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/28/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/29/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/30/2014,AQS,60254004,3,80,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+03/31/2014,AQS,60254004,3,102,ug/m3 SC,74,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-01-2014,AQS,60254004,3,101,ug/m3 SC,74,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-02-2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-03-2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-04-2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-05-2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-06-2014,AQS,60254004,3,30,ug/m3 SC,28,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-07-2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-08-2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-09-2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-10-2014,AQS,60254004,3,87,ug/m3 SC,67,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-11-2014,AQS,60254004,3,74,ug/m3 SC,60,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04-12-2014,AQS,60254004,3,167,ug/m3 SC,107,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/13/2014,AQS,60254004,3,130,ug/m3 SC,88,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/14/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/15/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/16/2014,AQS,60254004,3,73,ug/m3 SC,60,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/17/2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/18/2014,AQS,60254004,3,57,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/19/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/20/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/21/2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/22/2014,AQS,60254004,3,134,ug/m3 SC,90,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/23/2014,AQS,60254004,3,75,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/24/2014,AQS,60254004,3,73,ug/m3 SC,60,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/26/2014,AQS,60254004,3,149,ug/m3 SC,98,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/27/2014,AQS,60254004,3,54,ug/m3 SC,50,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/28/2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/29/2014,AQS,60254004,3,82,ug/m3 SC,64,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+04/30/2014,AQS,60254004,3,75,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-01-2014,AQS,60254004,3,32,ug/m3 SC,30,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-02-2014,AQS,60254004,3,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-03-2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-04-2014,AQS,60254004,3,74,ug/m3 SC,60,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-05-2014,AQS,60254004,3,100,ug/m3 SC,73,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-07-2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-08-2014,AQS,60254004,3,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-09-2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-11-2014,AQS,60254004,3,172,ug/m3 SC,109,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05-12-2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/13/2014,AQS,60254004,3,33,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/14/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/15/2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/16/2014,AQS,60254004,3,65,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/17/2014,AQS,60254004,3,110,ug/m3 SC,78,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/18/2014,AQS,60254004,3,106,ug/m3 SC,76,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/19/2014,AQS,60254004,3,95,ug/m3 SC,71,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/20/2014,AQS,60254004,3,122,ug/m3 SC,84,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/21/2014,AQS,60254004,3,32,ug/m3 SC,30,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/22/2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/23/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/24/2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/25/2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/26/2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/27/2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/28/2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/29/2014,AQS,60254004,3,79,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/30/2014,AQS,60254004,3,71,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+05/31/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-01-2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-03-2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-04-2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-05-2014,AQS,60254004,3,82,ug/m3 SC,64,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-06-2014,AQS,60254004,3,133,ug/m3 SC,90,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-07-2014,AQS,60254004,3,95,ug/m3 SC,71,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-08-2014,AQS,60254004,3,78,ug/m3 SC,62,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-09-2014,AQS,60254004,3,90,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-10-2014,AQS,60254004,3,135,ug/m3 SC,91,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-11-2014,AQS,60254004,3,103,ug/m3 SC,75,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06-12-2014,AQS,60254004,3,89,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/13/2014,AQS,60254004,3,99,ug/m3 SC,73,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/14/2014,AQS,60254004,3,85,ug/m3 SC,66,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/15/2014,AQS,60254004,3,100,ug/m3 SC,73,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/16/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/17/2014,AQS,60254004,3,122,ug/m3 SC,84,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/18/2014,AQS,60254004,3,55,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/19/2014,AQS,60254004,3,71,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/20/2014,AQS,60254004,3,87,ug/m3 SC,67,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/21/2014,AQS,60254004,3,74,ug/m3 SC,60,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/22/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/23/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/24/2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/25/2014,AQS,60254004,3,84,ug/m3 SC,65,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/26/2014,AQS,60254004,3,130,ug/m3 SC,88,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/27/2014,AQS,60254004,3,100,ug/m3 SC,73,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/28/2014,AQS,60254004,3,88,ug/m3 SC,67,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/29/2014,AQS,60254004,3,65,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+06/30/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-01-2014,AQS,60254004,3,71,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-02-2014,AQS,60254004,3,77,ug/m3 SC,62,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-03-2014,AQS,60254004,3,120,ug/m3 SC,83,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-04-2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-05-2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-06-2014,AQS,60254004,3,89,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-07-2014,AQS,60254004,3,83,ug/m3 SC,65,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-08-2014,AQS,60254004,3,75,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-09-2014,AQS,60254004,3,82,ug/m3 SC,64,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-10-2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-11-2014,AQS,60254004,3,83,ug/m3 SC,65,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07-12-2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/13/2014,AQS,60254004,3,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/14/2014,AQS,60254004,3,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/15/2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/16/2014,AQS,60254004,3,142,ug/m3 SC,94,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/17/2014,AQS,60254004,3,101,ug/m3 SC,74,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/18/2014,AQS,60254004,3,89,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/19/2014,AQS,60254004,3,51,ug/m3 SC,47,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/20/2014,AQS,60254004,3,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/21/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/22/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/23/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/30/2014,AQS,60254004,3,91,ug/m3 SC,69,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+07/31/2014,AQS,60254004,3,95,ug/m3 SC,71,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-01-2014,AQS,60254004,3,89,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-02-2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-03-2014,AQS,60254004,3,31,ug/m3 SC,29,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-04-2014,AQS,60254004,3,43,ug/m3 SC,40,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-05-2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-06-2014,AQS,60254004,3,108,ug/m3 SC,77,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-07-2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-08-2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-09-2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-10-2014,AQS,60254004,3,40,ug/m3 SC,37,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-11-2014,AQS,60254004,3,63,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08-12-2014,AQS,60254004,3,102,ug/m3 SC,74,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/13/2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/14/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/15/2014,AQS,60254004,3,90,ug/m3 SC,68,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/16/2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/17/2014,AQS,60254004,3,50,ug/m3 SC,46,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/18/2014,AQS,60254004,3,161,ug/m3 SC,104,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/19/2014,AQS,60254004,3,80,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/20/2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/21/2014,AQS,60254004,3,54,ug/m3 SC,50,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/22/2014,AQS,60254004,3,30,ug/m3 SC,28,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/23/2014,AQS,60254004,3,24,ug/m3 SC,22,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/24/2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/25/2014,AQS,60254004,3,26,ug/m3 SC,24,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/26/2014,AQS,60254004,3,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/27/2014,AQS,60254004,3,32,ug/m3 SC,30,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/28/2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/29/2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/30/2014,AQS,60254004,3,75,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+08/31/2014,AQS,60254004,3,91,ug/m3 SC,69,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-01-2014,AQS,60254004,3,79,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-02-2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-03-2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-04-2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-05-2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-06-2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-07-2014,AQS,60254004,3,27,ug/m3 SC,25,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-08-2014,AQS,60254004,3,35,ug/m3 SC,32,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-09-2014,AQS,60254004,3,39,ug/m3 SC,36,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-10-2014,AQS,60254004,3,41,ug/m3 SC,38,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-11-2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09-12-2014,AQS,60254004,3,32,ug/m3 SC,30,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/13/2014,AQS,60254004,3,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/14/2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/15/2014,AQS,60254004,3,63,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/16/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/17/2014,AQS,60254004,3,33,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/18/2014,AQS,60254004,3,104,ug/m3 SC,75,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/19/2014,AQS,60254004,3,83,ug/m3 SC,65,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/20/2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/21/2014,AQS,60254004,3,38,ug/m3 SC,35,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/22/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/23/2014,AQS,60254004,3,63,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/24/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/25/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/26/2014,AQS,60254004,3,130,ug/m3 SC,88,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/28/2014,AQS,60254004,3,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/29/2014,AQS,60254004,3,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+09/30/2014,AQS,60254004,3,75,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-01-2014,AQS,60254004,3,59,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-02-2014,AQS,60254004,3,63,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-03-2014,AQS,60254004,3,37,ug/m3 SC,34,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-04-2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-05-2014,AQS,60254004,3,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-06-2014,AQS,60254004,3,70,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-07-2014,AQS,60254004,3,82,ug/m3 SC,64,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-08-2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-09-2014,AQS,60254004,3,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-10-2014,AQS,60254004,3,46,ug/m3 SC,43,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-11-2014,AQS,60254004,3,41,ug/m3 SC,38,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10-12-2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/13/2014,AQS,60254004,3,48,ug/m3 SC,44,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/14/2014,AQS,60254004,3,82,ug/m3 SC,64,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/15/2014,AQS,60254004,3,76,ug/m3 SC,61,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/16/2014,AQS,60254004,3,61,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/17/2014,AQS,60254004,3,87,ug/m3 SC,67,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/18/2014,AQS,60254004,3,79,ug/m3 SC,63,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/19/2014,AQS,60254004,3,62,ug/m3 SC,54,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/20/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/21/2014,AQS,60254004,3,70,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/22/2014,AQS,60254004,3,66,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/23/2014,AQS,60254004,3,55,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/24/2014,AQS,60254004,3,65,ug/m3 SC,56,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/25/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/26/2014,AQS,60254004,3,42,ug/m3 SC,39,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/27/2014,AQS,60254004,3,55,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/28/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/29/2014,AQS,60254004,3,49,ug/m3 SC,45,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/30/2014,AQS,60254004,3,64,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+10/31/2014,AQS,60254004,3,181,ug/m3 SC,114,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-01-2014,AQS,60254004,3,218,ug/m3 SC,132,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-02-2014,AQS,60254004,3,22,ug/m3 SC,20,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-03-2014,AQS,60254004,3,27,ug/m3 SC,25,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-04-2014,AQS,60254004,3,25,ug/m3 SC,23,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-05-2014,AQS,60254004,3,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-06-2014,AQS,60254004,3,24,ug/m3 SC,22,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-07-2014,AQS,60254004,3,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-08-2014,AQS,60254004,3,86,ug/m3 SC,66,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-09-2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-10-2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-11-2014,AQS,60254004,3,55,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11-12-2014,AQS,60254004,3,69,ug/m3 SC,58,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/13/2014,AQS,60254004,3,45,ug/m3 SC,42,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/14/2014,AQS,60254004,3,63,ug/m3 SC,55,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/15/2014,AQS,60254004,3,60,ug/m3 SC,53,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/16/2014,AQS,60254004,3,248,ug/m3 SC,147,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/17/2014,AQS,60254004,3,52,ug/m3 SC,48,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/18/2014,AQS,60254004,3,72,ug/m3 SC,59,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/19/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/20/2014,AQS,60254004,3,58,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/21/2014,AQS,60254004,3,21,ug/m3 SC,19,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/22/2014,AQS,60254004,3,53,ug/m3 SC,49,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/23/2014,AQS,60254004,3,40,ug/m3 SC,37,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/24/2014,AQS,60254004,3,23,ug/m3 SC,21,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/25/2014,AQS,60254004,3,33,ug/m3 SC,31,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/26/2014,AQS,60254004,3,44,ug/m3 SC,41,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/27/2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/28/2014,AQS,60254004,3,56,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/29/2014,AQS,60254004,3,55,ug/m3 SC,51,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+11/30/2014,AQS,60254004,3,36,ug/m3 SC,33,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-01-2014,AQS,60254004,3,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-02-2014,AQS,60254004,3,57,ug/m3 SC,52,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-05-2014,AQS,60254004,3,28,ug/m3 SC,26,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-06-2014,AQS,60254004,3,20,ug/m3 SC,19,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-07-2014,AQS,60254004,3,11,ug/m3 SC,10,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-08-2014,AQS,60254004,3,17,ug/m3 SC,16,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-09-2014,AQS,60254004,3,11,ug/m3 SC,10,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-10-2014,AQS,60254004,3,16,ug/m3 SC,15,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-11-2014,AQS,60254004,3,29,ug/m3 SC,27,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12-12-2014,AQS,60254004,3,14,ug/m3 SC,13,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/13/2014,AQS,60254004,3,7,ug/m3 SC,6,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/14/2014,AQS,60254004,3,8,ug/m3 SC,7,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/15/2014,AQS,60254004,3,12,ug/m3 SC,11,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/16/2014,AQS,60254004,3,19,ug/m3 SC,18,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/17/2014,AQS,60254004,3,15,ug/m3 SC,14,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/18/2014,AQS,60254004,3,17,ug/m3 SC,16,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/19/2014,AQS,60254004,3,11,ug/m3 SC,10,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/20/2014,AQS,60254004,3,11,ug/m3 SC,10,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/21/2014,AQS,60254004,3,21,ug/m3 SC,19,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/22/2014,AQS,60254004,3,25,ug/m3 SC,23,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/23/2014,AQS,60254004,3,17,ug/m3 SC,16,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/24/2014,AQS,60254004,3,18,ug/m3 SC,17,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/25/2014,AQS,60254004,3,36,ug/m3 SC,33,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/26/2014,AQS,60254004,3,22,ug/m3 SC,20,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/27/2014,AQS,60254004,3,23,ug/m3 SC,21,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/28/2014,AQS,60254004,3,14,ug/m3 SC,13,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/29/2014,AQS,60254004,3,23,ug/m3 SC,21,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/30/2014,AQS,60254004,3,30,ug/m3 SC,28,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528
+12/31/2014,AQS,60254004,3,25,ug/m3 SC,23,Niland-English Road,1,100,81102,PM10 Total 0-10um STP,20940,"El Centro, CA",6,California,25,Imperial,33.213611,-115.54528

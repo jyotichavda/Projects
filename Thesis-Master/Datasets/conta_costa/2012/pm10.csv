@@ -1,0 +1,184 @@
+Date,Source,Site ID,POC,Daily Mean PM10 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-04-2012,AQS,60130002,1,17,ug/m3 SC,16,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+01-10-2012,AQS,60130002,1,33,ug/m3 SC,31,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+01/16/2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+01/22/2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+01/28/2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+02-03-2012,AQS,60130002,1,20,ug/m3 SC,19,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+02-09-2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+02/15/2012,AQS,60130002,1,5,ug/m3 SC,5,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+02/21/2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+02/27/2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+03-04-2012,AQS,60130002,1,9,ug/m3 SC,8,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+03-10-2012,AQS,60130002,1,9,ug/m3 SC,8,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+03/16/2012,AQS,60130002,1,4,ug/m3 SC,4,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+03/22/2012,AQS,60130002,1,4,ug/m3 SC,4,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+03/28/2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+04-03-2012,AQS,60130002,1,12,ug/m3 SC,11,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+04-09-2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+04/15/2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+04/21/2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+04/27/2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+05-03-2012,AQS,60130002,1,4,ug/m3 SC,4,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+05-09-2012,AQS,60130002,1,29,ug/m3 SC,27,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+05/15/2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+05/21/2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+05/27/2012,AQS,60130002,1,10,ug/m3 SC,9,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+06-02-2012,AQS,60130002,1,5,ug/m3 SC,5,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+06-08-2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+06/14/2012,AQS,60130002,1,28,ug/m3 SC,26,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+06/20/2012,AQS,60130002,1,15,ug/m3 SC,14,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+06/26/2012,AQS,60130002,1,6,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+07-02-2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+07-08-2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+07/14/2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+07/20/2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+07/26/2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08-01-2012,AQS,60130002,1,16,ug/m3 SC,15,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08-07-2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08/13/2012,AQS,60130002,1,12,ug/m3 SC,11,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08/19/2012,AQS,60130002,1,6,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08/25/2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+08/31/2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+09-06-2012,AQS,60130002,1,13,ug/m3 SC,12,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+09-12-2012,AQS,60130002,1,16,ug/m3 SC,15,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+09/18/2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+09/24/2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+09/30/2012,AQS,60130002,1,16,ug/m3 SC,15,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+10-06-2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+10-12-2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+10/18/2012,AQS,60130002,1,33,ug/m3 SC,31,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+10/24/2012,AQS,60130002,1,9,ug/m3 SC,8,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+10/30/2012,AQS,60130002,1,10,ug/m3 SC,9,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+11-05-2012,AQS,60130002,1,16,ug/m3 SC,15,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+11-11-2012,AQS,60130002,1,12,ug/m3 SC,11,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+11/17/2012,AQS,60130002,1,9,ug/m3 SC,8,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+11/23/2012,AQS,60130002,1,11,ug/m3 SC,10,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+11/29/2012,AQS,60130002,1,7,ug/m3 SC,6,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+12-05-2012,AQS,60130002,1,10,ug/m3 SC,9,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+12-11-2012,AQS,60130002,1,14,ug/m3 SC,13,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+12/17/2012,AQS,60130002,1,9,ug/m3 SC,8,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+12/23/2012,AQS,60130002,1,4,ug/m3 SC,4,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+12/29/2012,AQS,60130002,1,8,ug/m3 SC,7,Concord,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.936013,-122.026154
+01-04-2012,AQS,60131002,1,19,ug/m3 SC,18,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+01-10-2012,AQS,60131002,1,29,ug/m3 SC,27,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+01/16/2012,AQS,60131002,1,8,ug/m3 SC,7,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+01/22/2012,AQS,60131002,1,14,ug/m3 SC,13,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+01/28/2012,AQS,60131002,1,14,ug/m3 SC,13,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+02-03-2012,AQS,60131002,1,16,ug/m3 SC,15,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+02-09-2012,AQS,60131002,1,17,ug/m3 SC,16,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+02/15/2012,AQS,60131002,1,1,ug/m3 SC,1,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+02/21/2012,AQS,60131002,1,14,ug/m3 SC,13,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+02/27/2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+03-04-2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+03-10-2012,AQS,60131002,1,8,ug/m3 SC,7,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+03/16/2012,AQS,60131002,1,2,ug/m3 SC,2,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+03/22/2012,AQS,60131002,1,5,ug/m3 SC,5,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+03/28/2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+04-03-2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+04-09-2012,AQS,60131002,1,15,ug/m3 SC,14,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+04/15/2012,AQS,60131002,1,11,ug/m3 SC,10,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+04/21/2012,AQS,60131002,1,16,ug/m3 SC,15,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+04/27/2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+05-03-2012,AQS,60131002,1,5,ug/m3 SC,5,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+05-09-2012,AQS,60131002,1,28,ug/m3 SC,26,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+05/15/2012,AQS,60131002,1,17,ug/m3 SC,16,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+05/21/2012,AQS,60131002,1,11,ug/m3 SC,10,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+05/27/2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+06-02-2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+06-08-2012,AQS,60131002,1,11,ug/m3 SC,10,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+06/14/2012,AQS,60131002,1,26,ug/m3 SC,24,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+06/20/2012,AQS,60131002,1,19,ug/m3 SC,18,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+06/26/2012,AQS,60131002,1,8,ug/m3 SC,7,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+07-02-2012,AQS,60131002,1,16,ug/m3 SC,15,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+07-08-2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+07/14/2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+07/20/2012,AQS,60131002,1,10,ug/m3 SC,9,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+07/26/2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08-01-2012,AQS,60131002,1,20,ug/m3 SC,19,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08-07-2012,AQS,60131002,1,10,ug/m3 SC,9,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08/13/2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08/19/2012,AQS,60131002,1,8,ug/m3 SC,7,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08/25/2012,AQS,60131002,1,14,ug/m3 SC,13,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+08/31/2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+09-06-2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+09-12-2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+09/18/2012,AQS,60131002,1,10,ug/m3 SC,9,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+09/24/2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+09/30/2012,AQS,60131002,1,19,ug/m3 SC,18,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+10-06-2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+10-12-2012,AQS,60131002,1,10,ug/m3 SC,9,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+10/18/2012,AQS,60131002,1,51,ug/m3 SC,47,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+10/24/2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+10/30/2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+11-05-2012,AQS,60131002,1,21,ug/m3 SC,19,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+11-11-2012,AQS,60131002,1,16,ug/m3 SC,15,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+11/17/2012,AQS,60131002,1,10,ug/m3 SC,9,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+11/23/2012,AQS,60131002,1,13,ug/m3 SC,12,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+11/29/2012,AQS,60131002,1,8,ug/m3 SC,7,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+12-05-2012,AQS,60131002,1,18,ug/m3 SC,17,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+12-11-2012,AQS,60131002,1,14,ug/m3 SC,13,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+12/17/2012,AQS,60131002,1,12,ug/m3 SC,11,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+12/23/2012,AQS,60131002,1,4,ug/m3 SC,4,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+12/29/2012,AQS,60131002,1,9,ug/m3 SC,8,Bethel Island,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,38.006311,-121.641918
+01-04-2012,AQS,60131004,1,17,ug/m3 SC,16,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+01-10-2012,AQS,60131004,1,36,ug/m3 SC,33,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+01/16/2012,AQS,60131004,1,11,ug/m3 SC,10,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+01/22/2012,AQS,60131004,1,13,ug/m3 SC,12,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+01/28/2012,AQS,60131004,1,9,ug/m3 SC,8,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+02-03-2012,AQS,60131004,1,16,ug/m3 SC,15,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+02-09-2012,AQS,60131004,1,17,ug/m3 SC,16,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+02/15/2012,AQS,60131004,1,6,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+02/21/2012,AQS,60131004,1,14,ug/m3 SC,13,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+02/27/2012,AQS,60131004,1,17,ug/m3 SC,16,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+03-04-2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+03-10-2012,AQS,60131004,1,10,ug/m3 SC,9,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+03/16/2012,AQS,60131004,1,5,ug/m3 SC,5,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+03/22/2012,AQS,60131004,1,8,ug/m3 SC,7,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+03/28/2012,AQS,60131004,1,17,ug/m3 SC,16,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+04-03-2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+04-09-2012,AQS,60131004,1,18,ug/m3 SC,17,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+04/15/2012,AQS,60131004,1,18,ug/m3 SC,17,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+04/21/2012,AQS,60131004,1,20,ug/m3 SC,19,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+04/27/2012,AQS,60131004,1,11,ug/m3 SC,10,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+05-03-2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+05-09-2012,AQS,60131004,1,45,ug/m3 SC,42,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+05/15/2012,AQS,60131004,1,13,ug/m3 SC,12,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+05/21/2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+05/27/2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+06-02-2012,AQS,60131004,1,8,ug/m3 SC,7,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+06-08-2012,AQS,60131004,1,16,ug/m3 SC,15,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+06/14/2012,AQS,60131004,1,44,ug/m3 SC,41,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+06/20/2012,AQS,60131004,1,35,ug/m3 SC,32,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+06/26/2012,AQS,60131004,1,10,ug/m3 SC,9,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+07-02-2012,AQS,60131004,1,26,ug/m3 SC,24,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+07-08-2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+07/14/2012,AQS,60131004,1,9,ug/m3 SC,8,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+07/20/2012,AQS,60131004,1,14,ug/m3 SC,13,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+07/26/2012,AQS,60131004,1,10,ug/m3 SC,9,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08-01-2012,AQS,60131004,1,20,ug/m3 SC,19,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08-07-2012,AQS,60131004,1,15,ug/m3 SC,14,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08/13/2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08/19/2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08/25/2012,AQS,60131004,1,15,ug/m3 SC,14,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+08/31/2012,AQS,60131004,1,17,ug/m3 SC,16,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+09-06-2012,AQS,60131004,1,14,ug/m3 SC,13,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+09-12-2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+09/18/2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+09/24/2012,AQS,60131004,1,14,ug/m3 SC,13,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+09/30/2012,AQS,60131004,1,16,ug/m3 SC,15,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+10-06-2012,AQS,60131004,1,13,ug/m3 SC,12,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+10-12-2012,AQS,60131004,1,11,ug/m3 SC,10,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+10/18/2012,AQS,60131004,1,39,ug/m3 SC,36,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+10/24/2012,AQS,60131004,1,9,ug/m3 SC,8,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+10/30/2012,AQS,60131004,1,9,ug/m3 SC,8,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+11-05-2012,AQS,60131004,1,20,ug/m3 SC,19,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+11-11-2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+11/17/2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+11/23/2012,AQS,60131004,1,16,ug/m3 SC,15,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+11/29/2012,AQS,60131004,1,11,ug/m3 SC,10,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+12-05-2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+12-11-2012,AQS,60131004,1,15,ug/m3 SC,14,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+12/17/2012,AQS,60131004,1,10,ug/m3 SC,9,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+12/23/2012,AQS,60131004,1,7,ug/m3 SC,6,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811
+12/29/2012,AQS,60131004,1,12,ug/m3 SC,11,San Pablo,1,100,81102,PM10 Total 0-10um STP,41860,"San Francisco-Oakland-Hayward, CA",6,California,13,Contra Costa,37.9604,-122.356811

@@ -1,0 +1,699 @@
+Date,Source,Site ID,POC,Daily Max 8-hour CO Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-02-2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-03-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-04-2012,AQS,60850005,1,1.8,ppm,20,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-05-2012,AQS,60850005,1,1.8,ppm,20,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-06-2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-07-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-08-2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-09-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-10-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-11-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-12-2012,AQS,60850005,1,1.8,ppm,20,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/13/2012,AQS,60850005,1,1.6,ppm,18,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/14/2012,AQS,60850005,1,1.9,ppm,22,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/15/2012,AQS,60850005,1,1.9,ppm,22,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/16/2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/17/2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/18/2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/19/2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/20/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/21/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/22/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/23/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/24/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/28/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/29/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01/31/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-02-2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,20,83,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-03-2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-04-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-05-2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-06-2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-07-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-08-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-09-2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-10-2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-11-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/13/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/14/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/15/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,21,88,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/16/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/17/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/18/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/19/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/20/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/21/2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/22/2012,AQS,60850005,1,1.3,ppm,15,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/23/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/24/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/25/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/26/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/27/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+02/28/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-01-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-02-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-03-2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-04-2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-05-2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-06-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-07-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-09-2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-10-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-11-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03-12-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/13/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/14/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/15/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/16/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/17/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/18/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/19/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/20/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/21/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/22/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/23/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/24/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/25/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/26/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/28/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/29/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/30/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+03/31/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-01-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-02-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-03-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-04-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-05-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-06-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-07-2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-08-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-09-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-10-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-11-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04-12-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,19,79,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/13/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/14/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/15/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/16/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/17/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/18/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/19/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/20/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/21/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/22/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/23/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/24/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/25/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/26/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/27/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/28/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/29/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+04/30/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-01-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-02-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,21,88,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-03-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-04-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-05-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-06-2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-07-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-08-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-09-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-10-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-11-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/13/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/14/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/15/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/16/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/17/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/18/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/19/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/20/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/21/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/22/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/24/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/25/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/26/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/27/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/28/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/29/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+05/31/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-01-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-02-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-03-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-04-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-06-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-08-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-09-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-10-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-11-2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/13/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/14/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/15/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/16/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/17/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/18/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/19/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/20/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/21/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/22/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/23/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/24/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/25/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/26/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/27/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/28/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/29/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+06/30/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-01-2012,AQS,60850005,1,0.1,ppm,1,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-02-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-03-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-04-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-05-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-06-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-07-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-08-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-09-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-10-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-11-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/13/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/14/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/15/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/16/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/17/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/18/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/19/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,21,88,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/20/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/21/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/22/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/23/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/24/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/25/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/26/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/27/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/28/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/29/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/30/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+07/31/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-01-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-02-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-03-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-04-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-05-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-06-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-07-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-08-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-09-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-10-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-11-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/13/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/14/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/15/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/16/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/17/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/18/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/19/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/20/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/21/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/22/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/23/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/24/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/25/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/26/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/28/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/29/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+08/30/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-01-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-02-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-03-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-04-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,19,79,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-05-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-07-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-08-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-09-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-10-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-11-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09-12-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/13/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/14/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/15/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/16/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/17/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/18/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/19/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/20/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/21/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/22/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/23/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/24/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/25/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/26/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/27/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/28/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/29/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+09/30/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-01-2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-02-2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-03-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-04-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-05-2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-06-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-07-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-08-2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-09-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-10-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-11-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10-12-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/14/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/15/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/16/2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/17/2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/18/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/19/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/20/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/21/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/22/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/23/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/24/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/25/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/26/2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/27/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/28/2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/29/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/30/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+10/31/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-01-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-02-2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-03-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-04-2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-05-2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11-06-2012,AQS,60850005,1,1.3,ppm,15,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/14/2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,22,92,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/15/2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/16/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/17/2012,AQS,60850005,1,0.2,ppm,2,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/18/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/22/2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/23/2012,AQS,60850005,1,1.3,ppm,15,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/24/2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/25/2012,AQS,60850005,1,1.7,ppm,19,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/28/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/29/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+11/30/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-01-2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-02-2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-03-2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-04-2012,AQS,60850005,1,0.8,ppm,9,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-05-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-06-2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-07-2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-08-2012,AQS,60850005,1,1.3,ppm,15,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-09-2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-10-2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-11-2012,AQS,60850005,1,1.5,ppm,17,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12-12-2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/13/2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/14/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/15/2012,AQS,60850005,1,0.9,ppm,10,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/16/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/17/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/18/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/19/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/20/2012,AQS,60850005,1,0.5,ppm,6,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/21/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/22/2012,AQS,60850005,1,0.4,ppm,5,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/23/2012,AQS,60850005,1,0.3,ppm,3,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/24/2012,AQS,60850005,1,0.7,ppm,8,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/25/2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/26/2012,AQS,60850005,1,0.6,ppm,7,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/27/2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/28/2012,AQS,60850005,1,1,ppm,11,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/29/2012,AQS,60850005,1,1.1,ppm,13,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/30/2012,AQS,60850005,1,1.2,ppm,14,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+12/31/2012,AQS,60850005,1,1.4,ppm,16,San Jose - Jackson,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.348497,-121.894898
+01-01-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,19,79,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-02-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-03-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-04-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-05-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-07-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-08-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-09-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-10-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-11-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01-12-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/13/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/14/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/15/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/17/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/18/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/19/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/20/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/21/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/22/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/23/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/24/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/25/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/26/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/27/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/29/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/30/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+01/31/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-01-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-02-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-03-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-04-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-05-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-06-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-07-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-08-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-09-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-10-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-11-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02-12-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/14/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/15/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/16/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/17/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/18/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/20/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/21/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/22/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/23/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/24/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/25/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/26/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/27/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+02/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-01-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-02-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-03-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-04-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-05-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-06-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-07-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-08-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-09-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-10-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-11-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03-12-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/13/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/14/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/15/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/16/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/17/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/18/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/19/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/20/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/21/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/22/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/23/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/24/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/25/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/26/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/27/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/28/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/29/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/30/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+03/31/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-02-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-03-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-04-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-05-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-06-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-07-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-08-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-09-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-10-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-11-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04-12-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/14/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/15/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/16/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/17/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/20/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/21/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/22/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/23/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/24/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/25/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/26/2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/27/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/28/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/29/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+04/30/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,19,79,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-01-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-02-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-03-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-04-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-05-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-06-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-07-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-08-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-09-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-10-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-11-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05-12-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/14/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/15/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/20/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/21/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/22/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/23/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/24/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,18,75,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/25/2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/26/2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/27/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/28/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/30/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+05/31/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-02-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-03-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-04-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-05-2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-06-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-07-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-08-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-09-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-10-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-11-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06-12-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/14/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,21,88,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/15/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/19/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/20/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/21/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/22/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/23/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/24/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/25/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/26/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/27/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/28/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/29/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+06/30/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-01-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-02-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-03-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-04-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-05-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-07-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-08-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-09-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-10-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-11-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07-12-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/14/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/15/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/20/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/21/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/22/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/23/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/24/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/25/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/26/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/27/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/29/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/30/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+07/31/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-02-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-03-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-04-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-05-2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-06-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-07-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-08-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-09-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-10-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-11-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08-12-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/13/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/14/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/15/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/19/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/20/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/21/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/22/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/23/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/24/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/25/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/26/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/27/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/28/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/29/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+08/30/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-02-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-03-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-04-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-05-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-06-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-07-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-08-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-09-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-10-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-11-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09-12-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/13/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/14/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/15/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/19/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/20/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/21/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/22/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/23/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/24/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/25/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/26/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/27/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/29/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+09/30/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-01-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-02-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-03-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-04-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-05-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-06-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-07-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-08-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-09-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-10-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-11-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10-12-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/13/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/14/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/15/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/17/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/18/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/19/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/20/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/21/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/22/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/23/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/24/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/25/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/26/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/27/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/29/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/30/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+10/31/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-02-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-03-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-04-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-05-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-06-2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-07-2012,AQS,60852009,1,0.8,ppm,9,Cupertino Monta Vista,23,96,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-08-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-09-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-10-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-11-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11-12-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/13/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/14/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/15/2012,AQS,60852009,1,0.8,ppm,9,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/16/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/17/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/18/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/20/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/21/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/22/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/23/2012,AQS,60852009,1,0.8,ppm,9,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/24/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/25/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/26/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/27/2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/28/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/29/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+11/30/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-01-2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-02-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-03-2012,AQS,60852009,1,0.8,ppm,9,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-04-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-05-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-06-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-07-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-08-2012,AQS,60852009,1,0.8,ppm,9,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-09-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-10-2012,AQS,60852009,1,0.6,ppm,7,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-11-2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12-12-2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/13/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/14/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/15/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/16/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/17/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/18/2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/19/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/20/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/21/2012,AQS,60852009,1,0.2,ppm,2,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/22/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/23/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/24/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/25/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/26/2012,AQS,60852009,1,0.3,ppm,3,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/27/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/28/2012,AQS,60852009,1,0.7,ppm,8,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/29/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/30/2012,AQS,60852009,1,0.5,ppm,6,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705
+12/31/2012,AQS,60852009,1,0.4,ppm,5,Cupertino Monta Vista,24,100,42101,Carbon monoxide,41940,"San Jose-Sunnyvale-Santa Clara, CA",6,California,85,Santa Clara,37.318435,-122.069705

@@ -1,0 +1,442 @@
+Date,Source,Site ID,POC,Daily Max 1-hour NO2 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-01-2011,AQS,60231004,1,27.9,ppb,25,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-02-2011,AQS,60231004,1,15.2,ppb,14,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-03-2011,AQS,60231004,1,18.2,ppb,17,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-04-2011,AQS,60231004,1,18.4,ppb,17,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-05-2011,AQS,60231004,1,18.7,ppb,17,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-06-2011,AQS,60231004,1,15.2,ppb,14,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-07-2011,AQS,60231004,1,16.6,ppb,15,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-08-2011,AQS,60231004,1,8.6,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-09-2011,AQS,60231004,1,15.9,ppb,14,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-10-2011,AQS,60231004,1,20.3,ppb,19,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-11-2011,AQS,60231004,1,18.5,ppb,17,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-12-2011,AQS,60231004,1,3.2,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/13/2011,AQS,60231004,1,6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/14/2011,AQS,60231004,1,18.2,ppb,17,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/15/2011,AQS,60231004,1,9,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/16/2011,AQS,60231004,1,6.5,ppb,6,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/17/2011,AQS,60231004,1,9.9,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/18/2011,AQS,60231004,1,13.1,ppb,12,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/19/2011,AQS,60231004,1,14,ppb,13,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/20/2011,AQS,60231004,1,13,ppb,12,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/21/2011,AQS,60231004,1,7.4,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/22/2011,AQS,60231004,1,10.6,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/23/2011,AQS,60231004,1,13.7,ppb,12,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/24/2011,AQS,60231004,1,16.7,ppb,15,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/25/2011,AQS,60231004,1,11.4,ppb,10,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/26/2011,AQS,60231004,1,25.6,ppb,24,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/27/2011,AQS,60231004,1,26.9,ppb,25,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/28/2011,AQS,60231004,1,5.8,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/29/2011,AQS,60231004,1,6.6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/30/2011,AQS,60231004,1,16,ppb,15,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/31/2011,AQS,60231004,1,7.4,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-01-2011,AQS,60231004,1,12.1,ppb,11,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-02-2011,AQS,60231004,1,16.2,ppb,15,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-03-2011,AQS,60231004,1,16.9,ppb,15,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-04-2011,AQS,60231004,1,9.7,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-05-2011,AQS,60231004,1,4.1,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-06-2011,AQS,60231004,1,2.9,ppb,2,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-07-2011,AQS,60231004,1,9.1,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-08-2011,AQS,60231004,1,9.1,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-09-2011,AQS,60231004,1,14.5,ppb,13,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-10-2011,AQS,60231004,1,16.7,ppb,15,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-11-2011,AQS,60231004,1,16.6,ppb,15,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-12-2011,AQS,60231004,1,9.4,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/13/2011,AQS,60231004,1,17.4,ppb,16,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/14/2011,AQS,60231004,1,1.2,ppb,1,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/15/2011,AQS,60231004,1,5,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/16/2011,AQS,60231004,1,3.6,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/17/2011,AQS,60231004,1,6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/18/2011,AQS,60231004,1,8.3,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/19/2011,AQS,60231004,1,6.9,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/20/2011,AQS,60231004,1,8.3,ppb,8,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/21/2011,AQS,60231004,1,10.4,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/24/2011,AQS,60231004,1,10,ppb,9,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/25/2011,AQS,60231004,1,12.6,ppb,11,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/26/2011,AQS,60231004,1,13.7,ppb,12,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/27/2011,AQS,60231004,1,7.1,ppb,7,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/28/2011,AQS,60231004,1,0.9,ppb,0,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-01-2011,AQS,60231004,1,1.2,ppb,1,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-02-2011,AQS,60231004,1,14.7,ppb,13,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-03-2011,AQS,60231004,1,17.2,ppb,16,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-04-2011,AQS,60231004,1,20.5,ppb,19,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-05-2011,AQS,60231004,1,24.4,ppb,23,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-06-2011,AQS,60231004,1,12.1,ppb,11,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-07-2011,AQS,60231004,1,6.4,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-08-2011,AQS,60231004,1,10.8,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-09-2011,AQS,60231004,1,6.5,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-10-2011,AQS,60231004,1,12.7,ppb,11,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-11-2011,AQS,60231004,1,9.2,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-12-2011,AQS,60231004,1,1.4,ppb,1,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/13/2011,AQS,60231004,1,1.3,ppb,1,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/14/2011,AQS,60231004,1,4.2,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/15/2011,AQS,60231004,1,5,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/19/2011,AQS,60231004,1,9,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/20/2011,AQS,60231004,1,4.6,ppb,4,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/22/2011,AQS,60231004,1,4.2,ppb,4,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/24/2011,AQS,60231004,1,1.2,ppb,1,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/25/2011,AQS,60231004,1,2.4,ppb,2,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/26/2011,AQS,60231004,1,2.2,ppb,2,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/27/2011,AQS,60231004,1,2.1,ppb,2,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/28/2011,AQS,60231004,1,10.7,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/29/2011,AQS,60231004,1,7.8,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/30/2011,AQS,60231004,1,7.1,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/31/2011,AQS,60231004,1,4.7,ppb,4,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-01-2011,AQS,60231004,1,5.7,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-02-2011,AQS,60231004,1,1.6,ppb,1,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-03-2011,AQS,60231004,1,5.6,ppb,5,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-04-2011,AQS,60231004,1,11.7,ppb,10,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-05-2011,AQS,60231004,1,4.1,ppb,4,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-06-2011,AQS,60231004,1,6.4,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-07-2011,AQS,60231004,1,9.3,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-08-2011,AQS,60231004,1,13.1,ppb,12,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-09-2011,AQS,60231004,1,6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-10-2011,AQS,60231004,1,3.3,ppb,3,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-11-2011,AQS,60231004,1,13.4,ppb,12,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-12-2011,AQS,60231004,1,7,ppb,7,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/13/2011,AQS,60231004,1,3.8,ppb,3,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/14/2011,AQS,60231004,1,6.7,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/15/2011,AQS,60231004,1,2.6,ppb,2,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/16/2011,AQS,60231004,1,6.1,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/17/2011,AQS,60231004,1,5.3,ppb,5,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/18/2011,AQS,60231004,1,6.6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/19/2011,AQS,60231004,1,9.4,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/20/2011,AQS,60231004,1,8.7,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/21/2011,AQS,60231004,1,5.7,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/22/2011,AQS,60231004,1,5.6,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/23/2011,AQS,60231004,1,6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/24/2011,AQS,60231004,1,5.4,ppb,5,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/25/2011,AQS,60231004,1,6.1,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/26/2011,AQS,60231004,1,5.2,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/27/2011,AQS,60231004,1,7.1,ppb,7,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/28/2011,AQS,60231004,1,12.1,ppb,11,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/29/2011,AQS,60231004,1,8.6,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/30/2011,AQS,60231004,1,5.1,ppb,5,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-01-2011,AQS,60231004,1,9.6,ppb,8,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-02-2011,AQS,60231004,1,10.1,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-03-2011,AQS,60231004,1,18.6,ppb,17,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-04-2011,AQS,60231004,1,14.5,ppb,13,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-05-2011,AQS,60231004,1,4.9,ppb,4,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-06-2011,AQS,60231004,1,4.9,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-07-2011,AQS,60231004,1,3.9,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-08-2011,AQS,60231004,1,2.6,ppb,2,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-09-2011,AQS,60231004,1,8.3,ppb,8,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-10-2011,AQS,60231004,1,2.7,ppb,2,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-11-2011,AQS,60231004,1,3.5,ppb,3,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-12-2011,AQS,60231004,1,5.2,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/13/2011,AQS,60231004,1,5.4,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/14/2011,AQS,60231004,1,6,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/15/2011,AQS,60231004,1,1.5,ppb,1,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/16/2011,AQS,60231004,1,7.1,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/27/2011,AQS,60231004,1,3.8,ppb,3,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/28/2011,AQS,60231004,1,9.9,ppb,8,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/29/2011,AQS,60231004,1,1.3,ppb,1,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/30/2011,AQS,60231004,1,2.8,ppb,2,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/31/2011,AQS,60231004,1,1.6,ppb,1,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-01-2011,AQS,60231004,1,3.8,ppb,3,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-02-2011,AQS,60231004,1,5.6,ppb,5,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-03-2011,AQS,60231004,1,3,ppb,3,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-04-2011,AQS,60231004,1,3.2,ppb,3,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-05-2011,AQS,60231004,1,4.4,ppb,4,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-06-2011,AQS,60231004,1,1.7,ppb,1,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-07-2011,AQS,60231004,1,2.3,ppb,2,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-08-2011,AQS,60231004,1,7.2,ppb,7,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-09-2011,AQS,60231004,1,4.7,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-10-2011,AQS,60231004,1,5.1,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-11-2011,AQS,60231004,1,6.2,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-12-2011,AQS,60231004,1,2.5,ppb,2,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/13/2011,AQS,60231004,1,3.3,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/14/2011,AQS,60231004,1,4.7,ppb,4,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/15/2011,AQS,60231004,1,5,ppb,5,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/17/2011,AQS,60231004,1,4.3,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/18/2011,AQS,60231004,1,4.8,ppb,4,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/19/2011,AQS,60231004,1,2.7,ppb,2,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/20/2011,AQS,60231004,1,3.2,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/21/2011,AQS,60231004,1,2.2,ppb,2,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/22/2011,AQS,60231004,1,5.2,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/23/2011,AQS,60231004,1,4,ppb,4,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/24/2011,AQS,60231004,1,2.7,ppb,2,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/25/2011,AQS,60231004,1,4.4,ppb,4,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/26/2011,AQS,60231004,1,5,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/27/2011,AQS,60231004,1,5.9,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/28/2011,AQS,60231004,1,5.2,ppb,5,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/29/2011,AQS,60231004,1,13.2,ppb,12,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/30/2011,AQS,60231004,1,5.5,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/31/2011,AQS,60231004,1,5.8,ppb,5,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-01-2011,AQS,60231004,1,4.6,ppb,4,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-02-2011,AQS,60231004,1,5.7,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-03-2011,AQS,60231004,1,3.7,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-04-2011,AQS,60231004,1,3.8,ppb,3,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-05-2011,AQS,60231004,1,3.7,ppb,3,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-06-2011,AQS,60231004,1,6.5,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-07-2011,AQS,60231004,1,6.7,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-08-2011,AQS,60231004,1,6.4,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-09-2011,AQS,60231004,1,6.7,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-10-2011,AQS,60231004,1,5.8,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-11-2011,AQS,60231004,1,8.3,ppb,8,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-12-2011,AQS,60231004,1,12,ppb,11,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/13/2011,AQS,60231004,1,6.3,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/22/2011,AQS,60231004,1,10.6,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/23/2011,AQS,60231004,1,5.4,ppb,5,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/24/2011,AQS,60231004,1,2.1,ppb,2,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/26/2011,AQS,60231004,1,8.5,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/27/2011,AQS,60231004,1,6.6,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/28/2011,AQS,60231004,1,11.7,ppb,10,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/29/2011,AQS,60231004,1,5.3,ppb,5,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/30/2011,AQS,60231004,1,8.4,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-01-2011,AQS,60231004,1,6.2,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-02-2011,AQS,60231004,1,4.8,ppb,4,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-03-2011,AQS,60231004,1,15.9,ppb,14,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-04-2011,AQS,60231004,1,7.4,ppb,7,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-05-2011,AQS,60231004,1,2.7,ppb,2,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-06-2011,AQS,60231004,1,7.5,ppb,7,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-07-2011,AQS,60231004,1,7.5,ppb,7,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-08-2011,AQS,60231004,1,7.5,ppb,7,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-09-2011,AQS,60231004,1,8.6,ppb,8,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-10-2011,AQS,60231004,1,8.3,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/14/2011,AQS,60231004,1,14.7,ppb,13,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/15/2011,AQS,60231004,1,6.1,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/16/2011,AQS,60231004,1,3.5,ppb,3,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/17/2011,AQS,60231004,1,9.9,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/18/2011,AQS,60231004,1,5.2,ppb,5,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/19/2011,AQS,60231004,1,7.5,ppb,7,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/20/2011,AQS,60231004,1,11.5,ppb,10,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/21/2011,AQS,60231004,1,11.1,ppb,10,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/22/2011,AQS,60231004,1,3.9,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/24/2011,AQS,60231004,1,17.7,ppb,16,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/25/2011,AQS,60231004,1,7.5,ppb,7,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/26/2011,AQS,60231004,1,8.9,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/27/2011,AQS,60231004,1,9.7,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/28/2011,AQS,60231004,1,22.3,ppb,21,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/29/2011,AQS,60231004,1,8.1,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/30/2011,AQS,60231004,1,8.9,ppb,8,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/31/2011,AQS,60231004,1,10.2,ppb,9,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-01-2011,AQS,60231004,1,16.7,ppb,15,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-02-2011,AQS,60231004,1,14.6,ppb,13,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-03-2011,AQS,60231004,1,10.1,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-04-2011,AQS,60231004,1,14.4,ppb,13,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-05-2011,AQS,60231004,1,3.1,ppb,3,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-06-2011,AQS,60231004,1,12.3,ppb,11,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-07-2011,AQS,60231004,1,8.8,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-08-2011,AQS,60231004,1,15.8,ppb,14,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-09-2011,AQS,60231004,1,19.3,ppb,18,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-10-2011,AQS,60231004,1,16.9,ppb,15,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-11-2011,AQS,60231004,1,17,ppb,16,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-12-2011,AQS,60231004,1,12.2,ppb,11,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/13/2011,AQS,60231004,1,11,ppb,10,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/14/2011,AQS,60231004,1,9.3,ppb,8,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/15/2011,AQS,60231004,1,17.9,ppb,16,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/16/2011,AQS,60231004,1,6.2,ppb,6,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/17/2011,AQS,60231004,1,7.7,ppb,7,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/18/2011,AQS,60231004,1,10.7,ppb,9,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/19/2011,AQS,60231004,1,1.2,ppb,1,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/21/2011,AQS,60231004,1,1.4,ppb,1,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/22/2011,AQS,60231004,1,0.7,ppb,0,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/23/2011,AQS,60231004,1,9.4,ppb,8,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/24/2011,AQS,60231004,1,8.1,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/25/2011,AQS,60231004,1,14.9,ppb,13,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/26/2011,AQS,60231004,1,9.4,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/27/2011,AQS,60231004,1,10.6,ppb,9,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/28/2011,AQS,60231004,1,8.1,ppb,8,Jacobs,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/29/2011,AQS,60231004,1,6.5,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/30/2011,AQS,60231004,1,9.1,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-01-2011,AQS,60231004,1,15.4,ppb,14,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-02-2011,AQS,60231004,1,14.9,ppb,13,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-03-2011,AQS,60231004,1,11.5,ppb,10,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-04-2011,AQS,60231004,1,14.9,ppb,13,Jacobs,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-05-2011,AQS,60231004,1,21.7,ppb,20,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-07-2011,AQS,60231004,1,24.5,ppb,23,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-08-2011,AQS,60231004,1,17.6,ppb,16,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-09-2011,AQS,60231004,1,10.9,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-10-2011,AQS,60231004,1,8,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-11-2011,AQS,60231004,1,12.9,ppb,11,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-12-2011,AQS,60231004,1,19.9,ppb,18,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/13/2011,AQS,60231004,1,15,ppb,14,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/14/2011,AQS,60231004,1,9.9,ppb,8,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/15/2011,AQS,60231004,1,20.2,ppb,19,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/16/2011,AQS,60231004,1,14,ppb,13,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/17/2011,AQS,60231004,1,6.9,ppb,6,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/19/2011,AQS,60231004,1,12.7,ppb,11,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/21/2011,AQS,60231004,1,12.9,ppb,11,Jacobs,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/22/2011,AQS,60231004,1,24.1,ppb,23,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/23/2011,AQS,60231004,1,25.5,ppb,24,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/24/2011,AQS,60231004,1,9.6,ppb,8,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/25/2011,AQS,60231004,1,10.9,ppb,9,Jacobs,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/26/2011,AQS,60231004,1,10.7,ppb,9,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/27/2011,AQS,60231004,1,11.4,ppb,10,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/28/2011,AQS,60231004,1,6.1,ppb,6,Jacobs,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/29/2011,AQS,60231004,1,10,ppb,9,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/30/2011,AQS,60231004,1,15,ppb,14,Jacobs,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/31/2011,AQS,60231004,1,12.3,ppb,11,Jacobs,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-01-2011,AQS,60231005,1,3.5,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-02-2011,AQS,60231005,1,1,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-03-2011,AQS,60231005,1,3.1,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-04-2011,AQS,60231005,1,1.2,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-05-2011,AQS,60231005,1,1.8,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-06-2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-07-2011,AQS,60231005,1,0.7,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-08-2011,AQS,60231005,1,0.7,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-09-2011,AQS,60231005,1,0.5,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-10-2011,AQS,60231005,1,0.8,ppb,0,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-11-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-12-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/13/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/14/2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/15/2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/16/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/17/2011,AQS,60231005,1,0.8,ppb,0,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/18/2011,AQS,60231005,1,4,ppb,4,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/19/2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/20/2011,AQS,60231005,1,2.5,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/21/2011,AQS,60231005,1,1.4,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/22/2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/23/2011,AQS,60231005,1,1.3,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/24/2011,AQS,60231005,1,0.1,ppb,0,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/25/2011,AQS,60231005,1,2.1,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/26/2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/27/2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/28/2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/29/2011,AQS,60231005,1,0.6,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/30/2011,AQS,60231005,1,1.7,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-05-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-06-2011,AQS,60231005,1,0.6,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-07-2011,AQS,60231005,1,0.7,ppb,0,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-08-2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-09-2011,AQS,60231005,1,1.4,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-10-2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-11-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-12-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/13/2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/14/2011,AQS,60231005,1,1,ppb,1,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/15/2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/16/2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/18/2011,AQS,60231005,1,3.1,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/19/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/20/2011,AQS,60231005,1,1.2,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/21/2011,AQS,60231005,1,1.4,ppb,1,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/22/2011,AQS,60231005,1,3.3,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/23/2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/24/2011,AQS,60231005,1,1.8,ppb,1,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/25/2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/26/2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/27/2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/28/2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/29/2011,AQS,60231005,1,3.4,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/30/2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/31/2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-01-2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-02-2011,AQS,60231005,1,4.4,ppb,4,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-03-2011,AQS,60231005,1,1.3,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-04-2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-05-2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-06-2011,AQS,60231005,1,3.7,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-07-2011,AQS,60231005,1,3.3,ppb,3,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-08-2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-09-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-10-2011,AQS,60231005,1,2.8,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-11-2011,AQS,60231005,1,1.5,ppb,1,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-12-2011,AQS,60231005,1,4.2,ppb,4,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/13/2011,AQS,60231005,1,3.6,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/14/2011,AQS,60231005,1,2.3,ppb,2,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/15/2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/16/2011,AQS,60231005,1,1.8,ppb,1,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/17/2011,AQS,60231005,1,3.3,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/18/2011,AQS,60231005,1,2.1,ppb,2,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/19/2011,AQS,60231005,1,3.3,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/20/2011,AQS,60231005,1,3.1,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/21/2011,AQS,60231005,1,6.1,ppb,6,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/22/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/23/2011,AQS,60231005,1,2.5,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/24/2011,AQS,60231005,1,1,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/26/2011,AQS,60231005,1,3.2,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/27/2011,AQS,60231005,1,2.5,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/28/2011,AQS,60231005,1,4.3,ppb,4,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/29/2011,AQS,60231005,1,4,ppb,4,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/30/2011,AQS,60231005,1,2.9,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-01-2011,AQS,60231005,1,3.2,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-02-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-03-2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-04-2011,AQS,60231005,1,0.7,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-05-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-06-2011,AQS,60231005,1,3.1,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-07-2011,AQS,60231005,1,3.3,ppb,3,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-09-2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-10-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-11-2011,AQS,60231005,1,4,ppb,4,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-12-2011,AQS,60231005,1,3.9,ppb,3,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/13/2011,AQS,60231005,1,9.3,ppb,8,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/14/2011,AQS,60231005,1,4.6,ppb,4,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/15/2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/16/2011,AQS,60231005,1,1.6,ppb,1,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/17/2011,AQS,60231005,1,3.5,ppb,3,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/18/2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/19/2011,AQS,60231005,1,1.7,ppb,1,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/21/2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/22/2011,AQS,60231005,1,2.8,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/24/2011,AQS,60231005,1,4.4,ppb,4,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/25/2011,AQS,60231005,1,3,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/26/2011,AQS,60231005,1,3.8,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/27/2011,AQS,60231005,1,5,ppb,5,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/28/2011,AQS,60231005,1,4.4,ppb,4,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/29/2011,AQS,60231005,1,2.1,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/30/2011,AQS,60231005,1,1.6,ppb,1,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/31/2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-01-2011,AQS,60231005,1,2.9,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-02-2011,AQS,60231005,1,4.5,ppb,4,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-03-2011,AQS,60231005,1,1.1,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-04-2011,AQS,60231005,1,3.2,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-05-2011,AQS,60231005,1,0.3,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-06-2011,AQS,60231005,1,6,ppb,6,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-07-2011,AQS,60231005,1,3.7,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-08-2011,AQS,60231005,1,3.9,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-09-2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-10-2011,AQS,60231005,1,4.3,ppb,4,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-11-2011,AQS,60231005,1,5.3,ppb,5,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-12-2011,AQS,60231005,1,3.7,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/13/2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/14/2011,AQS,60231005,1,3.4,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/15/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/16/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/17/2011,AQS,60231005,1,2.5,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/18/2011,AQS,60231005,1,1.7,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/19/2011,AQS,60231005,1,0.3,ppb,0,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/21/2011,AQS,60231005,1,0.6,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/22/2011,AQS,60231005,1,0.3,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/23/2011,AQS,60231005,1,2.1,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/24/2011,AQS,60231005,1,1.6,ppb,1,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/25/2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/26/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/27/2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/28/2011,AQS,60231005,1,2.6,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/29/2011,AQS,60231005,1,2,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/30/2011,AQS,60231005,1,3,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-01-2011,AQS,60231005,1,4.9,ppb,4,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-02-2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-03-2011,AQS,60231005,1,3.5,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-04-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,19,79,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-05-2011,AQS,60231005,1,8.8,ppb,8,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-06-2011,AQS,60231005,1,8.8,ppb,8,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-07-2011,AQS,60231005,1,5.6,ppb,5,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-08-2011,AQS,60231005,1,6.3,ppb,6,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-09-2011,AQS,60231005,1,3.7,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-10-2011,AQS,60231005,1,3.5,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-11-2011,AQS,60231005,1,2.4,ppb,2,Humboldt Hill,20,83,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-12-2011,AQS,60231005,1,3.8,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/13/2011,AQS,60231005,1,4.3,ppb,4,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/14/2011,AQS,60231005,1,1.9,ppb,1,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/15/2011,AQS,60231005,1,3.4,ppb,3,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/16/2011,AQS,60231005,1,5.3,ppb,5,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/17/2011,AQS,60231005,1,1.8,ppb,1,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/19/2011,AQS,60231005,1,4.7,ppb,4,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/20/2011,AQS,60231005,1,2.7,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/21/2011,AQS,60231005,1,3.2,ppb,3,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/22/2011,AQS,60231005,1,4.4,ppb,4,Humboldt Hill,21,88,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/23/2011,AQS,60231005,1,5.2,ppb,5,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/24/2011,AQS,60231005,1,2.5,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/25/2011,AQS,60231005,1,3.4,ppb,3,Humboldt Hill,18,75,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/26/2011,AQS,60231005,1,0.9,ppb,0,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/27/2011,AQS,60231005,1,2.1,ppb,2,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/28/2011,AQS,60231005,1,0.8,ppb,0,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/29/2011,AQS,60231005,1,2.2,ppb,2,Humboldt Hill,23,96,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/30/2011,AQS,60231005,1,3.1,ppb,3,Humboldt Hill,22,92,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/31/2011,AQS,60231005,1,5.2,ppb,5,Humboldt Hill,24,100,42602,Nitrogen dioxide (NO2),21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139

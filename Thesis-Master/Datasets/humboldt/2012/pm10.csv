@@ -1,0 +1,195 @@
+Date,Source,Site ID,POC,Daily Mean PM10 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-04-2012,AQS,60231002,2,34,ug/m3 SC,31,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+01-10-2012,AQS,60231002,2,32,ug/m3 SC,30,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+01/16/2012,AQS,60231002,2,18,ug/m3 SC,17,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+01/22/2012,AQS,60231002,2,4,ug/m3 SC,4,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+01/28/2012,AQS,60231002,2,37,ug/m3 SC,34,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+02-03-2012,AQS,60231002,2,22,ug/m3 SC,20,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+02-09-2012,AQS,60231002,2,44,ug/m3 SC,41,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+02/15/2012,AQS,60231002,2,22,ug/m3 SC,20,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+02/21/2012,AQS,60231002,2,15,ug/m3 SC,14,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+02/27/2012,AQS,60231002,2,17,ug/m3 SC,16,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+03-04-2012,AQS,60231002,2,7,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+03-10-2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+03/16/2012,AQS,60231002,2,7,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+03/22/2012,AQS,60231002,2,8,ug/m3 SC,7,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+03/28/2012,AQS,60231002,2,10,ug/m3 SC,9,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+04-03-2012,AQS,60231002,2,9,ug/m3 SC,8,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+04-09-2012,AQS,60231002,2,16,ug/m3 SC,15,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+04/15/2012,AQS,60231002,2,14,ug/m3 SC,13,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+04/21/2012,AQS,60231002,2,3,ug/m3 SC,3,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+04/27/2012,AQS,60231002,2,16,ug/m3 SC,15,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+05-03-2012,AQS,60231002,2,6,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+05-09-2012,AQS,60231002,2,34,ug/m3 SC,31,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+05/15/2012,AQS,60231002,2,14,ug/m3 SC,13,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+05/21/2012,AQS,60231002,2,9,ug/m3 SC,8,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+05/27/2012,AQS,60231002,2,12,ug/m3 SC,11,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+06/15/2012,AQS,60231002,2,31,ug/m3 SC,29,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+06/20/2012,AQS,60231002,2,26,ug/m3 SC,24,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+06/26/2012,AQS,60231002,2,7,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+07-02-2012,AQS,60231002,2,13,ug/m3 SC,12,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+07-08-2012,AQS,60231002,2,7,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+07/14/2012,AQS,60231002,2,15,ug/m3 SC,14,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+07/20/2012,AQS,60231002,2,8,ug/m3 SC,7,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+07/26/2012,AQS,60231002,2,6,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08-01-2012,AQS,60231002,2,15,ug/m3 SC,14,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08-07-2012,AQS,60231002,2,6,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08/13/2012,AQS,60231002,2,16,ug/m3 SC,15,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08/19/2012,AQS,60231002,2,3,ug/m3 SC,3,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08/25/2012,AQS,60231002,2,17,ug/m3 SC,16,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+08/31/2012,AQS,60231002,2,17,ug/m3 SC,16,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+09-06-2012,AQS,60231002,2,6,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+09-12-2012,AQS,60231002,2,23,ug/m3 SC,21,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+09/18/2012,AQS,60231002,2,12,ug/m3 SC,11,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+09/24/2012,AQS,60231002,2,27,ug/m3 SC,25,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+09/30/2012,AQS,60231002,2,24,ug/m3 SC,22,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10-03-2012,AQS,60231002,2,47,ug/m3 SC,44,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10-06-2012,AQS,60231002,2,15,ug/m3 SC,14,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10-10-2012,AQS,60231002,2,21,ug/m3 SC,19,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10-12-2012,AQS,60231002,2,13,ug/m3 SC,12,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/16/2012,AQS,60231002,2,23,ug/m3 SC,21,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/18/2012,AQS,60231002,2,34,ug/m3 SC,31,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/21/2012,AQS,60231002,2,13,ug/m3 SC,12,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/24/2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/27/2012,AQS,60231002,2,6,ug/m3 SC,6,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+10/30/2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11-02-2012,AQS,60231002,2,9,ug/m3 SC,8,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11-06-2012,AQS,60231002,2,23,ug/m3 SC,21,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11-08-2012,AQS,60231002,2,8,ug/m3 SC,7,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11-11-2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/14/2012,AQS,60231002,2,14,ug/m3 SC,13,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/17/2012,AQS,60231002,2,8,ug/m3 SC,7,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/20/2012,AQS,60231002,2,8,ug/m3 SC,7,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/23/2012,AQS,60231002,2,25,ug/m3 SC,23,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/27/2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+11/29/2012,AQS,60231002,2,4,ug/m3 SC,4,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12-02-2012,AQS,60231002,2,13,ug/m3 SC,12,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12-05-2012,AQS,60231002,2,15,ug/m3 SC,14,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12-08-2012,AQS,60231002,2,25,ug/m3 SC,23,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12-11-2012,AQS,60231002,2,11,ug/m3 SC,10,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/14/2012,AQS,60231002,2,17,ug/m3 SC,16,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/18/2012,AQS,60231002,2,9,ug/m3 SC,8,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/20/2012,AQS,60231002,2,3,ug/m3 SC,3,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/23/2012,AQS,60231002,2,13,ug/m3 SC,12,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/27/2012,AQS,60231002,2,20,ug/m3 SC,19,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+12/29/2012,AQS,60231002,2,33,ug/m3 SC,31,Eureka I Street,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.80178,-124.1621
+01-04-2012,AQS,60231004,1,32,ug/m3 SC,30,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-10-2012,AQS,60231004,1,27,ug/m3 SC,25,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/16/2012,AQS,60231004,1,15,ug/m3 SC,14,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/22/2012,AQS,60231004,1,4,ug/m3 SC,4,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/28/2012,AQS,60231004,1,31,ug/m3 SC,29,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-03-2012,AQS,60231004,1,19,ug/m3 SC,18,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-09-2012,AQS,60231004,1,36,ug/m3 SC,33,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/15/2012,AQS,60231004,1,21,ug/m3 SC,19,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/21/2012,AQS,60231004,1,12,ug/m3 SC,11,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/27/2012,AQS,60231004,1,19,ug/m3 SC,18,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-04-2012,AQS,60231004,1,9,ug/m3 SC,8,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-10-2012,AQS,60231004,1,12,ug/m3 SC,11,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/16/2012,AQS,60231004,1,8,ug/m3 SC,7,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/22/2012,AQS,60231004,1,9,ug/m3 SC,8,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/28/2012,AQS,60231004,1,10,ug/m3 SC,9,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-03-2012,AQS,60231004,1,9,ug/m3 SC,8,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-09-2012,AQS,60231004,1,19,ug/m3 SC,18,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/15/2012,AQS,60231004,1,15,ug/m3 SC,14,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/21/2012,AQS,60231004,1,3,ug/m3 SC,3,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/27/2012,AQS,60231004,1,13,ug/m3 SC,12,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-03-2012,AQS,60231004,1,5,ug/m3 SC,5,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-09-2012,AQS,60231004,1,35,ug/m3 SC,32,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/15/2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/21/2012,AQS,60231004,1,8,ug/m3 SC,7,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/27/2012,AQS,60231004,1,13,ug/m3 SC,12,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-02-2012,AQS,60231004,1,6,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-08-2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/15/2012,AQS,60231004,1,32,ug/m3 SC,30,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/20/2012,AQS,60231004,1,22,ug/m3 SC,20,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/26/2012,AQS,60231004,1,7,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-02-2012,AQS,60231004,1,13,ug/m3 SC,12,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-08-2012,AQS,60231004,1,6,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/14/2012,AQS,60231004,1,16,ug/m3 SC,15,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/20/2012,AQS,60231004,1,7,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/26/2012,AQS,60231004,1,6,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-01-2012,AQS,60231004,1,15,ug/m3 SC,14,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-07-2012,AQS,60231004,1,5,ug/m3 SC,5,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/13/2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/21/2012,AQS,60231004,1,8,ug/m3 SC,7,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/25/2012,AQS,60231004,1,18,ug/m3 SC,17,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/31/2012,AQS,60231004,1,15,ug/m3 SC,14,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-06-2012,AQS,60231004,1,5,ug/m3 SC,5,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-12-2012,AQS,60231004,1,20,ug/m3 SC,19,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/18/2012,AQS,60231004,1,13,ug/m3 SC,12,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/24/2012,AQS,60231004,1,25,ug/m3 SC,23,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/30/2012,AQS,60231004,1,21,ug/m3 SC,19,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-03-2012,AQS,60231004,1,44,ug/m3 SC,41,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-06-2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-12-2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/18/2012,AQS,60231004,1,31,ug/m3 SC,29,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/24/2012,AQS,60231004,1,13,ug/m3 SC,12,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/30/2012,AQS,60231004,1,9,ug/m3 SC,8,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-05-2012,AQS,60231004,1,12,ug/m3 SC,11,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-11-2012,AQS,60231004,1,10,ug/m3 SC,9,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/20/2012,AQS,60231004,1,7,ug/m3 SC,6,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/23/2012,AQS,60231004,1,21,ug/m3 SC,19,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/29/2012,AQS,60231004,1,3,ug/m3 SC,3,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-05-2012,AQS,60231004,1,14,ug/m3 SC,13,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-11-2012,AQS,60231004,1,9,ug/m3 SC,8,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/17/2012,AQS,60231004,1,27,ug/m3 SC,25,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/23/2012,AQS,60231004,1,12,ug/m3 SC,11,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/29/2012,AQS,60231004,1,33,ug/m3 SC,31,Jacobs,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-04-2012,AQS,60231005,1,9,ug/m3 SC,8,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-10-2012,AQS,60231005,1,20,ug/m3 SC,19,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/16/2012,AQS,60231005,1,6,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/22/2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/28/2012,AQS,60231005,1,14,ug/m3 SC,13,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-03-2012,AQS,60231005,1,11,ug/m3 SC,10,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-09-2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/15/2012,AQS,60231005,1,17,ug/m3 SC,16,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/21/2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-04-2012,AQS,60231005,1,5,ug/m3 SC,5,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-10-2012,AQS,60231005,1,8,ug/m3 SC,7,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/16/2012,AQS,60231005,1,5,ug/m3 SC,5,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/22/2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/28/2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-03-2012,AQS,60231005,1,6,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-09-2012,AQS,60231005,1,9,ug/m3 SC,8,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/15/2012,AQS,60231005,1,12,ug/m3 SC,11,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/21/2012,AQS,60231005,1,2,ug/m3 SC,2,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/27/2012,AQS,60231005,1,13,ug/m3 SC,12,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-03-2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-09-2012,AQS,60231005,1,28,ug/m3 SC,26,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/15/2012,AQS,60231005,1,13,ug/m3 SC,12,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/21/2012,AQS,60231005,1,6,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/27/2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-02-2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-08-2012,AQS,60231005,1,11,ug/m3 SC,10,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/15/2012,AQS,60231005,1,22,ug/m3 SC,20,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/20/2012,AQS,60231005,1,15,ug/m3 SC,14,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/26/2012,AQS,60231005,1,5,ug/m3 SC,5,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-02-2012,AQS,60231005,1,8,ug/m3 SC,7,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-08-2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/14/2012,AQS,60231005,1,7,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/20/2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/26/2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-01-2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-07-2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/13/2012,AQS,60231005,1,9,ug/m3 SC,8,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/19/2012,AQS,60231005,1,2,ug/m3 SC,2,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/25/2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/31/2012,AQS,60231005,1,13,ug/m3 SC,12,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-06-2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-12-2012,AQS,60231005,1,20,ug/m3 SC,19,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/18/2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/24/2012,AQS,60231005,1,18,ug/m3 SC,17,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-12-2012,AQS,60231005,1,6,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/18/2012,AQS,60231005,1,19,ug/m3 SC,18,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/24/2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/30/2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-05-2012,AQS,60231005,1,8,ug/m3 SC,7,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-11-2012,AQS,60231005,1,4,ug/m3 SC,4,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/17/2012,AQS,60231005,1,3,ug/m3 SC,3,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/23/2012,AQS,60231005,1,10,ug/m3 SC,9,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/29/2012,AQS,60231005,1,2,ug/m3 SC,2,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-05-2012,AQS,60231005,1,9,ug/m3 SC,8,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-11-2012,AQS,60231005,1,6,ug/m3 SC,6,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/17/2012,AQS,60231005,1,20,ug/m3 SC,19,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/23/2012,AQS,60231005,1,5,ug/m3 SC,5,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/29/2012,AQS,60231005,1,20,ug/m3 SC,19,Humboldt Hill,1,100,81102,PM10 Total 0-10um STP,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139

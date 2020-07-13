@@ -1,0 +1,679 @@
+Date,Source,Site ID,POC,Daily Max 8-hour CO Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-01-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-02-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-03-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-04-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-05-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-06-2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-11-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-12-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/13/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/14/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/15/2011,AQS,60250005,1,1.9,ppm,22,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/16/2011,AQS,60250005,1,1.9,ppm,22,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/17/2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/18/2011,AQS,60250005,1,4.7,ppm,53,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/19/2011,AQS,60250005,1,6.1,ppm,67,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/20/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/22/2011,AQS,60250005,1,2.8,ppm,32,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/23/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/24/2011,AQS,60250005,1,2.4,ppm,27,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/25/2011,AQS,60250005,1,2.7,ppm,31,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/26/2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/27/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/28/2011,AQS,60250005,1,2.6,ppm,30,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/29/2011,AQS,60250005,1,4.3,ppm,49,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/30/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01/31/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-02-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-03-2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-04-2011,AQS,60250005,1,2.1,ppm,24,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-05-2011,AQS,60250005,1,2.5,ppm,28,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-06-2011,AQS,60250005,1,1.8,ppm,20,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-07-2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-08-2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-09-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-10-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-11-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02-12-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/13/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/14/2011,AQS,60250005,1,2.3,ppm,26,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/15/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/16/2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/17/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/18/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/19/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/20/2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/21/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/22/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/23/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/24/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/25/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/26/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/27/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+02/28/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-01-2011,AQS,60250005,1,1.8,ppm,20,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-02-2011,AQS,60250005,1,3.3,ppm,38,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-03-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-04-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-05-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-06-2011,AQS,60250005,1,1.9,ppm,22,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-07-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-08-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-09-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-10-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03-12-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/13/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/14/2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/15/2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/16/2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/17/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/18/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/19/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/20/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/21/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/22/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/23/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/24/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/25/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/26/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/27/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/28/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/29/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/30/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+03/31/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-01-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-02-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-03-2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-04-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-05-2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-08-2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-09-2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-10-2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-11-2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04-12-2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/13/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/14/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/15/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/16/2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/17/2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/18/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/19/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/20/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/21/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/22/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/23/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/24/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/25/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/26/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/27/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/28/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/29/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+04/30/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-01-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-02-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-03-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-04-2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-05-2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-06-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-07-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-08-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-09-2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-10-2011,AQS,60250005,1,0.2,ppm,2,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-11-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05-12-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/13/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/14/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/15/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/16/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/17/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/18/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/19/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/20/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/21/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/22/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/23/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/24/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/25/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/26/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/27/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/28/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/29/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/30/2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+05/31/2011,AQS,60250005,1,2.2,ppm,25,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-02-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-03-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-04-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-05-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-06-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-07-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-08-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-09-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-10-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-11-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06-12-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/13/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/14/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/15/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/16/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/17/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/18/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/19/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/20/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/21/2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/22/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/23/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/24/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/25/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/26/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/27/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/28/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/29/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+06/30/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-01-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-02-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-03-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-04-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-05-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-06-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-07-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,19,79,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-09-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07-10-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/27/2011,AQS,60250005,1,0,ppm,0,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/29/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/30/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+07/31/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-01-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-02-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-03-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-04-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-05-2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-06-2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-07-2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-08-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-10-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-11-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08-12-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/13/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/14/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/15/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/16/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/17/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/18/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/19/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/20/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/21/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/22/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/23/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/24/2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/25/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/26/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/27/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/28/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/29/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/30/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+08/31/2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-01-2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-08-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-09-2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-10-2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-11-2011,AQS,60250005,1,0.2,ppm,2,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09-12-2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/13/2011,AQS,60250005,1,0.5,ppm,6,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/14/2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/15/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/16/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/17/2011,AQS,60250005,1,0.6,ppm,7,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/18/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+09/19/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,19,79,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-01-2011,AQS,60250005,1,0.4,ppm,5,Calexico-Ethel Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-02-2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-03-2011,AQS,60250005,1,0.3,ppm,3,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-04-2011,AQS,60250005,1,0,ppm,0,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-05-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-06-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-07-2011,AQS,60250005,1,2.1,ppm,24,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-08-2011,AQS,60250005,1,2.2,ppm,25,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-09-2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-10-2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-11-2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10-12-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/13/2011,AQS,60250005,1,3,ppm,34,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/14/2011,AQS,60250005,1,4.3,ppm,49,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/15/2011,AQS,60250005,1,2.4,ppm,27,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/16/2011,AQS,60250005,1,1.8,ppm,20,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/17/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/18/2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/19/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/20/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/21/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/22/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/23/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/24/2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/25/2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/26/2011,AQS,60250005,1,0.9,ppm,10,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/27/2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/28/2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/29/2011,AQS,60250005,1,2.1,ppm,24,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/30/2011,AQS,60250005,1,2.2,ppm,25,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+10/31/2011,AQS,60250005,1,2.4,ppm,27,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-01-2011,AQS,60250005,1,2.6,ppm,30,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-02-2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-03-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-04-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,20,83,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-05-2011,AQS,60250005,1,0.7,ppm,8,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-06-2011,AQS,60250005,1,0.8,ppm,9,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-07-2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-08-2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-09-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-10-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-11-2011,AQS,60250005,1,2.2,ppm,25,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11-12-2011,AQS,60250005,1,2.3,ppm,26,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/13/2011,AQS,60250005,1,2.6,ppm,30,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/14/2011,AQS,60250005,1,2.8,ppm,32,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/15/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/16/2011,AQS,60250005,1,1.9,ppm,22,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/17/2011,AQS,60250005,1,3.5,ppm,40,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/18/2011,AQS,60250005,1,5.5,ppm,61,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/19/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/20/2011,AQS,60250005,1,1,ppm,11,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/21/2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/22/2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/23/2011,AQS,60250005,1,3.5,ppm,40,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/24/2011,AQS,60250005,1,3.8,ppm,43,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/25/2011,AQS,60250005,1,1.6,ppm,18,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/26/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/27/2011,AQS,60250005,1,2.4,ppm,27,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/28/2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/29/2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+11/30/2011,AQS,60250005,1,5.5,ppm,61,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-01-2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-02-2011,AQS,60250005,1,1.1,ppm,13,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-03-2011,AQS,60250005,1,1.3,ppm,15,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-04-2011,AQS,60250005,1,3.7,ppm,42,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-05-2011,AQS,60250005,1,4.5,ppm,51,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-06-2011,AQS,60250005,1,1.2,ppm,14,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-07-2011,AQS,60250005,1,2.3,ppm,26,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-08-2011,AQS,60250005,1,2.3,ppm,26,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-09-2011,AQS,60250005,1,1.8,ppm,20,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-10-2011,AQS,60250005,1,2.9,ppm,33,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-11-2011,AQS,60250005,1,3.5,ppm,40,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12-12-2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/13/2011,AQS,60250005,1,2.5,ppm,28,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/14/2011,AQS,60250005,1,4.1,ppm,47,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/15/2011,AQS,60250005,1,4.1,ppm,47,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/16/2011,AQS,60250005,1,1.4,ppm,16,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/17/2011,AQS,60250005,1,1.7,ppm,19,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/18/2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/19/2011,AQS,60250005,1,2.3,ppm,26,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/20/2011,AQS,60250005,1,1.5,ppm,17,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/21/2011,AQS,60250005,1,3.1,ppm,35,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/22/2011,AQS,60250005,1,3.4,ppm,39,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/23/2011,AQS,60250005,1,2.5,ppm,28,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/24/2011,AQS,60250005,1,3,ppm,34,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/25/2011,AQS,60250005,1,4.4,ppm,50,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/26/2011,AQS,60250005,1,4.8,ppm,54,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/27/2011,AQS,60250005,1,2.4,ppm,27,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/28/2011,AQS,60250005,1,2.6,ppm,30,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/30/2011,AQS,60250005,1,3.4,ppm,39,Calexico-Ethel Street,21,88,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+12/31/2011,AQS,60250005,1,2,ppm,23,Calexico-Ethel Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.67618,-115.48307
+01-02-2011,AQS,60251003,1,1.3,ppm,15,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-03-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-04-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-05-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-06-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-07-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-08-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-09-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-10-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-11-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01-12-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/13/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/14/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/15/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/16/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/17/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/18/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/19/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/20/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/21/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/22/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/23/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/24/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/25/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/26/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/28/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/29/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/30/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+01/31/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-01-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-02-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-03-2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-04-2011,AQS,60251003,1,1.3,ppm,15,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-05-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-06-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-07-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-08-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-09-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-10-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-11-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02-12-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/13/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/14/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/15/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/16/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/17/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/18/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/19/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/20/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/21/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/22/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/23/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/24/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/25/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/26/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/27/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+02/28/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-01-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-02-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-04-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-05-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-06-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-07-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-08-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-09-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-10-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-11-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03-12-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/13/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/14/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/15/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/16/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/17/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/18/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/19/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/20/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/21/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/22/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/23/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/24/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/25/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/26/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/27/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/28/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/29/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/30/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+03/31/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-01-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-02-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-03-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-04-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-05-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-06-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-07-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-08-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-09-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-10-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-11-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04-12-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/13/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/14/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/15/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/16/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/17/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/18/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/19/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/20/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/21/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/22/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/23/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/24/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/25/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/26/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/27/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/28/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/29/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+04/30/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-01-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-02-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-03-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-04-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-05-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-06-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-07-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-08-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-09-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-10-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-11-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05-12-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/13/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/14/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/15/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/16/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/17/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/18/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/19/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/20/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/21/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/22/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/23/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/24/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/25/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/26/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/27/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/28/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/29/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/30/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+05/31/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-01-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-02-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-03-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-04-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-05-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-06-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-07-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-08-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-09-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-10-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-11-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,18,75,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06-12-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/13/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/14/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/15/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/16/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/17/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/18/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/19/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/20/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/21/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/22/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/23/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/24/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/25/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/26/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/27/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/28/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/29/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+06/30/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-01-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-02-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-03-2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-04-2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-05-2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-06-2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-07-2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-08-2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-09-2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-10-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-11-2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07-12-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/13/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/14/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/15/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/16/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/17/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/18/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/19/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/20/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/21/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/22/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/23/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/24/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/25/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/26/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/27/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/28/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/29/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/30/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+07/31/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-01-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-02-2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-03-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-04-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-05-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-06-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-07-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-08-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-09-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-10-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-11-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08-12-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/13/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/14/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/15/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/16/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/17/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/18/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/19/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/20/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/21/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/22/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/23/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/24/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/25/2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/26/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/27/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/28/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/29/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/30/2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+08/31/2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-01-2011,AQS,60251003,1,0.2,ppm,2,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-02-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-03-2011,AQS,60251003,1,0.1,ppm,1,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-04-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-05-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-06-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-07-2011,AQS,60251003,1,0,ppm,0,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-08-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-09-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-10-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-11-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09-12-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/13/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/14/2011,AQS,60251003,1,0.3,ppm,3,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/15/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/16/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/17/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/18/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/19/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/20/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/21/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/22/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/23/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/24/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/25/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/26/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/27/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/28/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/29/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+09/30/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-01-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-02-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-03-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-06-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-07-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-08-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-09-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-10-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-11-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10-12-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/13/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/14/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/15/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/16/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/17/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/18/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/19/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/20/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/21/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/22/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/23/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/24/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/25/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/26/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/27/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/28/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/29/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/30/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+10/31/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-01-2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-02-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-03-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-04-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-05-2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-06-2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-07-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-08-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-09-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-10-2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-11-2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11-12-2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/13/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/14/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/15/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/16/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/17/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/18/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/19/2011,AQS,60251003,1,0.4,ppm,5,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/20/2011,AQS,60251003,1,0.5,ppm,6,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/21/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/22/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/23/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/24/2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/25/2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/26/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/27/2011,AQS,60251003,1,0.7,ppm,8,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/28/2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/29/2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+11/30/2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-01-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-02-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-03-2011,AQS,60251003,1,0.6,ppm,7,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-04-2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-05-2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-06-2011,AQS,60251003,1,1,ppm,11,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-07-2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-08-2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-09-2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-10-2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-11-2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12-12-2011,AQS,60251003,1,1.3,ppm,15,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/13/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/14/2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/15/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/16/2011,AQS,60251003,1,0.8,ppm,9,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/17/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/18/2011,AQS,60251003,1,0.9,ppm,10,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/19/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/20/2011,AQS,60251003,1,1.2,ppm,14,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/21/2011,AQS,60251003,1,2.1,ppm,24,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/22/2011,AQS,60251003,1,2.2,ppm,25,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/23/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/24/2011,AQS,60251003,1,1.1,ppm,13,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/25/2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/26/2011,AQS,60251003,1,1.4,ppm,16,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/27/2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/28/2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/29/2011,AQS,60251003,1,1.6,ppm,18,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/30/2011,AQS,60251003,1,1.6,ppm,18,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306
+12/31/2011,AQS,60251003,1,1.5,ppm,17,El Centro-9th Street,24,100,42101,Carbon monoxide,20940,"El Centro, CA",6,California,25,Imperial,32.79222,-115.56306

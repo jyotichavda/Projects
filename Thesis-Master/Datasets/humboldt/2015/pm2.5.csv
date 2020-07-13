@@ -1,0 +1,648 @@
+Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-01-2015,AQS,60230006,1,30.5,ug/m3 LC,90,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-02-2015,AQS,60230006,1,17.1,ug/m3 LC,62,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-03-2015,AQS,60230006,1,14.5,ug/m3 LC,56,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-04-2015,AQS,60230006,1,17.3,ug/m3 LC,62,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-05-2015,AQS,60230006,1,18.9,ug/m3 LC,65,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-06-2015,AQS,60230006,1,12.5,ug/m3 LC,52,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-07-2015,AQS,60230006,1,10.6,ug/m3 LC,44,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-08-2015,AQS,60230006,1,10.7,ug/m3 LC,45,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-09-2015,AQS,60230006,1,15.6,ug/m3 LC,58,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-10-2015,AQS,60230006,1,20.9,ug/m3 LC,70,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-11-2015,AQS,60230006,1,22.5,ug/m3 LC,73,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-12-2015,AQS,60230006,1,25,ug/m3 LC,78,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/13/2015,AQS,60230006,1,11.3,ug/m3 LC,47,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/14/2015,AQS,60230006,1,10.1,ug/m3 LC,42,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/15/2015,AQS,60230006,1,19.5,ug/m3 LC,67,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/16/2015,AQS,60230006,1,4,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/17/2015,AQS,60230006,1,2.4,ug/m3 LC,10,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/18/2015,AQS,60230006,1,5.5,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/19/2015,AQS,60230006,1,5.6,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/20/2015,AQS,60230006,1,4.5,ug/m3 LC,19,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/21/2015,AQS,60230006,1,6.7,ug/m3 LC,28,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/22/2015,AQS,60230006,1,16.5,ug/m3 LC,60,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/23/2015,AQS,60230006,1,12.3,ug/m3 LC,51,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/24/2015,AQS,60230006,1,11.6,ug/m3 LC,48,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/25/2015,AQS,60230006,1,10.7,ug/m3 LC,45,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/26/2015,AQS,60230006,1,10,ug/m3 LC,42,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/27/2015,AQS,60230006,1,11.5,ug/m3 LC,48,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/28/2015,AQS,60230006,1,11.4,ug/m3 LC,48,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/29/2015,AQS,60230006,1,13.3,ug/m3 LC,54,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/30/2015,AQS,60230006,1,12.2,ug/m3 LC,51,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01/31/2015,AQS,60230006,1,10.7,ug/m3 LC,45,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-01-2015,AQS,60230006,1,11.8,ug/m3 LC,49,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-02-2015,AQS,60230006,1,10,ug/m3 LC,42,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-03-2015,AQS,60230006,1,7,ug/m3 LC,29,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-04-2015,AQS,60230006,1,7.9,ug/m3 LC,33,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-05-2015,AQS,60230006,1,5.5,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-06-2015,AQS,60230006,1,3.1,ug/m3 LC,13,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-07-2015,AQS,60230006,1,5.9,ug/m3 LC,25,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-08-2015,AQS,60230006,1,4.4,ug/m3 LC,18,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-09-2015,AQS,60230006,1,3.3,ug/m3 LC,14,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-10-2015,AQS,60230006,1,5.8,ug/m3 LC,24,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-11-2015,AQS,60230006,1,7.4,ug/m3 LC,31,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02-12-2015,AQS,60230006,1,14.5,ug/m3 LC,56,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/13/2015,AQS,60230006,1,9.4,ug/m3 LC,39,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/14/2015,AQS,60230006,1,5.8,ug/m3 LC,24,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/15/2015,AQS,60230006,1,6.9,ug/m3 LC,29,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/16/2015,AQS,60230006,1,8,ug/m3 LC,33,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/17/2015,AQS,60230006,1,9.9,ug/m3 LC,41,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/18/2015,AQS,60230006,1,7.8,ug/m3 LC,33,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/19/2015,AQS,60230006,1,5.1,ug/m3 LC,21,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/20/2015,AQS,60230006,1,6.8,ug/m3 LC,28,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/21/2015,AQS,60230006,1,8.7,ug/m3 LC,36,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/22/2015,AQS,60230006,1,14.8,ug/m3 LC,57,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/23/2015,AQS,60230006,1,12.8,ug/m3 LC,52,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/24/2015,AQS,60230006,1,13.4,ug/m3 LC,54,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/25/2015,AQS,60230006,1,16,ug/m3 LC,59,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/26/2015,AQS,60230006,1,13,ug/m3 LC,53,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/27/2015,AQS,60230006,1,3,ug/m3 LC,13,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+02/28/2015,AQS,60230006,1,5,ug/m3 LC,21,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-01-2015,AQS,60230006,1,8.2,ug/m3 LC,34,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-02-2015,AQS,60230006,1,12,ug/m3 LC,50,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-03-2015,AQS,60230006,1,7.2,ug/m3 LC,30,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-04-2015,AQS,60230006,1,10.2,ug/m3 LC,43,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-05-2015,AQS,60230006,1,10.6,ug/m3 LC,44,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-06-2015,AQS,60230006,1,9.2,ug/m3 LC,38,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-07-2015,AQS,60230006,1,9.2,ug/m3 LC,38,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-08-2015,AQS,60230006,1,9.9,ug/m3 LC,41,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-09-2015,AQS,60230006,1,12.8,ug/m3 LC,52,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-10-2015,AQS,60230006,1,18.9,ug/m3 LC,65,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-11-2015,AQS,60230006,1,11.3,ug/m3 LC,47,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03-12-2015,AQS,60230006,1,4.3,ug/m3 LC,18,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/13/2015,AQS,60230006,1,5.4,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/14/2015,AQS,60230006,1,8.6,ug/m3 LC,36,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/15/2015,AQS,60230006,1,7.6,ug/m3 LC,32,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/16/2015,AQS,60230006,1,4.9,ug/m3 LC,20,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/17/2015,AQS,60230006,1,3.3,ug/m3 LC,14,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/18/2015,AQS,60230006,1,5.2,ug/m3 LC,22,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/19/2015,AQS,60230006,1,4.4,ug/m3 LC,18,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/20/2015,AQS,60230006,1,4.1,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/21/2015,AQS,60230006,1,4.1,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/22/2015,AQS,60230006,1,5.3,ug/m3 LC,22,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/23/2015,AQS,60230006,1,2.2,ug/m3 LC,9,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/24/2015,AQS,60230006,1,3.2,ug/m3 LC,13,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/25/2015,AQS,60230006,1,3.4,ug/m3 LC,14,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/26/2015,AQS,60230006,1,3.3,ug/m3 LC,14,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/27/2015,AQS,60230006,1,3.3,ug/m3 LC,14,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/28/2015,AQS,60230006,1,3.2,ug/m3 LC,13,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/29/2015,AQS,60230006,1,5.9,ug/m3 LC,25,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/30/2015,AQS,60230006,1,5.6,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+03/31/2015,AQS,60230006,1,4,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-01-2015,AQS,60230006,1,6.4,ug/m3 LC,27,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-02-2015,AQS,60230006,1,5,ug/m3 LC,21,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-03-2015,AQS,60230006,1,8.4,ug/m3 LC,35,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-04-2015,AQS,60230006,1,6.5,ug/m3 LC,27,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-05-2015,AQS,60230006,1,6.5,ug/m3 LC,27,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-06-2015,AQS,60230006,1,1.9,ug/m3 LC,8,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-07-2015,AQS,60230006,1,1.7,ug/m3 LC,7,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-08-2015,AQS,60230006,1,2.9,ug/m3 LC,12,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-09-2015,AQS,60230006,1,4,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-10-2015,AQS,60230006,1,3.7,ug/m3 LC,15,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-11-2015,AQS,60230006,1,6.4,ug/m3 LC,27,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04-12-2015,AQS,60230006,1,5.3,ug/m3 LC,22,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/13/2015,AQS,60230006,1,4.1,ug/m3 LC,17,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/14/2015,AQS,60230006,1,3,ug/m3 LC,13,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/15/2015,AQS,60230006,1,3.6,ug/m3 LC,15,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/16/2015,AQS,60230006,1,5.6,ug/m3 LC,23,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/17/2015,AQS,60230006,1,7,ug/m3 LC,29,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/18/2015,AQS,60230006,1,6.6,ug/m3 LC,28,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+04/19/2015,AQS,60230006,1,6.2,ug/m3 LC,26,Hoopa Valley Reservation,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,41.04711698,-123.6752334
+01-03-2015,AQS,60231004,1,15.5,ug/m3 LC,58,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-06-2015,AQS,60231004,1,11.3,ug/m3 LC,47,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-09-2015,AQS,60231004,1,13.6,ug/m3 LC,54,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-12-2015,AQS,60231004,1,3.4,ug/m3 LC,14,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/15/2015,AQS,60231004,1,4.4,ug/m3 LC,18,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/18/2015,AQS,60231004,1,9.7,ug/m3 LC,40,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/21/2015,AQS,60231004,1,10.8,ug/m3 LC,45,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/24/2015,AQS,60231004,1,13.3,ug/m3 LC,54,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/27/2015,AQS,60231004,1,12.9,ug/m3 LC,53,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01/30/2015,AQS,60231004,1,8.2,ug/m3 LC,34,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-02-2015,AQS,60231004,1,5.3,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-05-2015,AQS,60231004,1,1.4,ug/m3 LC,6,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-08-2015,AQS,60231004,1,1.7,ug/m3 LC,7,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02-11-2015,AQS,60231004,1,9.8,ug/m3 LC,41,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/14/2015,AQS,60231004,1,7.1,ug/m3 LC,30,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/17/2015,AQS,60231004,1,4.6,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/20/2015,AQS,60231004,1,6.3,ug/m3 LC,26,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/23/2015,AQS,60231004,1,8.8,ug/m3 LC,37,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+02/26/2015,AQS,60231004,1,4.5,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-01-2015,AQS,60231004,1,7.3,ug/m3 LC,30,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-04-2015,AQS,60231004,1,11.4,ug/m3 LC,48,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-07-2015,AQS,60231004,1,8.6,ug/m3 LC,36,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03-10-2015,AQS,60231004,1,6.9,ug/m3 LC,29,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/13/2015,AQS,60231004,1,3.5,ug/m3 LC,15,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/16/2015,AQS,60231004,1,2.9,ug/m3 LC,12,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/19/2015,AQS,60231004,1,5.4,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/22/2015,AQS,60231004,1,2.1,ug/m3 LC,9,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/25/2015,AQS,60231004,1,4,ug/m3 LC,17,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+03/31/2015,AQS,60231004,1,3.5,ug/m3 LC,15,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-03-2015,AQS,60231004,1,6.3,ug/m3 LC,26,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-06-2015,AQS,60231004,1,1.4,ug/m3 LC,6,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-09-2015,AQS,60231004,1,3.5,ug/m3 LC,15,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04-12-2015,AQS,60231004,1,5.3,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/15/2015,AQS,60231004,1,6.3,ug/m3 LC,26,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/18/2015,AQS,60231004,1,10.5,ug/m3 LC,44,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/21/2015,AQS,60231004,1,5.5,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/24/2015,AQS,60231004,1,6,ug/m3 LC,25,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/27/2015,AQS,60231004,1,2.8,ug/m3 LC,12,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+04/30/2015,AQS,60231004,1,8.6,ug/m3 LC,36,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-06-2015,AQS,60231004,1,5.4,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-09-2015,AQS,60231004,1,5.9,ug/m3 LC,25,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05-12-2015,AQS,60231004,1,3.8,ug/m3 LC,16,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/15/2015,AQS,60231004,1,4.5,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/18/2015,AQS,60231004,1,4,ug/m3 LC,17,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/21/2015,AQS,60231004,1,6.1,ug/m3 LC,25,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/24/2015,AQS,60231004,1,3.8,ug/m3 LC,16,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+05/30/2015,AQS,60231004,1,3.8,ug/m3 LC,16,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-02-2015,AQS,60231004,1,1.9,ug/m3 LC,8,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-05-2015,AQS,60231004,1,7.8,ug/m3 LC,33,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-08-2015,AQS,60231004,1,5,ug/m3 LC,21,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06-11-2015,AQS,60231004,1,8.7,ug/m3 LC,36,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/14/2015,AQS,60231004,1,11.3,ug/m3 LC,47,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/17/2015,AQS,60231004,1,5.2,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/20/2015,AQS,60231004,1,4.8,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/23/2015,AQS,60231004,1,4.9,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/26/2015,AQS,60231004,1,4.9,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+06/29/2015,AQS,60231004,1,0.9,ug/m3 LC,4,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-02-2015,AQS,60231004,1,4.7,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-05-2015,AQS,60231004,1,2.2,ug/m3 LC,9,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-08-2015,AQS,60231004,1,5.2,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07-11-2015,AQS,60231004,1,2.8,ug/m3 LC,12,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/14/2015,AQS,60231004,1,3.2,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/17/2015,AQS,60231004,1,8.7,ug/m3 LC,36,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/20/2015,AQS,60231004,1,2.5,ug/m3 LC,10,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/23/2015,AQS,60231004,1,4,ug/m3 LC,17,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/26/2015,AQS,60231004,1,4.4,ug/m3 LC,18,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+07/29/2015,AQS,60231004,1,8.5,ug/m3 LC,35,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-01-2015,AQS,60231004,1,3.2,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-04-2015,AQS,60231004,1,1.3,ug/m3 LC,5,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-07-2015,AQS,60231004,1,4.5,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08-10-2015,AQS,60231004,1,1.7,ug/m3 LC,7,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/13/2015,AQS,60231004,1,3.4,ug/m3 LC,14,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/16/2015,AQS,60231004,1,7.1,ug/m3 LC,30,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/21/2015,AQS,60231004,1,6.1,ug/m3 LC,25,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/23/2015,AQS,60231004,1,2.9,ug/m3 LC,12,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/25/2015,AQS,60231004,1,9,ug/m3 LC,38,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/28/2015,AQS,60231004,1,4.9,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+08/31/2015,AQS,60231004,1,5.4,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-03-2015,AQS,60231004,1,4.1,ug/m3 LC,17,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-06-2015,AQS,60231004,1,3.4,ug/m3 LC,14,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-09-2015,AQS,60231004,1,4.2,ug/m3 LC,18,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09-12-2015,AQS,60231004,1,2.5,ug/m3 LC,10,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/15/2015,AQS,60231004,1,3.7,ug/m3 LC,15,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/18/2015,AQS,60231004,1,3.1,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/21/2015,AQS,60231004,1,5,ug/m3 LC,21,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/24/2015,AQS,60231004,1,3,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/27/2015,AQS,60231004,1,5.7,ug/m3 LC,24,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+09/30/2015,AQS,60231004,1,5.2,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-03-2015,AQS,60231004,1,6.3,ug/m3 LC,26,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-06-2015,AQS,60231004,1,6.4,ug/m3 LC,27,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-09-2015,AQS,60231004,1,5.3,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10-12-2015,AQS,60231004,1,4.6,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/15/2015,AQS,60231004,1,2.9,ug/m3 LC,12,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/18/2015,AQS,60231004,1,3,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/21/2015,AQS,60231004,1,4.7,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/24/2015,AQS,60231004,1,7.2,ug/m3 LC,30,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/27/2015,AQS,60231004,1,3,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+10/30/2015,AQS,60231004,1,5.5,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-02-2015,AQS,60231004,1,5,ug/m3 LC,21,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-05-2015,AQS,60231004,1,17.2,ug/m3 LC,62,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-08-2015,AQS,60231004,1,3.9,ug/m3 LC,16,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11-11-2015,AQS,60231004,1,9.5,ug/m3 LC,40,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/14/2015,AQS,60231004,1,4.7,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/17/2015,AQS,60231004,1,4.1,ug/m3 LC,17,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/20/2015,AQS,60231004,1,3,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/23/2015,AQS,60231004,1,6.1,ug/m3 LC,25,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/26/2015,AQS,60231004,1,18.6,ug/m3 LC,65,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+11/29/2015,AQS,60231004,1,18.1,ug/m3 LC,64,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-03-2015,AQS,60231004,1,3.1,ug/m3 LC,13,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-05-2015,AQS,60231004,1,2.2,ug/m3 LC,9,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-08-2015,AQS,60231004,1,4.8,ug/m3 LC,20,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12-11-2015,AQS,60231004,1,5.2,ug/m3 LC,22,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/14/2015,AQS,60231004,1,12.9,ug/m3 LC,53,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/17/2015,AQS,60231004,1,4.6,ug/m3 LC,19,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/20/2015,AQS,60231004,1,1.8,ug/m3 LC,8,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/23/2015,AQS,60231004,1,5.4,ug/m3 LC,23,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/26/2015,AQS,60231004,1,13.5,ug/m3 LC,54,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+12/29/2015,AQS,60231004,1,9,ug/m3 LC,38,Jacobs,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.77678,-124.17949
+01-01-2015,AQS,60231005,1,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-02-2015,AQS,60231005,1,6.4,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-03-2015,AQS,60231005,1,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-04-2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-05-2015,AQS,60231005,1,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-06-2015,AQS,60231005,1,3,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-07-2015,AQS,60231005,1,1.5,ug/m3 LC,6,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-08-2015,AQS,60231005,1,2.6,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-09-2015,AQS,60231005,1,7.7,ug/m3 LC,32,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-10-2015,AQS,60231005,1,7.6,ug/m3 LC,32,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-11-2015,AQS,60231005,1,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-12-2015,AQS,60231005,1,6.8,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/13/2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/14/2015,AQS,60231005,1,3.2,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/15/2015,AQS,60231005,1,6.8,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/16/2015,AQS,60231005,1,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/17/2015,AQS,60231005,1,0.4,ug/m3 LC,2,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/18/2015,AQS,60231005,1,9.1,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/19/2015,AQS,60231005,1,9.1,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/20/2015,AQS,60231005,1,10.2,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/21/2015,AQS,60231005,1,7.1,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/22/2015,AQS,60231005,1,6.9,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/23/2015,AQS,60231005,1,9.8,ug/m3 LC,41,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/24/2015,AQS,60231005,1,8.3,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/25/2015,AQS,60231005,1,5.8,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/26/2015,AQS,60231005,1,9.3,ug/m3 LC,39,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/27/2015,AQS,60231005,1,7.7,ug/m3 LC,32,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/28/2015,AQS,60231005,1,8.3,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/29/2015,AQS,60231005,1,9.2,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/30/2015,AQS,60231005,1,9.3,ug/m3 LC,39,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/31/2015,AQS,60231005,1,7.3,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-01-2015,AQS,60231005,1,6.7,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-02-2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-03-2015,AQS,60231005,1,10.2,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-04-2015,AQS,60231005,1,8.6,ug/m3 LC,36,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-05-2015,AQS,60231005,1,0.8,ug/m3 LC,3,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-06-2015,AQS,60231005,1,0.2,ug/m3 LC,1,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-07-2015,AQS,60231005,1,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-08-2015,AQS,60231005,1,1.5,ug/m3 LC,6,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-09-2015,AQS,60231005,1,6.3,ug/m3 LC,26,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-10-2015,AQS,60231005,1,6.4,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-11-2015,AQS,60231005,1,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-12-2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/13/2015,AQS,60231005,1,9.9,ug/m3 LC,41,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/14/2015,AQS,60231005,1,7.7,ug/m3 LC,32,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/15/2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/16/2015,AQS,60231005,1,7,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/17/2015,AQS,60231005,1,6.7,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/18/2015,AQS,60231005,1,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/19/2015,AQS,60231005,1,6.3,ug/m3 LC,26,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/20/2015,AQS,60231005,1,8.1,ug/m3 LC,34,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/21/2015,AQS,60231005,1,9.4,ug/m3 LC,39,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/22/2015,AQS,60231005,1,4.7,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/23/2015,AQS,60231005,1,2.7,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/24/2015,AQS,60231005,1,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/25/2015,AQS,60231005,1,7.8,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/26/2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/27/2015,AQS,60231005,1,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/28/2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-01-2015,AQS,60231005,1,8.6,ug/m3 LC,36,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-02-2015,AQS,60231005,1,7.5,ug/m3 LC,31,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-03-2015,AQS,60231005,1,8.4,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-04-2015,AQS,60231005,1,7.2,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-05-2015,AQS,60231005,1,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-06-2015,AQS,60231005,1,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-07-2015,AQS,60231005,1,15.3,ug/m3 LC,58,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-08-2015,AQS,60231005,1,18.9,ug/m3 LC,65,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-09-2015,AQS,60231005,1,10.3,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-10-2015,AQS,60231005,1,11.1,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-11-2015,AQS,60231005,1,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-12-2015,AQS,60231005,1,4.8,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/13/2015,AQS,60231005,1,5.8,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/14/2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/15/2015,AQS,60231005,1,7.3,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/16/2015,AQS,60231005,1,12.9,ug/m3 LC,53,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/17/2015,AQS,60231005,1,2.3,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/18/2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/19/2015,AQS,60231005,1,11.5,ug/m3 LC,48,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/20/2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/21/2015,AQS,60231005,1,4.3,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/22/2015,AQS,60231005,1,2.2,ug/m3 LC,9,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/23/2015,AQS,60231005,1,2.9,ug/m3 LC,12,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/24/2015,AQS,60231005,1,3.3,ug/m3 LC,14,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/25/2015,AQS,60231005,1,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/26/2015,AQS,60231005,1,8.5,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/27/2015,AQS,60231005,1,3,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/28/2015,AQS,60231005,1,11,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/29/2015,AQS,60231005,1,9.5,ug/m3 LC,40,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/30/2015,AQS,60231005,1,6,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/31/2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-01-2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-02-2015,AQS,60231005,1,6.8,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-03-2015,AQS,60231005,1,6.5,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-04-2015,AQS,60231005,1,6.4,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-05-2015,AQS,60231005,1,1.9,ug/m3 LC,8,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-06-2015,AQS,60231005,1,0.7,ug/m3 LC,3,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-07-2015,AQS,60231005,1,0.7,ug/m3 LC,3,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-08-2015,AQS,60231005,1,1.6,ug/m3 LC,7,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-09-2015,AQS,60231005,1,2.2,ug/m3 LC,9,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-10-2015,AQS,60231005,1,2.4,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-11-2015,AQS,60231005,1,3.7,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-12-2015,AQS,60231005,1,6.9,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/13/2015,AQS,60231005,1,6.3,ug/m3 LC,26,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/14/2015,AQS,60231005,1,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/15/2015,AQS,60231005,1,6.9,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/16/2015,AQS,60231005,1,10.4,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/17/2015,AQS,60231005,1,13,ug/m3 LC,53,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/18/2015,AQS,60231005,1,16.3,ug/m3 LC,60,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/19/2015,AQS,60231005,1,14.5,ug/m3 LC,56,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/20/2015,AQS,60231005,1,9.6,ug/m3 LC,40,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/21/2015,AQS,60231005,1,7.2,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/22/2015,AQS,60231005,1,10.3,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/23/2015,AQS,60231005,1,11.8,ug/m3 LC,49,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/24/2015,AQS,60231005,1,8.9,ug/m3 LC,37,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/25/2015,AQS,60231005,1,6.7,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/26/2015,AQS,60231005,1,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/27/2015,AQS,60231005,1,10,ug/m3 LC,42,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/28/2015,AQS,60231005,1,5,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-02-2015,AQS,60231005,1,14.9,ug/m3 LC,57,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-03-2015,AQS,60231005,1,8,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-04-2015,AQS,60231005,1,6.6,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-05-2015,AQS,60231005,1,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-06-2015,AQS,60231005,1,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-07-2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-08-2015,AQS,60231005,1,6.8,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-09-2015,AQS,60231005,1,10.4,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-10-2015,AQS,60231005,1,6,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-11-2015,AQS,60231005,1,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-12-2015,AQS,60231005,1,5.2,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/13/2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/14/2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/15/2015,AQS,60231005,1,10.2,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/16/2015,AQS,60231005,1,11.1,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/17/2015,AQS,60231005,1,11.8,ug/m3 LC,49,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/18/2015,AQS,60231005,1,6.9,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/19/2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/20/2015,AQS,60231005,1,8.7,ug/m3 LC,36,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/21/2015,AQS,60231005,1,9.9,ug/m3 LC,41,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/22/2015,AQS,60231005,1,8,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/23/2015,AQS,60231005,1,6.6,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/24/2015,AQS,60231005,1,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/25/2015,AQS,60231005,1,3.2,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/26/2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/27/2015,AQS,60231005,1,6.5,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/28/2015,AQS,60231005,1,8.9,ug/m3 LC,37,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/29/2015,AQS,60231005,1,7.9,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/30/2015,AQS,60231005,1,5.8,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/31/2015,AQS,60231005,1,2.1,ug/m3 LC,9,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-01-2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-02-2015,AQS,60231005,1,5.8,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-03-2015,AQS,60231005,1,5,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-04-2015,AQS,60231005,1,2.7,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-05-2015,AQS,60231005,1,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-06-2015,AQS,60231005,1,8.7,ug/m3 LC,36,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-07-2015,AQS,60231005,1,6.3,ug/m3 LC,26,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-08-2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-09-2015,AQS,60231005,1,6,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-10-2015,AQS,60231005,1,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-11-2015,AQS,60231005,1,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-12-2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/13/2015,AQS,60231005,1,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/14/2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/15/2015,AQS,60231005,1,11.1,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/16/2015,AQS,60231005,1,12.1,ug/m3 LC,51,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/17/2015,AQS,60231005,1,13.7,ug/m3 LC,54,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/18/2015,AQS,60231005,1,30.3,ug/m3 LC,89,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/19/2015,AQS,60231005,1,17.3,ug/m3 LC,62,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/20/2015,AQS,60231005,1,13.3,ug/m3 LC,54,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/21/2015,AQS,60231005,1,10,ug/m3 LC,42,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/22/2015,AQS,60231005,1,11.7,ug/m3 LC,49,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/23/2015,AQS,60231005,1,10.2,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/24/2015,AQS,60231005,1,8.9,ug/m3 LC,37,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/25/2015,AQS,60231005,1,13.3,ug/m3 LC,54,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/26/2015,AQS,60231005,1,11,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/27/2015,AQS,60231005,1,6.5,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/28/2015,AQS,60231005,1,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/29/2015,AQS,60231005,1,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/30/2015,AQS,60231005,1,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/31/2015,AQS,60231005,1,8.3,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-01-2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-02-2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-03-2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-04-2015,AQS,60231005,1,3.7,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-05-2015,AQS,60231005,1,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-06-2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-07-2015,AQS,60231005,1,9.7,ug/m3 LC,40,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-08-2015,AQS,60231005,1,11,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-09-2015,AQS,60231005,1,15.4,ug/m3 LC,58,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-10-2015,AQS,60231005,1,12.6,ug/m3 LC,52,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-11-2015,AQS,60231005,1,13.7,ug/m3 LC,54,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-12-2015,AQS,60231005,1,12.1,ug/m3 LC,51,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/13/2015,AQS,60231005,1,13.2,ug/m3 LC,53,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/14/2015,AQS,60231005,1,11.9,ug/m3 LC,50,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/15/2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/16/2015,AQS,60231005,1,1.8,ug/m3 LC,8,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/17/2015,AQS,60231005,1,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/18/2015,AQS,60231005,1,6.6,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/19/2015,AQS,60231005,1,7.5,ug/m3 LC,31,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/20/2015,AQS,60231005,1,7,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/21/2015,AQS,60231005,1,10.7,ug/m3 LC,45,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/22/2015,AQS,60231005,1,9.2,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/23/2015,AQS,60231005,1,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/24/2015,AQS,60231005,1,3.2,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/25/2015,AQS,60231005,1,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/26/2015,AQS,60231005,1,10.2,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/27/2015,AQS,60231005,1,10.9,ug/m3 LC,45,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/28/2015,AQS,60231005,1,23.6,ug/m3 LC,75,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/29/2015,AQS,60231005,1,7.7,ug/m3 LC,32,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/30/2015,AQS,60231005,1,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-01-2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-02-2015,AQS,60231005,1,7.9,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-03-2015,AQS,60231005,1,10.5,ug/m3 LC,44,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-04-2015,AQS,60231005,1,9.1,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-05-2015,AQS,60231005,1,11.1,ug/m3 LC,46,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-06-2015,AQS,60231005,1,12.7,ug/m3 LC,52,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-07-2015,AQS,60231005,1,10.7,ug/m3 LC,45,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-08-2015,AQS,60231005,1,9.2,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-09-2015,AQS,60231005,1,9.3,ug/m3 LC,39,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-10-2015,AQS,60231005,1,6.6,ug/m3 LC,28,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-11-2015,AQS,60231005,1,10.4,ug/m3 LC,43,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-12-2015,AQS,60231005,1,7.4,ug/m3 LC,31,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/13/2015,AQS,60231005,1,9.8,ug/m3 LC,41,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/14/2015,AQS,60231005,1,9.8,ug/m3 LC,41,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/15/2015,AQS,60231005,1,16.3,ug/m3 LC,60,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/16/2015,AQS,60231005,1,9.2,ug/m3 LC,38,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/17/2015,AQS,60231005,1,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/18/2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/19/2015,AQS,60231005,1,7.2,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/20/2015,AQS,60231005,1,7.3,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/21/2015,AQS,60231005,1,10.8,ug/m3 LC,45,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/22/2015,AQS,60231005,1,10.9,ug/m3 LC,45,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/23/2015,AQS,60231005,1,18.5,ug/m3 LC,64,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/24/2015,AQS,60231005,1,8.8,ug/m3 LC,37,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/25/2015,AQS,60231005,1,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/26/2015,AQS,60231005,1,11.4,ug/m3 LC,48,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/27/2015,AQS,60231005,1,4.6,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/28/2015,AQS,60231005,1,5.2,ug/m3 LC,22,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/29/2015,AQS,60231005,1,6.2,ug/m3 LC,26,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/30/2015,AQS,60231005,1,6.9,ug/m3 LC,29,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/31/2015,AQS,60231005,1,2.7,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-01-2015,AQS,60231005,1,7.1,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-02-2015,AQS,60231005,1,6.5,ug/m3 LC,27,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-03-2015,AQS,60231005,1,7.8,ug/m3 LC,33,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-04-2015,AQS,60231005,1,7.4,ug/m3 LC,31,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-05-2015,AQS,60231005,1,11.7,ug/m3 LC,49,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-06-2015,AQS,60231005,1,9.4,ug/m3 LC,39,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-07-2015,AQS,60231005,1,3.5,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-08-2015,AQS,60231005,1,3.7,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-09-2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-10-2015,AQS,60231005,1,8.3,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-11-2015,AQS,60231005,1,6,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-12-2015,AQS,60231005,1,8.3,ug/m3 LC,35,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/13/2015,AQS,60231005,1,7.3,ug/m3 LC,30,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/14/2015,AQS,60231005,1,2.9,ug/m3 LC,12,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/15/2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/16/2015,AQS,60231005,1,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/17/2015,AQS,60231005,1,2.4,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/18/2015,AQS,60231005,1,5.9,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/19/2015,AQS,60231005,1,3.5,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/20/2015,AQS,60231005,1,5.7,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/21/2015,AQS,60231005,1,12,ug/m3 LC,50,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/22/2015,AQS,60231005,1,13.7,ug/m3 LC,54,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/23/2015,AQS,60231005,1,11.3,ug/m3 LC,47,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/24/2015,AQS,60231005,1,2.6,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/25/2015,AQS,60231005,1,4.5,ug/m3 LC,19,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/26/2015,AQS,60231005,1,5.7,ug/m3 LC,24,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/27/2015,AQS,60231005,1,2.7,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/28/2015,AQS,60231005,1,2,ug/m3 LC,8,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/29/2015,AQS,60231005,1,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/30/2015,AQS,60231005,1,1.1,ug/m3 LC,5,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-01-2015,AQS,60231005,1,1.1,ug/m3 LC,5,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-02-2015,AQS,60231005,1,0.6,ug/m3 LC,3,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-03-2015,AQS,60231005,1,1.4,ug/m3 LC,6,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-04-2015,AQS,60231005,1,1.6,ug/m3 LC,7,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-05-2015,AQS,60231005,1,0.6,ug/m3 LC,3,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-06-2015,AQS,60231005,1,2.1,ug/m3 LC,9,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-07-2015,AQS,60231005,1,1.2,ug/m3 LC,5,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-08-2015,AQS,60231005,1,0.9,ug/m3 LC,4,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-09-2015,AQS,60231005,1,2.3,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-10-2015,AQS,60231005,1,3.7,ug/m3 LC,15,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-11-2015,AQS,60231005,1,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-12-2015,AQS,60231005,1,1.6,ug/m3 LC,7,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/13/2015,AQS,60231005,1,2.4,ug/m3 LC,10,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/14/2015,AQS,60231005,1,4.8,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/15/2015,AQS,60231005,1,5.4,ug/m3 LC,23,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/16/2015,AQS,60231005,1,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/17/2015,AQS,60231005,1,0.2,ug/m3 LC,1,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/18/2015,AQS,60231005,1,1.8,ug/m3 LC,8,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/19/2015,AQS,60231005,1,3.1,ug/m3 LC,13,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/20/2015,AQS,60231005,1,0.3,ug/m3 LC,1,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/21/2015,AQS,60231005,1,1.1,ug/m3 LC,5,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/22/2015,AQS,60231005,1,4.3,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/23/2015,AQS,60231005,1,4.3,ug/m3 LC,18,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/24/2015,AQS,60231005,1,2.6,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/25/2015,AQS,60231005,1,4,ug/m3 LC,17,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/26/2015,AQS,60231005,1,2.6,ug/m3 LC,11,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/27/2015,AQS,60231005,1,0.3,ug/m3 LC,1,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/28/2015,AQS,60231005,1,6,ug/m3 LC,25,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/29/2015,AQS,60231005,1,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-03-2015,AQS,60231005,2,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-06-2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-09-2015,AQS,60231005,2,7.1,ug/m3 LC,30,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01-12-2015,AQS,60231005,2,1.6,ug/m3 LC,7,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/15/2015,AQS,60231005,2,10,ug/m3 LC,42,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/18/2015,AQS,60231005,2,6.8,ug/m3 LC,28,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/21/2015,AQS,60231005,2,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/24/2015,AQS,60231005,2,7.1,ug/m3 LC,30,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/27/2015,AQS,60231005,2,6,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+01/30/2015,AQS,60231005,2,7.4,ug/m3 LC,31,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-02-2015,AQS,60231005,2,1.7,ug/m3 LC,7,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-05-2015,AQS,60231005,2,1.4,ug/m3 LC,6,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-08-2015,AQS,60231005,2,2.7,ug/m3 LC,11,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02-11-2015,AQS,60231005,2,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/14/2015,AQS,60231005,2,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/17/2015,AQS,60231005,2,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/20/2015,AQS,60231005,2,5.9,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/23/2015,AQS,60231005,2,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+02/26/2015,AQS,60231005,2,3.7,ug/m3 LC,15,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-01-2015,AQS,60231005,2,6.5,ug/m3 LC,27,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-04-2015,AQS,60231005,2,5.9,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-07-2015,AQS,60231005,2,6.3,ug/m3 LC,26,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03-10-2015,AQS,60231005,2,4.3,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/13/2015,AQS,60231005,2,2.3,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/16/2015,AQS,60231005,2,2.3,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/19/2015,AQS,60231005,2,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/22/2015,AQS,60231005,2,1.8,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/25/2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/28/2015,AQS,60231005,2,9,ug/m3 LC,38,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+03/31/2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-03-2015,AQS,60231005,2,4.9,ug/m3 LC,20,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-06-2015,AQS,60231005,2,1,ug/m3 LC,4,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-09-2015,AQS,60231005,2,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04-12-2015,AQS,60231005,2,4.7,ug/m3 LC,20,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/15/2015,AQS,60231005,2,5.7,ug/m3 LC,24,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/18/2015,AQS,60231005,2,12.7,ug/m3 LC,52,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/21/2015,AQS,60231005,2,7.2,ug/m3 LC,30,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/24/2015,AQS,60231005,2,6.6,ug/m3 LC,28,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/27/2015,AQS,60231005,2,12.4,ug/m3 LC,52,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+04/30/2015,AQS,60231005,2,11,ug/m3 LC,46,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-03-2015,AQS,60231005,2,8.6,ug/m3 LC,36,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-06-2015,AQS,60231005,2,7,ug/m3 LC,29,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-09-2015,AQS,60231005,2,7,ug/m3 LC,29,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05-12-2015,AQS,60231005,2,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/15/2015,AQS,60231005,2,4.7,ug/m3 LC,20,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/18/2015,AQS,60231005,2,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/21/2015,AQS,60231005,2,4.7,ug/m3 LC,20,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/24/2015,AQS,60231005,2,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/27/2015,AQS,60231005,2,1.5,ug/m3 LC,6,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+05/30/2015,AQS,60231005,2,2.6,ug/m3 LC,11,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-02-2015,AQS,60231005,2,1.9,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-05-2015,AQS,60231005,2,9.8,ug/m3 LC,41,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-08-2015,AQS,60231005,2,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06-11-2015,AQS,60231005,2,10.6,ug/m3 LC,44,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/14/2015,AQS,60231005,2,13.1,ug/m3 LC,53,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/17/2015,AQS,60231005,2,7.2,ug/m3 LC,30,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/20/2015,AQS,60231005,2,5.6,ug/m3 LC,23,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/23/2015,AQS,60231005,2,5.1,ug/m3 LC,21,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/26/2015,AQS,60231005,2,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+06/29/2015,AQS,60231005,2,0.8,ug/m3 LC,3,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-02-2015,AQS,60231005,2,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-05-2015,AQS,60231005,2,2.2,ug/m3 LC,9,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-08-2015,AQS,60231005,2,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07-11-2015,AQS,60231005,2,2.8,ug/m3 LC,12,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/14/2015,AQS,60231005,2,4.2,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/17/2015,AQS,60231005,2,12,ug/m3 LC,50,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/20/2015,AQS,60231005,2,1.9,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/23/2015,AQS,60231005,2,6.1,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/26/2015,AQS,60231005,2,3.6,ug/m3 LC,15,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+07/29/2015,AQS,60231005,2,9.5,ug/m3 LC,40,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-01-2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-04-2015,AQS,60231005,2,0.3,ug/m3 LC,1,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-07-2015,AQS,60231005,2,5.9,ug/m3 LC,25,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08-10-2015,AQS,60231005,2,1,ug/m3 LC,4,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/13/2015,AQS,60231005,2,5,ug/m3 LC,21,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/16/2015,AQS,60231005,2,10.9,ug/m3 LC,45,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/21/2015,AQS,60231005,2,8.1,ug/m3 LC,34,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/23/2015,AQS,60231005,2,2.5,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/25/2015,AQS,60231005,2,7.5,ug/m3 LC,31,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/28/2015,AQS,60231005,2,2.9,ug/m3 LC,12,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+08/31/2015,AQS,60231005,2,5.7,ug/m3 LC,24,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-03-2015,AQS,60231005,2,5.3,ug/m3 LC,22,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-06-2015,AQS,60231005,2,4.3,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-09-2015,AQS,60231005,2,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09-12-2015,AQS,60231005,2,1.8,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/15/2015,AQS,60231005,2,3.9,ug/m3 LC,16,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/18/2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/21/2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/24/2015,AQS,60231005,2,3,ug/m3 LC,13,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/27/2015,AQS,60231005,2,8,ug/m3 LC,33,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+09/30/2015,AQS,60231005,2,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-03-2015,AQS,60231005,2,9.2,ug/m3 LC,38,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-06-2015,AQS,60231005,2,7.8,ug/m3 LC,33,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-09-2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10-12-2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/15/2015,AQS,60231005,2,1.4,ug/m3 LC,6,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/18/2015,AQS,60231005,2,2,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/21/2015,AQS,60231005,2,4.5,ug/m3 LC,19,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/24/2015,AQS,60231005,2,5.5,ug/m3 LC,23,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/27/2015,AQS,60231005,2,1.4,ug/m3 LC,6,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+10/30/2015,AQS,60231005,2,2.8,ug/m3 LC,12,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-02-2015,AQS,60231005,2,4.8,ug/m3 LC,20,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-05-2015,AQS,60231005,2,10.8,ug/m3 LC,45,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-08-2015,AQS,60231005,2,2.2,ug/m3 LC,9,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11-11-2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/14/2015,AQS,60231005,2,2.1,ug/m3 LC,9,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/17/2015,AQS,60231005,2,2.3,ug/m3 LC,10,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/20/2015,AQS,60231005,2,1.5,ug/m3 LC,6,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/23/2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/26/2015,AQS,60231005,2,5.2,ug/m3 LC,22,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+11/29/2015,AQS,60231005,2,4.1,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-03-2015,AQS,60231005,2,1.9,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-05-2015,AQS,60231005,2,1.3,ug/m3 LC,5,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-08-2015,AQS,60231005,2,1.8,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12-11-2015,AQS,60231005,2,4,ug/m3 LC,17,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/14/2015,AQS,60231005,2,4.4,ug/m3 LC,18,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/17/2015,AQS,60231005,2,0.3,ug/m3 LC,1,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/20/2015,AQS,60231005,2,0.9,ug/m3 LC,4,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/23/2015,AQS,60231005,2,3.8,ug/m3 LC,16,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/26/2015,AQS,60231005,2,2,ug/m3 LC,8,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139
+12/29/2015,AQS,60231005,2,3.4,ug/m3 LC,14,Humboldt Hill,1,100,88101,PM2.5 - Local Conditions,21700,"Eureka-Arcata-Fortuna, CA",6,California,23,Humboldt,40.71528,-124.20139

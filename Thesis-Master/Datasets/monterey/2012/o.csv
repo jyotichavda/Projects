@@ -1,0 +1,1065 @@
+Date,Source,Site ID,POC,Daily Max 8-hour Ozone Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+01-01-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-02-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-03-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-04-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-05-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-06-2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-07-2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-08-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-09-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-10-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-11-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-12-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/13/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/14/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/15/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/17/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/18/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/19/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/20/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/21/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/22/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/23/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/24/2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/26/2012,AQS,60530002,1,0.02,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/27/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/28/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/29/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/30/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01/31/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-01-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-02-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-03-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-04-2012,AQS,60530002,1,0.048,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-05-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-06-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-07-2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-08-2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-09-2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-10-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-11-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02-12-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/13/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/14/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/15/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/16/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/17/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/18/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/19/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/20/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/21/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/22/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/23/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/24/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/25/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/26/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/27/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/28/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+02/29/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-01-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-02-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-03-2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-04-2012,AQS,60530002,1,0.049,ppm,45,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-05-2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-06-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-07-2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-08-2012,AQS,60530002,1,0.048,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-09-2012,AQS,60530002,1,0.053,ppm,49,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-10-2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-11-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03-12-2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,16,94,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/13/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/14/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/15/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/16/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/17/2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/18/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/19/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/20/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/21/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/22/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/23/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/24/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/25/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/26/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/27/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/28/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/29/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/30/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+03/31/2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-01-2012,AQS,60530002,1,0.046,ppm,43,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-02-2012,AQS,60530002,1,0.044,ppm,41,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-03-2012,AQS,60530002,1,0.044,ppm,41,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-04-2012,AQS,60530002,1,0.044,ppm,41,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-06-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-07-2012,AQS,60530002,1,0.048,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-08-2012,AQS,60530002,1,0.048,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-09-2012,AQS,60530002,1,0.048,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-10-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-11-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04-12-2012,AQS,60530002,1,0.052,ppm,48,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/13/2012,AQS,60530002,1,0.05,ppm,46,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/14/2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/15/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/16/2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/17/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/18/2012,AQS,60530002,1,0.046,ppm,43,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/19/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/20/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/21/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/22/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/23/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/24/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/25/2012,AQS,60530002,1,0.023,ppm,21,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/26/2012,AQS,60530002,1,0.05,ppm,46,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/27/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/28/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/29/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+04/30/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-02-2012,AQS,60530002,1,0.051,ppm,47,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-03-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-04-2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-05-2012,AQS,60530002,1,0.05,ppm,46,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-06-2012,AQS,60530002,1,0.056,ppm,54,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-07-2012,AQS,60530002,1,0.053,ppm,49,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-08-2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-09-2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-10-2012,AQS,60530002,1,0.046,ppm,43,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-11-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05-12-2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/13/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/14/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/15/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/16/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/17/2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/18/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/19/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/20/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/21/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/22/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/23/2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/24/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/25/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/26/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/27/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/28/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/29/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/30/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+05/31/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-01-2012,AQS,60530002,1,0.015,ppm,14,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-02-2012,AQS,60530002,1,0.026,ppm,24,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-03-2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-04-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-05-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-06-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-07-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-08-2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-09-2012,AQS,60530002,1,0.044,ppm,41,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-10-2012,AQS,60530002,1,0.05,ppm,46,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-11-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06-12-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/13/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/14/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/15/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/16/2012,AQS,60530002,1,0.046,ppm,43,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/17/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/18/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/19/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/20/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/21/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/22/2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/23/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/24/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/25/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/26/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/27/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/28/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/29/2012,AQS,60530002,1,0.022,ppm,20,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+06/30/2012,AQS,60530002,1,0.019,ppm,18,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-01-2012,AQS,60530002,1,0.022,ppm,20,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-02-2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-03-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-04-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-05-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-06-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-07-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-08-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-09-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-10-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-11-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07-12-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/13/2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/14/2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/15/2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/16/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/17/2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/18/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/19/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/20/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/21/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/22/2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/23/2012,AQS,60530002,1,0.026,ppm,24,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/24/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/25/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/26/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/27/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/28/2012,AQS,60530002,1,0.018,ppm,17,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/29/2012,AQS,60530002,1,0.02,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/30/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+07/31/2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-01-2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-02-2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-03-2012,AQS,60530002,1,0.021,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-04-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-05-2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-06-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-07-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-08-2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-09-2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-10-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-11-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08-12-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/13/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/14/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/15/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/16/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/17/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/18/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/19/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/20/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/21/2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/22/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/23/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/24/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/25/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/26/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/27/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/28/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/29/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/30/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+08/31/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-01-2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-02-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-03-2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-04-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-05-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-06-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-07-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-08-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-09-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-10-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-11-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09-12-2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/13/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/14/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/15/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/16/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/17/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/18/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/19/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/20/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/21/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/22/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/23/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/24/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/25/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/26/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/27/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/28/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/29/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+09/30/2012,AQS,60530002,1,0.052,ppm,48,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-01-2012,AQS,60530002,1,0.06,ppm,67,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-02-2012,AQS,60530002,1,0.06,ppm,67,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-03-2012,AQS,60530002,1,0.049,ppm,45,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-04-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-05-2012,AQS,60530002,1,0.026,ppm,24,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-06-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-07-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-08-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-09-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-10-2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-11-2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10-12-2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/13/2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/14/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/15/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/16/2012,AQS,60530002,1,0.02,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/17/2012,AQS,60530002,1,0.047,ppm,44,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/18/2012,AQS,60530002,1,0.054,ppm,50,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/19/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/20/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/21/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/22/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/23/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/24/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/25/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/26/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/27/2012,AQS,60530002,1,0.041,ppm,38,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/28/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+10/29/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-01-2012,AQS,60530002,1,0.022,ppm,20,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-02-2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-03-2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-04-2012,AQS,60530002,1,0.04,ppm,37,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-05-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-06-2012,AQS,60530002,1,0.043,ppm,40,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-07-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-08-2012,AQS,60530002,1,0.045,ppm,42,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-09-2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-10-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-11-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11-12-2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/13/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/14/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/15/2012,AQS,60530002,1,0.042,ppm,39,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/16/2012,AQS,60530002,1,0.023,ppm,21,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/17/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/18/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/19/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/20/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/21/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/22/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/23/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/24/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/25/2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/26/2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/27/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/28/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/29/2012,AQS,60530002,1,0.037,ppm,34,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+11/30/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-01-2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-02-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-03-2012,AQS,60530002,1,0.028,ppm,26,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-04-2012,AQS,60530002,1,0.024,ppm,22,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-05-2012,AQS,60530002,1,0.018,ppm,17,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-06-2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-07-2012,AQS,60530002,1,0.021,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-08-2012,AQS,60530002,1,0.025,ppm,23,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-09-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-10-2012,AQS,60530002,1,0.026,ppm,24,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-11-2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12-12-2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/13/2012,AQS,60530002,1,0.034,ppm,31,Carmel Valley,16,94,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/14/2012,AQS,60530002,1,0.029,ppm,27,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/15/2012,AQS,60530002,1,0.02,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/16/2012,AQS,60530002,1,0.027,ppm,25,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/17/2012,AQS,60530002,1,0.03,ppm,28,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/18/2012,AQS,60530002,1,0.038,ppm,35,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/19/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/20/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/21/2012,AQS,60530002,1,0.039,ppm,36,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/22/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/23/2012,AQS,60530002,1,0.033,ppm,31,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/24/2012,AQS,60530002,1,0.036,ppm,33,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/25/2012,AQS,60530002,1,0.032,ppm,30,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/26/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/27/2012,AQS,60530002,1,0.035,ppm,32,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/28/2012,AQS,60530002,1,0.021,ppm,19,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/29/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+12/30/2012,AQS,60530002,1,0.031,ppm,29,Carmel Valley,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.48187,-121.73333
+01-01-2012,AQS,60530008,1,0.023,ppm,21,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-02-2012,AQS,60530008,1,0.021,ppm,19,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-03-2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-04-2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-05-2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-06-2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-07-2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-08-2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-09-2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-10-2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-11-2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-12-2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/13/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/14/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/15/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/16/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/17/2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/18/2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/19/2012,AQS,60530008,1,0.026,ppm,24,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/20/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/21/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/22/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/23/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/24/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/25/2012,AQS,60530008,1,0.022,ppm,20,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/26/2012,AQS,60530008,1,0.019,ppm,18,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/27/2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/28/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/29/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/30/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01/31/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-01-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-02-2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-03-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-04-2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-05-2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-06-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-07-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-08-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-09-2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-10-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-11-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02-12-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/13/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/14/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/15/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/16/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/17/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/18/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/19/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/20/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/21/2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/22/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/23/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/24/2012,AQS,60530008,1,0.045,ppm,42,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/25/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/26/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/27/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/28/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+02/29/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-01-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-02-2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-03-2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-04-2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-05-2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-06-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-07-2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-08-2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-09-2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-10-2012,AQS,60530008,1,0.045,ppm,42,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-11-2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03-12-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/13/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/14/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/15/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/16/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/17/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/18/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/19/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/20/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/21/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/22/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/23/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/24/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/25/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/26/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/27/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/28/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/29/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/30/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+03/31/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-01-2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-02-2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-03-2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-04-2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-05-2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-06-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-07-2012,AQS,60530008,1,0.05,ppm,46,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-08-2012,AQS,60530008,1,0.055,ppm,51,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-09-2012,AQS,60530008,1,0.065,ppm,84,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-10-2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-11-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04-12-2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/13/2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/14/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/15/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/16/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/17/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/18/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/19/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/20/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/21/2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/22/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/23/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/24/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/25/2012,AQS,60530008,1,0.023,ppm,21,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/26/2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/27/2012,AQS,60530008,1,0.045,ppm,42,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/28/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/29/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+04/30/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-01-2012,AQS,60530008,1,0.045,ppm,42,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-02-2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-03-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-04-2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-05-2012,AQS,60530008,1,0.051,ppm,47,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-06-2012,AQS,60530008,1,0.056,ppm,54,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-07-2012,AQS,60530008,1,0.056,ppm,54,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-08-2012,AQS,60530008,1,0.058,ppm,61,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-09-2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-10-2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-11-2012,AQS,60530008,1,0.051,ppm,47,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05-12-2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/13/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/14/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/15/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/16/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/17/2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/18/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/19/2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/20/2012,AQS,60530008,1,0.05,ppm,46,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/21/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/22/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/23/2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/24/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/25/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/26/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/27/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/28/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/29/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/30/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+05/31/2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-01-2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-02-2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-03-2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-04-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-05-2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-06-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-07-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-08-2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-09-2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-11-2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06-12-2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/13/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/14/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/15/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/16/2012,AQS,60530008,1,0.057,ppm,58,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/17/2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/22/2012,AQS,60530008,1,0.026,ppm,24,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/23/2012,AQS,60530008,1,0.033,ppm,31,King City 2,14,82,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/24/2012,AQS,60530008,1,0.035,ppm,32,King City 2,14,82,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/25/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/26/2012,AQS,60530008,1,0.04,ppm,37,King City 2,15,88,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/27/2012,AQS,60530008,1,0.044,ppm,41,King City 2,15,88,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/28/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+06/29/2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-02-2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-03-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-04-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-05-2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-06-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-07-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-08-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-09-2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-10-2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-11-2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07-12-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/13/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/14/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/15/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/16/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/17/2012,AQS,60530008,1,0.026,ppm,24,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/18/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/19/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/21/2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/22/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/23/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/24/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/25/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/26/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/27/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/28/2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/29/2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/30/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+07/31/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-01-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-02-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-03-2012,AQS,60530008,1,0.026,ppm,24,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-04-2012,AQS,60530008,1,0.022,ppm,20,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-05-2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-06-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-07-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-08-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-09-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-10-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-11-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08-12-2012,AQS,60530008,1,0.043,ppm,40,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/13/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/14/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/15/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/16/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/17/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/18/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/19/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/20/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/21/2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/22/2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/23/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/24/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/25/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/26/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/27/2012,AQS,60530008,1,0.045,ppm,42,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/28/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/29/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/30/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+08/31/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-01-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-02-2012,AQS,60530008,1,0.047,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-03-2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-04-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-05-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-06-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-07-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-08-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-09-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-10-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-11-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09-12-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/13/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/14/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/15/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/16/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/17/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/18/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/19/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/20/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/21/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/22/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/23/2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/24/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/25/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/26/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/27/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/28/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/29/2012,AQS,60530008,1,0.048,ppm,44,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+09/30/2012,AQS,60530008,1,0.054,ppm,50,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-01-2012,AQS,60530008,1,0.054,ppm,50,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-02-2012,AQS,60530008,1,0.057,ppm,58,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-03-2012,AQS,60530008,1,0.046,ppm,43,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-04-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-05-2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-06-2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-07-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-08-2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-09-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-10-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-11-2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10-12-2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/13/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/14/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/15/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/16/2012,AQS,60530008,1,0.023,ppm,21,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/17/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/18/2012,AQS,60530008,1,0.049,ppm,45,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/19/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/20/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/21/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/22/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/23/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/24/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/25/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/26/2012,AQS,60530008,1,0.04,ppm,37,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/27/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/28/2012,AQS,60530008,1,0.044,ppm,41,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+10/29/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-01-2012,AQS,60530008,1,0.02,ppm,19,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-02-2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-03-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-04-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-05-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-06-2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-07-2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-08-2012,AQS,60530008,1,0.042,ppm,39,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-09-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-10-2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-11-2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11-12-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/13/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/14/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/15/2012,AQS,60530008,1,0.041,ppm,38,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/16/2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/17/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/18/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/19/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/20/2012,AQS,60530008,1,0.026,ppm,24,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/21/2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/22/2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/23/2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/24/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/25/2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/26/2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/27/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/28/2012,AQS,60530008,1,0.025,ppm,23,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/29/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+11/30/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-01-2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-02-2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-03-2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-04-2012,AQS,60530008,1,0.017,ppm,16,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-05-2012,AQS,60530008,1,0.016,ppm,15,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-06-2012,AQS,60530008,1,0.031,ppm,29,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-07-2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-08-2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-09-2012,AQS,60530008,1,0.027,ppm,25,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-10-2012,AQS,60530008,1,0.024,ppm,22,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-11-2012,AQS,60530008,1,0.028,ppm,26,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12-12-2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/13/2012,AQS,60530008,1,0.034,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/14/2012,AQS,60530008,1,0.021,ppm,19,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/15/2012,AQS,60530008,1,0.015,ppm,14,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/16/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/17/2012,AQS,60530008,1,0.033,ppm,31,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/18/2012,AQS,60530008,1,0.038,ppm,35,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/19/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/20/2012,AQS,60530008,1,0.029,ppm,27,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/21/2012,AQS,60530008,1,0.037,ppm,34,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/22/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/23/2012,AQS,60530008,1,0.035,ppm,32,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/24/2012,AQS,60530008,1,0.039,ppm,36,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/27/2012,AQS,60530008,1,0.036,ppm,33,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/28/2012,AQS,60530008,1,0.021,ppm,19,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/29/2012,AQS,60530008,1,0.03,ppm,28,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+12/30/2012,AQS,60530008,1,0.032,ppm,30,King City 2,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.209286,-121.126371
+01-01-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-02-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-03-2012,AQS,60531003,1,0.021,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-04-2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-05-2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-06-2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-07-2012,AQS,60531003,1,0.024,ppm,22,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-08-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-09-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-10-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-11-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01-12-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/13/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/14/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/15/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/16/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/17/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/18/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/19/2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/20/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/21/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/22/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/23/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/24/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/25/2012,AQS,60531003,1,0.02,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/26/2012,AQS,60531003,1,0.019,ppm,18,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/27/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/28/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/29/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/30/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+01/31/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-01-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-02-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-03-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-04-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-05-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-06-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-07-2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-08-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,13,76,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-09-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-10-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-11-2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02-12-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/13/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/14/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/15/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/16/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/17/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/18/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/19/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/20/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/21/2012,AQS,60531003,1,0.024,ppm,22,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/22/2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/23/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/24/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/25/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/26/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/27/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/28/2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+02/29/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-01-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-02-2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-03-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-04-2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-05-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-06-2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-07-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-08-2012,AQS,60531003,1,0.045,ppm,42,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-09-2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-10-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-11-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03-12-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/13/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/14/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/15/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/16/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/17/2012,AQS,60531003,1,0.047,ppm,44,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/18/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/19/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/21/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/22/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/23/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/24/2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/25/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/26/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/27/2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/28/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/29/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/30/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+03/31/2012,AQS,60531003,1,0.049,ppm,45,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-01-2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-02-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-03-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-04-2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-05-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04-10-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/13/2012,AQS,60531003,1,0.051,ppm,47,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/14/2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/15/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/16/2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/17/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/18/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/19/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/20/2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/21/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/22/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/23/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/24/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/25/2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/26/2012,AQS,60531003,1,0.048,ppm,44,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/27/2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/28/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/29/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+04/30/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-01-2012,AQS,60531003,1,0.046,ppm,43,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-02-2012,AQS,60531003,1,0.049,ppm,45,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-03-2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-04-2012,AQS,60531003,1,0.045,ppm,42,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-05-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-06-2012,AQS,60531003,1,0.047,ppm,44,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-07-2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-08-2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-09-2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-10-2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-11-2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05-12-2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/13/2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/14/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/15/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/16/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/17/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/18/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/19/2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/20/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/21/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/22/2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/23/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/24/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/25/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/26/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/27/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/28/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/29/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/30/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+05/31/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-01-2012,AQS,60531003,1,0.016,ppm,15,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-02-2012,AQS,60531003,1,0.023,ppm,21,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-03-2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-04-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-05-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-06-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-07-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-08-2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-09-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-10-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-11-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06-12-2012,AQS,60531003,1,0.023,ppm,21,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/13/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/14/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/15/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/16/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/17/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/18/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/19/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/20/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/21/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/22/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/23/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/24/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/25/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/26/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/27/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/28/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/29/2012,AQS,60531003,1,0.021,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+06/30/2012,AQS,60531003,1,0.017,ppm,16,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-01-2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-02-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-03-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-04-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-05-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-06-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-07-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-08-2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-09-2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-10-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-11-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07-12-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/13/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/14/2012,AQS,60531003,1,0.025,ppm,23,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/15/2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/16/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/17/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/18/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/19/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/20/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/21/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/22/2012,AQS,60531003,1,0.024,ppm,22,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/23/2012,AQS,60531003,1,0.025,ppm,23,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/24/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/25/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/26/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/27/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/28/2012,AQS,60531003,1,0.018,ppm,17,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/29/2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/30/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+07/31/2012,AQS,60531003,1,0.025,ppm,23,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-01-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-02-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-03-2012,AQS,60531003,1,0.021,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-04-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-05-2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-06-2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-07-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-08-2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-09-2012,AQS,60531003,1,0.023,ppm,21,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-10-2012,AQS,60531003,1,0.024,ppm,22,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-11-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08-12-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/13/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/14/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/15/2012,AQS,60531003,1,0.044,ppm,41,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/16/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/17/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/18/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/19/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/20/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/21/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/22/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/23/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/24/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/25/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/26/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/27/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/28/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/29/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/30/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+08/31/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-01-2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-02-2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-03-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-04-2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-05-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-06-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-07-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-08-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-09-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-10-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-11-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09-12-2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/13/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/14/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/15/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/16/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/17/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/18/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/19/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/20/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/22/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/23/2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/24/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/25/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/26/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/27/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/28/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/29/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+09/30/2012,AQS,60531003,1,0.042,ppm,39,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-01-2012,AQS,60531003,1,0.049,ppm,45,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-02-2012,AQS,60531003,1,0.055,ppm,51,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-03-2012,AQS,60531003,1,0.041,ppm,38,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-04-2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-05-2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-06-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-07-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-08-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-09-2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-10-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-11-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10-12-2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/13/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/14/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/15/2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/16/2012,AQS,60531003,1,0.02,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/17/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/18/2012,AQS,60531003,1,0.052,ppm,48,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/19/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/20/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/21/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/22/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/23/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/24/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/25/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+10/26/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-01-2012,AQS,60531003,1,0.02,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-02-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-03-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-04-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-05-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-06-2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-07-2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-08-2012,AQS,60531003,1,0.043,ppm,40,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-09-2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-10-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-11-2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11-12-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/13/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/14/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/15/2012,AQS,60531003,1,0.038,ppm,35,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/16/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/17/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/18/2012,AQS,60531003,1,0.04,ppm,37,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/19/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/20/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/21/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/22/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/23/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/24/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/25/2012,AQS,60531003,1,0.023,ppm,21,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/26/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/27/2012,AQS,60531003,1,0.033,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/28/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/29/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+11/30/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-01-2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-02-2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-03-2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-04-2012,AQS,60531003,1,0.023,ppm,21,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-05-2012,AQS,60531003,1,0.017,ppm,16,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-06-2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-07-2012,AQS,60531003,1,0.02,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-08-2012,AQS,60531003,1,0.02,ppm,19,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-09-2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-10-2012,AQS,60531003,1,0.026,ppm,24,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-11-2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12-12-2012,AQS,60531003,1,0.039,ppm,36,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/13/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/14/2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/15/2012,AQS,60531003,1,0.027,ppm,25,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/16/2012,AQS,60531003,1,0.03,ppm,28,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/17/2012,AQS,60531003,1,0.031,ppm,29,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/18/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/19/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/20/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/21/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/22/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/23/2012,AQS,60531003,1,0.035,ppm,32,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/24/2012,AQS,60531003,1,0.036,ppm,33,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/25/2012,AQS,60531003,1,0.032,ppm,30,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/26/2012,AQS,60531003,1,0.037,ppm,34,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/27/2012,AQS,60531003,1,0.034,ppm,31,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/28/2012,AQS,60531003,1,0.022,ppm,20,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/29/2012,AQS,60531003,1,0.028,ppm,26,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
+12/30/2012,AQS,60531003,1,0.029,ppm,27,Salinas 3,17,100,44201,Ozone,41500,"Salinas, CA",6,California,53,Monterey,36.694261,-121.623271
